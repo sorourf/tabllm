@@ -1,0 +1,1401 @@
+college_name,stream,year_of_study,ai_tools_used,daily_usage_hours,use_cases,trust_in_ai_tools,do_professors_allow_use,preferred_ai_tool,awareness_level,willing_to_pay_for_access,state,device_used,internet_access,impact_on_grades_binary
+"ICFAI University, Raipur ",Engineering,2,"Gemini, Midjourney",3.5,Content Writing,5,Yes,Gemini,9,No,Chhattisgarh,Laptop,High,1
+"Dr VRK Women's Medical College, Hyderabad ",Medical,4,Gemini,3.3,"Assignments, Resume Writing",4,Yes,Claude,8,Yes,Telangana,Mobile,Medium,1
+"Lady Keane College, Shillong ",Management,1,Gemini,1.2,Assignments,3,Yes,Other,1,Yes,Meghalaya,Mobile,Poor,0
+"Gurugram University, Gurgaon ",Arts,1,Copilot,1.0,Content Writing,2,No,Copilot,10,Yes,Haryana,Mobile,High,1
+"SASTRA University, Thanjavur ",Engineering,4,Gemini,3.4,"MCQ Practice, Projects",4,Yes,Copilot,1,Yes,Tamil nadu,Tablet,High,0
+Nehru College of Engineering and Research Centre ,Management,2,Gemini,1.9,"Doubt Solving, Resume Writing",3,No,Gemini,10,Yes,Kerala,Laptop,Medium,1
+"Kolhan University, Chaibasa ",Law,3,Copilot,4.0,Learning new topics,4,No,Copilot,10,Yes,Jharkhand,Mobile,High,1
+Dayananda Sagar College of Mangaement and Information ,Management,2,Other,2.4,"Exam Preparation, Resume Writing",2,Yes,Gemini,10,No,Karnataka,Mobile,Poor,0
+"Jettwings Group of Institutes, Guwahati ",Hotel-management,4,Copilot,3.0,Exam Preparation,1,Yes,ChatGPT,5,No,Assam,Mobile,Medium,0
+Mediciti Institute of Medical Sciences ,Medical,1,Bard,3.8,"Resume Writing, Assignments",3,No,Other,3,Yes,Telangana,Tablet,Medium,1
+Sri Vasavi Engineering College ,Engineering,4,Bard,4.6,Content Writing,4,No,Claude,3,No,Andhra pradesh,Laptop,Medium,1
+Institute of Science and Management ,Agriculture,4,Copilot,2.6,"MCQ Practice, Projects",4,No,Copilot,9,No,Jharkhand,Tablet,High,1
+Indian Institute of Technology ,Arts,4,ChatGPT,2.1,Learning new topics,3,No,Gemini,10,Yes,Orissa,Tablet,Medium,1
+"MotherHood University, Roorkee ",Science,1,Claude,2.5,"Assignments, Exam Preparation",5,No,Gemini,5,Yes,Uttarakhand,Tablet,Medium,0
+International Institute of Information Technology ,Engineering,3,Gemini,1.9,"Coding Help, Doubt Solving, Learning new topics",5,No,Gemini,5,Yes,Orissa,Laptop,Poor,1
+IAS Academy ,Medical,3,Gemini,4.1,"Doubt Solving, Resume Writing",3,No,Copilot,9,Yes,West bengal,Mobile,High,0
+Mehr Chand Mahajan Dayanand Anglo Vedic College ,Management,4,Claude,0.5,"Content Writing, Doubt Solving",1,No,Gemini,3,No,Chandigarh,Tablet,High,0
+"Vanijya Mahavidhyalaya, Patna ",Management,4,"ChatGPT, Copilot",2.3,Content Writing,1,No,ChatGPT,10,No,Bihar,Tablet,High,0
+"Merit Swiss Asian School of Hotel Management, ",Hotel-management,3,Claude,1.1,"Doubt Solving, Coding Help",3,No,ChatGPT,5,Yes,Tamil nadu,Mobile,High,0
+Mount Carmel College ,Commerce,4,Bard,1.5,"Resume Writing, Assignments",1,No,Copilot,3,Yes,Karnataka,Laptop,Poor,1
+"Bir Tikendrajit University, Imphal ",Agriculture,4,Copilot,1.6,Coding Help,2,No,Claude,2,Yes,Manipur,Tablet,Poor,0
+Guru Jambheshwar University of Science and Technology ,Pharmacy,1,"ChatGPT, Copilot",3.6,Content Writing,4,Yes,Other,9,Yes,Haryana,Laptop,High,1
+"Kapol Vidyanidhi College of Management and Technology, ",Hotel-management,2,ChatGPT,2.3,"Doubt Solving, Resume Writing",3,Yes,Gemini,10,No,Maharashtra,Laptop,Poor,0
+"SRM University Delhi NCR, Sonepat ",Management,4,ChatGPT,0.6,"Doubt Solving, Coding Help",5,No,Claude,1,No,Haryana,Laptop,Medium,1
+Manav Rachna International Institute of Research and ,Engineering,1,Claude,0.6,"Resume Writing, Doubt Solving",4,No,Claude,7,No,Haryana,Mobile,High,1
+"Government Law College, Tiruchirappalli ",Law,4,Copilot,4.5,"Exam Prep, Notes",3,Yes,ChatGPT,3,No,Tamil nadu,Laptop,Poor,0
+"Adwaita Malla Barman Smriti Mahavidyalaya (AMBS), Amarpur ",Arts,4,Gemini,2.6,Project Work,2,Yes,ChatGPT,5,Yes,Tripura,Laptop,High,1
+PVKN Govt Degree College ,Science,4,Gemini,3.2,Content Writing,5,No,Gemini,9,No,Andhra pradesh,Tablet,High,1
+"CMJ University, Ri-Bhoi ",Hotel-management,1,Copilot,1.5,"Project Work, Doubt Solving, MCQ Practice",1,No,Claude,4,Yes,Meghalaya,Mobile,Poor,0
+"CMJ University, Ri-Bhoi ",Management,2,"ChatGPT, Copilot",0.7,"Assignments, Coding Help",2,No,Gemini,2,No,Meghalaya,Laptop,Medium,0
+"Government DB Girl's Post Graduate College, Raipur ",Commerce,4,Copilot,0.9,"Learning new topics, Doubt Solving",5,Yes,ChatGPT,10,Yes,Chhattisgarh,Mobile,High,1
+Daulat Ram College ,Science,2,"ChatGPT, Gemini, Copilot",3.4,"Assignments, Coding Help",2,Yes,Gemini,3,No,Delhi ncr,Laptop,Poor,1
+"Ahmedabad Management Association, Ahmedabad ",Commerce,4,Other,1.6,"MCQ Practice, Project Work",4,Yes,Claude,10,Yes,Gujarat,Tablet,Medium,0
+Centurion University of Technology and Management ,Arts,3,ChatGPT,2.9,"MCQ Practice, Projects",4,No,Copilot,1,No,Andhra pradesh,Tablet,Poor,0
+Jayoti Vidyapeeth Women's University ,Agriculture,2,Bard,4.3,"Learning new topics, Resume Writing",4,Yes,Gemini,6,Yes,Rajasthan,Laptop,Poor,1
+Virudhunagar Hindu Nadar's Senthikumara Nadar College ,Commerce,1,Copilot,3.2,Project Work,3,Yes,Claude,3,Yes,Tamil nadu,Mobile,Medium,1
+Netaji Subhas University ,Management,2,Copilot,2.6,Learning new topics,1,Yes,ChatGPT,5,No,Jharkhand,Mobile,Medium,1
+"Tagore Government College of Education, Port Blair ",Arts,2,Bard,1.5,"Exam Preparation, Assignments, Resume Writing",5,Yes,Copilot,3,Yes,Andaman,Mobile,Medium,0
+Baba Kundan Singh Memorial Law College ,Law,4,"ChatGPT, Gemini, Copilot",3.7,Learning new topics,4,Yes,Other,4,No,Punjab,Tablet,Poor,0
+"Adwaita Malla Barman Smriti Mahavidyalaya (AMBS), Amarpur ",Arts,4,ChatGPT,4.7,"MCQ Practice, Assignments, Content Writing",1,No,Copilot,4,No,Tripura,Mobile,High,1
+Institute of Medical Sciences and SUM Hospital ,Medical,2,ChatGPT,1.3,"Assignments, Coding Help",3,Yes,ChatGPT,8,No,Orissa,Laptop,High,0
+"ICFAI University, Raipur ",Management,1,Bard,4.6,Doubt Solving,2,No,Bard,8,No,Chhattisgarh,Tablet,High,0
+"DY Patil University, Navi Mumbai ",Law,3,Gemini,3.7,Coding Help,2,Yes,Other,4,Yes,Maharashtra,Mobile,Poor,0
+Eastern Institute for Integrated Learning In Management ,Science,3,Claude,2.6,"Exam Preparation, Coding Help, Assignments",2,No,Claude,4,Yes,West bengal,Laptop,High,0
+"Government DB Girl's Post Graduate College, Raipur ",Commerce,4,Other,2.6,"Learning new topics, Exam Preparation",5,No,Claude,9,Yes,Chhattisgarh,Laptop,High,0
+Indian School of Business Management and Administration ,Management,2,Other,3.8,"Exam Preparation, Doubt Solving",3,No,Bard,2,Yes,Gujarat,Tablet,Medium,0
+Nehru Arts and Science College ,Agriculture,4,Other,3.3,"Resume Writing, Assignments",2,Yes,Gemini,9,No,Kerala,Laptop,Poor,0
+Sri Satya Sai University of Technology & ,Hotel-management,2,"Gemini, Midjourney",3.7,"Doubt Solving, Resume Writing",1,No,Copilot,4,No,Madhya pradesh,Mobile,Medium,0
+"Jorhat Law College, Jorhat ",Law,4,"Gemini, Midjourney",1.4,"Assignments, Coding Help",3,No,Copilot,5,Yes,Assam,Tablet,Poor,1
+"Shri Narayan Prasad Awasthi Government Ayurved College, ",Medical,3,ChatGPT,2.0,Content Writing,4,Yes,Copilot,4,Yes,Chhattisgarh,Mobile,Medium,1
+Amity Business School ,Management,1,Gemini,1.3,"Content Writing, MCQ Practice, Doubt Solving",2,Yes,Copilot,2,Yes,Uttar pradesh,Mobile,High,0
+"University Institute of Technology, Rajiv Gandhi Proudyogiki ",Engineering,4,Claude,2.2,"Resume Writing, Coding Help, MCQ Practice",1,Yes,Copilot,9,Yes,Madhya pradesh,Tablet,High,0
+"Poddar Group of Institutions, Jaipur ",Science,4,Gemini,2.0,"MCQ Practice, Projects",2,No,Other,10,No,Rajasthan,Tablet,Poor,0
+Indian Institute of Sugarcane Research ,Science,1,Copilot,1.7,"Learning new topics, Coding Help, Assignments",1,No,Bard,1,Yes,Uttar pradesh,Laptop,Poor,1
+Horticultural College and Research Institute ,Agriculture,1,"ChatGPT, Gemini, Copilot",1.6,"Exam Prep, Notes",3,No,Other,7,No,Tamil nadu,Mobile,Medium,1
+"University School of Open Learning, Panjab University ",Management,1,"ChatGPT, Copilot",0.7,Learning new topics,1,Yes,Other,8,Yes,Chandigarh,Laptop,Medium,1
+"Institute of Media Management , Technology & ",Commerce,2,"ChatGPT, Copilot",2.0,"Assignments, Coding Help",4,Yes,Copilot,5,Yes,Uttarakhand,Tablet,Medium,0
+"St.Joseph University, Dimapur ",Science,3,ChatGPT,3.9,"Exam Prep, Notes",2,Yes,Copilot,2,Yes,Nagaland,Mobile,Medium,1
+"Pragjyotish College, Guwahati ",Engineering,3,Bard,2.0,"Resume Writing, Assignments, Exam Preparation",5,No,Gemini,5,Yes,Assam,Tablet,High,1
+"Periyar University, Salem ",Law,1,"Gemini, Midjourney",1.1,"MCQ Practice, Projects",5,No,Other,2,No,Tamil nadu,Laptop,High,0
+Rabindranath Tagore University ,Science,4,ChatGPT,2.4,"Project Work, Learning new topics",1,Yes,Gemini,4,No,Madhya pradesh,Tablet,Medium,1
+Indian Institute of Fashion & Design ,Arts,3,Claude,1.3,"Content Writing, Project Work, Coding Help",5,Yes,Bard,7,Yes,Chandigarh,Tablet,Medium,0
+Panjab University ,Agriculture,3,ChatGPT,2.3,Project Work,2,No,Claude,10,Yes,Chandigarh,Mobile,High,0
+University College of Medical Sciences ,Medical,3,ChatGPT,1.1,"Doubt Solving, Coding Help",1,No,Copilot,9,No,Delhi ncr,Laptop,Medium,1
+St. Joseph's College of Commerce ,Commerce,4,Claude,1.3,Learning new topics,2,No,Copilot,8,Yes,Karnataka,Tablet,Poor,1
+Baba Ghulam Shah Badshah University ,Engineering,1,Gemini,0.9,"Doubt Solving, Resume Writing",1,No,Other,2,Yes,Jammu,Tablet,Poor,0
+Nirma University ,Commerce,3,Other,4.6,Learning new topics,3,No,Bard,3,No,Gujarat,Laptop,Medium,0
+"Mithibai College of Arts, Mumbai ",Commerce,3,Claude,2.0,"Doubt Solving, Project Work, Resume Writing",3,No,Gemini,3,Yes,Maharashtra,Tablet,Medium,1
+"Lachoo Memorial College Science and Technology, Jodhpur ",Science,1,"Gemini, Midjourney",3.6,"Assignments, Coding Help",5,No,Gemini,3,Yes,Rajasthan,Mobile,High,1
+Central University of Jharkhand ,Management,4,Claude,0.7,"Assignments, Coding Help",4,No,ChatGPT,10,Yes,Jharkhand,Laptop,Medium,1
+Institute of Pharmacy ,Pharmacy,4,Copilot,3.1,"Exam Prep, Notes",5,Yes,ChatGPT,1,Yes,West bengal,Laptop,Medium,1
+"Amity University, Raipur ",Science,4,Other,4.0,Learning new topics,2,No,Gemini,6,No,Chhattisgarh,Tablet,Medium,0
+"KVASU, College of Veterinary and Animal Sciences ",Agriculture,1,"Gemini, Midjourney",2.0,"Assignments, Coding Help",1,No,ChatGPT,10,No,Kerala,Tablet,Medium,0
+"AVVM Sri Pushpam College, Thanjavur ",Law,4,Copilot,1.0,Content Writing,5,Yes,Gemini,6,No,Tamil nadu,Tablet,High,1
+"Besant Theosophical College, Madanapalle ",Agriculture,1,"ChatGPT, Copilot",1.0,"Assignments, Coding Help",3,Yes,Copilot,7,No,Andhra pradesh,Mobile,Poor,0
+"Indian Institute of Oilseeds Research, Hyderabad ",Agriculture,2,Gemini,1.8,"Project Work, Learning new topics",3,No,Gemini,2,No,Telangana,Mobile,Medium,1
+Ewing Christian College ,Commerce,1,ChatGPT,3.4,"MCQ Practice, Project Work",3,No,ChatGPT,2,Yes,Uttar pradesh,Tablet,High,1
+"Lachoo Memorial College Science and Technology, Jodhpur ",Science,1,"ChatGPT, Gemini, Copilot",3.9,"Doubt Solving, Resume Writing",1,Yes,Copilot,3,Yes,Rajasthan,Mobile,Medium,1
+"Alliance University, Bangalore ",Law,2,Copilot,0.9,"Assignments, Project Work, Resume Writing",1,No,Other,3,Yes,Karnataka,Laptop,Medium,1
+"Govt Engineering College, Bilaspur ",Engineering,3,ChatGPT,3.2,"Doubt Solving, Resume Writing",1,No,Copilot,10,Yes,Chhattisgarh,Laptop,Medium,1
+"Integral University, Lucknow ",Medical,2,Other,1.5,"Coding Help, Assignments, Exam Preparation",4,No,Bard,8,No,Uttar pradesh,Tablet,Medium,1
+Ramchandra Chandravansi University ,Medical,4,Gemini,2.9,"Exam Preparation, MCQ Practice, Project Work",4,Yes,ChatGPT,2,Yes,Jharkhand,Laptop,Poor,1
+Om Sterling Global University ,Agriculture,2,"ChatGPT, Copilot",3.1,Content Writing,4,Yes,ChatGPT,2,No,Haryana,Mobile,High,1
+Panjab University ,Agriculture,2,Other,2.1,Resume Writing,3,No,Copilot,3,Yes,Haryana,Tablet,High,1
+"College of Agricultural Biotechnology, Pune ",Agriculture,2,Copilot,1.2,"Doubt Solving, Resume Writing",5,Yes,Gemini,10,Yes,Maharashtra,Mobile,Medium,1
+AAFT University of Media and Arts ,Engineering,1,Claude,1.4,"Learning new topics, Coding Help",1,Yes,Bard,3,No,Chhattisgarh,Laptop,High,0
+Tilka Manjhi Bhagalpur University ,Commerce,3,"ChatGPT, Gemini, Copilot",2.2,Content Writing,5,No,Copilot,7,No,Bihar,Laptop,Poor,1
+Swami Rama Himalayan University ,Medical,2,Gemini,4.0,Content Writing,3,No,Other,6,No,Uttarakhand,Tablet,Medium,1
+RV Institute of Management ,Management,1,Copilot,4.2,Exam Preparation,5,Yes,ChatGPT,2,Yes,Karnataka,Tablet,Medium,0
+Lady Shri Ram College for Women ,Science,3,Copilot,3.2,Learning new topics,3,Yes,Gemini,4,Yes,Delhi ncr,Tablet,Medium,0
+"Newman College, Thodupuzha ",Science,3,"ChatGPT, Copilot",2.1,"Exam Prep, Notes",4,Yes,ChatGPT,6,No,Kerala,Mobile,Poor,0
+Bihar Institute of law ,Law,1,ChatGPT,3.7,Learning new topics,2,Yes,Gemini,7,Yes,Bihar,Laptop,Poor,1
+"ICFAI University, Gangtok ",Arts,3,ChatGPT,1.5,"Learning new topics, Content Writing",3,No,Claude,8,No,Sikkim,Mobile,Poor,0
+Mahe Co-operative Centre for Information Technology ,Management,4,Gemini,3.3,Content Writing,5,Yes,Gemini,2,No,Puducherry,Mobile,Medium,0
+Pramukhswami Medical College ,Science,2,"ChatGPT, Gemini, Copilot",2.9,Learning new topics,2,Yes,Gemini,3,Yes,Gujarat,Laptop,High,1
+Dolphin PG Institute of BioMedical & Natural ,Commerce,2,ChatGPT,3.7,MCQ Practice,4,Yes,Copilot,4,No,Uttarakhand,Laptop,Medium,1
+"Presidency College of Education and Technology, Meerut ",Science,1,ChatGPT,1.0,Learning new topics,2,No,Copilot,5,Yes,Uttar pradesh,Laptop,Poor,1
+"Shillong Polytechnic, Mawlai ",Engineering,2,Other,2.9,"Exam Preparation, Project Work, Content Writing",5,No,Claude,9,Yes,Meghalaya,Mobile,Poor,0
+"Assam Institute of Management- [ AIM ], ",Management,3,Claude,3.1,"Exam Preparation, Doubt Solving, MCQ Practice",4,Yes,ChatGPT,7,No,Assam,Mobile,Medium,0
+Royal Global University ,Science,3,ChatGPT,2.6,"Assignments, Coding Help",1,Yes,Copilot,8,Yes,Assam,Laptop,Medium,0
+Visvesvaraya National Institute of Technology ,Science,1,"ChatGPT, Gemini, Copilot",1.4,Learning new topics,5,Yes,Gemini,6,Yes,Maharashtra,Tablet,Poor,0
+Bhabha University ,Agriculture,2,Gemini,3.2,"Doubt Solving, Resume Writing",5,Yes,Other,4,Yes,Madhya pradesh,Mobile,Poor,0
+"Rajeev Gandhi College, Bhopal ",Medical,3,"ChatGPT, Copilot",1.1,"Doubt Solving, Resume Writing",2,Yes,Copilot,8,Yes,Madhya pradesh,Mobile,Poor,1
+Indus Institute of Hotel Management ,Hotel-management,2,Gemini,0.7,"Project Work, Exam Preparation, Doubt Solving",5,Yes,Gemini,7,No,Andhra pradesh,Laptop,Poor,1
+Siksha 'O' Anusandhan University ,Science,2,Copilot,4.0,"Assignments, Coding Help",2,Yes,ChatGPT,2,No,Orissa,Tablet,Medium,1
+Kerala University ,Law,1,Copilot,1.7,"MCQ Practice, Projects",5,Yes,Gemini,5,No,Kerala,Mobile,High,0
+"KLE University's College of Pharmacy, Belgaum ",Pharmacy,1,"Gemini, Midjourney",2.5,Content Writing,3,Yes,ChatGPT,1,No,Karnataka,Mobile,Poor,0
+Cluster University of Srinagar ,Engineering,4,Other,0.5,Resume Writing,1,Yes,Copilot,7,Yes,Jammu,Laptop,High,1
+BML Munjal University ,Arts,1,Bard,2.7,Content Writing,1,Yes,Claude,9,Yes,Haryana,Tablet,High,0
+"SPC Education Center, Jaipur ",Arts,2,Bard,2.9,Project Work,5,No,ChatGPT,9,No,Rajasthan,Mobile,High,1
+"SR University, Warangal ",Commerce,3,Gemini,0.7,"MCQ Practice, Projects",3,Yes,Other,5,No,Telangana,Mobile,High,0
+Vasantrao Naik Marathwada Krishi Vidyapeeth ,Agriculture,4,Bard,1.3,"Coding Help, Resume Writing",5,No,Bard,6,Yes,Maharashtra,Laptop,Medium,1
+"Christ College, Bastar ",Arts,4,ChatGPT,0.8,Learning new topics,4,Yes,Copilot,6,Yes,Chhattisgarh,Tablet,Poor,1
+HEC Group of Institutions ,Hotel-management,2,Copilot,0.9,"Learning new topics, Coding Help, Content Writing",2,No,Copilot,4,No,Uttarakhand,Mobile,Medium,1
+"St Teresa's College (Autonomous), Ernakulam ",Commerce,2,"ChatGPT, Copilot",3.5,Content Writing,3,Yes,ChatGPT,7,Yes,Kerala,Tablet,Poor,1
+"St. Xavier's College, Mumbai ",Law,2,Gemini,3.1,"MCQ Practice, Projects",4,Yes,Gemini,4,Yes,Maharashtra,Mobile,Medium,0
+"Modern Group Of Colleges- [MGC], Hoshiarpur ",Agriculture,2,Bard,1.5,Assignments,2,Yes,Copilot,2,Yes,Punjab,Laptop,Medium,0
+"Govt Engineering College, Bilaspur ",Engineering,2,Copilot,4.4,"Assignments, Coding Help",5,Yes,ChatGPT,4,No,Chhattisgarh,Mobile,High,0
+"Dev Samaj College for Women, Chandigarh ",Arts,4,Copilot,4.1,"Exam Prep, Notes",1,Yes,ChatGPT,8,Yes,Chandigarh,Mobile,Poor,1
+"D.R. Nayapalli College, Bhubaneswar ",Arts,4,Copilot,2.1,"MCQ Practice, Coding Help, Resume Writing",5,Yes,Copilot,8,No,Orissa,Laptop,Medium,0
+"Ahmedabad Management Association, Ahmedabad ",Management,2,Gemini,0.6,Learning new topics,4,No,Gemini,7,No,Gujarat,Mobile,Poor,1
+RK University ,Agriculture,2,Claude,0.8,"Content Writing, Learning new topics",4,No,Claude,7,No,Gujarat,Mobile,Poor,1
+"Vinayakrao Patil Mahavidyalaya, Aurangabad ",Arts,2,"Gemini, Midjourney",1.5,Learning new topics,2,No,ChatGPT,9,No,Maharashtra,Tablet,High,1
+"Faculty of Law, Banaras Hindu University, Varanasi ",Law,4,Gemini,4.3,"Content Writing, MCQ Practice",1,Yes,Other,8,Yes,Uttar pradesh,Tablet,Medium,1
+"Gurukul Vidyapeeth, Chandigarh ",Management,4,ChatGPT,2.5,"Assignments, Coding Help",5,No,Other,8,Yes,Chandigarh,Tablet,Medium,1
+"Tula's Institute, Dehradun ",Engineering,3,Bard,3.8,Project Work,5,No,Bard,2,No,Uttarakhand,Laptop,High,0
+Pt Bhagwat Dayal Sharma Post Graduate Institute ,Medical,3,Gemini,0.5,"MCQ Practice, Projects",1,No,Copilot,1,No,Delhi ncr,Laptop,Medium,0
+Malla Reddy Engineering College ,Engineering,4,Other,1.5,"Assignments, Content Writing, MCQ Practice",4,Yes,Bard,4,Yes,Telangana,Tablet,Medium,0
+"Idhaya Arts and Science College for Women, Pondicherry ",Arts,3,Other,0.9,"Content Writing, Assignments, Project Work",3,Yes,Other,7,Yes,Puducherry,Tablet,High,0
+"Assam Medical College, Dibrugarh ",Medical,3,Bard,4.1,"Exam Preparation, Doubt Solving, MCQ Practice",5,No,Gemini,2,Yes,Assam,Laptop,Medium,0
+International School of Hospitality Management ,Hotel-management,2,Copilot,0.5,"Doubt Solving, Resume Writing",4,Yes,Gemini,8,Yes,West bengal,Mobile,Poor,0
+Anderson Theological College ,Arts,1,Copilot,0.9,"Content Writing, MCQ Practice, Learning new topics",5,No,Other,6,No,Nagaland,Tablet,Poor,0
+Maulana Azad National Institute of Technology ,Engineering,3,Copilot,1.6,"Assignments, MCQ Practice, Project Work",2,No,Bard,6,No,Madhya pradesh,Laptop,Poor,1
+Ganpat University ,Engineering,3,Copilot,2.4,Content Writing,1,Yes,Copilot,5,Yes,Gujarat,Tablet,High,0
+"Sri Guru Gobind Singh College of Pharmacy, ",Pharmacy,3,Gemini,1.3,Project Work,5,Yes,Bard,6,No,Punjab,Tablet,High,0
+Himgiri Zee University ,Hotel-management,3,"ChatGPT, Gemini, Copilot",0.9,"MCQ Practice, Projects",2,Yes,ChatGPT,10,No,Uttarakhand,Mobile,Poor,0
+Shivalik Institute of Paramedical Technology ,Medical,1,"ChatGPT, Gemini, Copilot",2.2,"Assignments, Coding Help",1,Yes,Other,2,No,Chandigarh,Mobile,Medium,0
+Imperial School of Agri Business ,Agriculture,2,Other,3.8,"Project Work, MCQ Practice",3,No,Other,4,Yes,Delhi ncr,Laptop,High,0
+Indian Institute of Space Science and Technology ,Engineering,3,"Gemini, Midjourney",3.4,"MCQ Practice, Projects",2,No,Other,7,No,Kerala,Laptop,Medium,0
+Army Institute of Fashion and Design ,Science,1,ChatGPT,0.8,"Exam Prep, Notes",3,No,Gemini,10,Yes,Karnataka,Mobile,Poor,1
+Rajeev Gandhi Memorial College of Engineering and ,Science,3,Other,3.1,"Learning new topics, Doubt Solving, MCQ Practice",2,No,Gemini,4,No,Andhra pradesh,Laptop,Medium,0
+Radha Krishan Institute of Technology & Management ,Hotel-management,4,Copilot,3.3,"Doubt Solving, Resume Writing",5,Yes,Other,5,Yes,Madhya pradesh,Laptop,Medium,0
+Model Institute of Engineering and Technology ,Commerce,3,Copilot,1.1,Content Writing,5,Yes,Other,9,Yes,Jammu,Tablet,Medium,1
+"The National Degree College, Bangalore ",Commerce,4,ChatGPT,4.4,"Learning new topics, Coding Help",4,Yes,ChatGPT,7,Yes,Karnataka,Mobile,High,1
+"Kalasalingam Academy of Research and Education, Krishnankovil ",Hotel-management,3,ChatGPT,2.2,Learning new topics,4,No,Copilot,7,Yes,Tamil nadu,Mobile,Poor,0
+"AP Goyal Shimla University, Shimla ",Arts,4,Bard,1.8,"Doubt Solving, MCQ Practice",4,No,Other,7,Yes,Himachal pradesh,Tablet,High,0
+"Government Degree College, Baramulla ",Commerce,4,"ChatGPT, Copilot",3.0,"Assignments, Coding Help",5,No,Gemini,4,No,Jammu,Laptop,Poor,0
+Amritsar Group of Colleges ,Agriculture,4,Copilot,3.6,Exam Preparation,1,No,Gemini,10,No,Punjab,Tablet,Medium,0
+Indian School of Business Management and Administration ,Hotel-management,3,Gemini,1.3,"MCQ Practice, Projects",3,Yes,Gemini,6,Yes,Karnataka,Laptop,Poor,1
+"Loyola College, Chennai ",Agriculture,4,Bard,1.8,"Exam Preparation, MCQ Practice, Content Writing",2,No,Copilot,8,Yes,Tamil nadu,Tablet,Poor,1
+Osmania University ,Science,1,Copilot,0.8,"MCQ Practice, Projects",4,Yes,ChatGPT,7,No,Telangana,Mobile,Poor,1
+National Institute of Technology ,Science,2,"ChatGPT, Gemini, Copilot",1.9,"MCQ Practice, Projects",5,No,ChatGPT,8,Yes,Jammu,Mobile,High,0
+Indira Gandhi National Open University ,Law,1,Gemini,2.4,"Content Writing, Doubt Solving, Project Work",5,No,Bard,5,Yes,Delhi ncr,Mobile,Poor,1
+"BH College, Barpeta ",Science,3,"Gemini, Midjourney",3.0,"Exam Prep, Notes",2,Yes,Other,5,No,Assam,Mobile,High,0
+"SEM College, Budgam ",Management,4,Gemini,2.8,"Doubt Solving, Resume Writing",2,No,Other,5,No,Jammu,Mobile,Poor,0
+Mahatma Gandhi University ,Science,3,ChatGPT,4.3,Learning new topics,4,Yes,Gemini,10,No,Kerala,Mobile,Poor,1
+Dinabandhu Andrews College ,Commerce,4,"Gemini, Midjourney",3.6,"Exam Prep, Notes",1,No,ChatGPT,10,Yes,West bengal,Mobile,Medium,0
+"Government Home Science College, Chandigarh ",Science,2,"ChatGPT, Gemini, Copilot",0.8,"Assignments, Coding Help",1,No,Copilot,3,Yes,Haryana,Tablet,Medium,1
+"St Bede's College, Shimla ",Management,4,Gemini,4.2,Content Writing,3,Yes,Copilot,7,Yes,Himachal pradesh,Tablet,Poor,0
+Institute of Hotel Management Catering Technology and ,Hotel-management,2,Copilot,1.9,"Assignments, Coding Help",5,Yes,ChatGPT,10,No,Maharashtra,Mobile,Poor,1
+"Government Polytechnic Roing, Roing ",Engineering,4,Claude,2.9,Exam Preparation,2,No,Claude,7,No,Arunachal pradesh,Mobile,High,0
+National University of Advanced Legal Studies ,Law,4,"ChatGPT, Copilot",4.5,"Exam Prep, Notes",3,Yes,ChatGPT,3,Yes,Kerala,Mobile,Poor,0
+Manav Bharti University ,Science,2,"Gemini, Midjourney",1.6,Content Writing,1,Yes,Copilot,1,No,Himachal pradesh,Laptop,Medium,1
+Indian Institute of Technology ,Science,4,Copilot,1.5,"Exam Preparation, Coding Help",2,No,ChatGPT,6,Yes,Jammu,Tablet,Medium,1
+Panjab University ,Hotel-management,3,Gemini,3.5,"Learning new topics, MCQ Practice",4,No,ChatGPT,3,Yes,Chandigarh,Tablet,Poor,1
+"Pacific University, Udaipur ",Medical,4,"ChatGPT, Gemini, Copilot",1.2,Content Writing,2,Yes,ChatGPT,1,No,Rajasthan,Tablet,High,1
+"Lilong Haoreibi College, Imphal ",Science,3,Bard,2.3,"Doubt Solving, Learning new topics, MCQ Practice",1,Yes,Copilot,7,Yes,Manipur,Laptop,Medium,0
+"Presidency University, School of Management, Bangalore ",Management,2,ChatGPT,1.9,"Project Work, Resume Writing, Exam Preparation",1,Yes,Gemini,8,No,Karnataka,Tablet,Poor,1
+"GGDSD College, Palampur ",Arts,3,"ChatGPT, Copilot",3.2,"Exam Prep, Notes",2,Yes,Copilot,5,No,Himachal pradesh,Mobile,High,1
+T John Institute of Management and Science ,Hotel-management,2,Copilot,1.9,"MCQ Practice, Exam Preparation",3,Yes,Claude,8,No,Karnataka,Mobile,Poor,1
+Techno Global University ,Management,3,ChatGPT,3.2,"Coding Help, Doubt Solving",3,No,ChatGPT,9,Yes,Meghalaya,Mobile,Medium,1
+"Sambalpur University, Sambalpur ",Law,1,Gemini,1.5,"Assignments, Project Work, Doubt Solving",4,No,Copilot,2,Yes,Orissa,Mobile,Poor,0
+Pondicherry University ,Law,1,Copilot,1.4,"MCQ Practice, Projects",1,No,Copilot,1,Yes,Puducherry,Laptop,Poor,1
+"Sumandeep Vidyapeeth, Vadodara ",Medical,3,Bard,4.5,Coding Help,4,No,ChatGPT,10,Yes,Gujarat,Mobile,High,1
+"PWS College of Arts & Commerce, Nagpur ",Arts,2,"ChatGPT, Copilot",3.6,"Assignments, Coding Help",1,No,ChatGPT,5,No,Maharashtra,Mobile,Poor,1
+Baba Balak Nath Post Graduate College ,Science,2,Other,1.2,"Doubt Solving, Learning new topics, MCQ Practice",2,No,Copilot,10,Yes,Himachal pradesh,Mobile,Poor,1
+"Shree Rayeshwar Institute of Engineering and Information Technology, North Goa ",Engineering,1,ChatGPT,2.8,"Content Writing, Assignments, Doubt Solving",3,Yes,Copilot,4,Yes,Goa,Laptop,Poor,1
+"Lady Keane College, Shillong ",Management,1,"Gemini, Midjourney",1.0,"Assignments, Coding Help",1,Yes,ChatGPT,2,No,Meghalaya,Laptop,Medium,0
+Acharya Nagarjuna University ,Law,4,Bard,3.0,"Content Writing, Exam Preparation",4,No,Other,7,Yes,Andhra pradesh,Mobile,High,1
+"Kalasalingam Academy of Research and Education, Krishnankovil ",Hotel-management,1,Copilot,1.3,Learning new topics,1,No,Copilot,7,Yes,Tamil nadu,Laptop,Poor,0
+SunRise University ,Pharmacy,2,Copilot,1.9,"Assignments, Coding Help",3,No,ChatGPT,7,Yes,Rajasthan,Tablet,Poor,0
+"ICFAI University, West Tripura ",Medical,2,"ChatGPT, Copilot",3.5,"Doubt Solving, Resume Writing",2,No,Copilot,4,No,Tripura,Laptop,Medium,1
+Baddi University of Emerging Sciences and Technologies ,Pharmacy,2,Claude,4.8,Doubt Solving,5,Yes,Claude,2,Yes,Himachal pradesh,Mobile,Poor,1
+People's Institute of Management & Research ,Management,1,"Gemini, Midjourney",1.0,Learning new topics,3,No,ChatGPT,8,No,Madhya pradesh,Tablet,Medium,0
+"RMD College of Agriculture and Research Station, ",Science,4,ChatGPT,0.9,Learning new topics,5,No,Other,8,No,Chhattisgarh,Tablet,Poor,0
+"Indira Gandhi College of Arts and Science, Pondicherry ",Commerce,2,Claude,3.8,"Project Work, MCQ Practice",4,Yes,Copilot,1,Yes,Puducherry,Laptop,High,0
+"Government Degree College, Kathua ",Arts,3,Copilot,4.0,Resume Writing,3,No,Gemini,10,Yes,Jammu,Tablet,Poor,0
+"The Modern College, Imphal ",Science,4,"Gemini, Midjourney",1.9,"Doubt Solving, Resume Writing",5,Yes,Copilot,5,No,Manipur,Mobile,Medium,1
+LM Thapar School of Management ,Science,2,Copilot,2.0,"Doubt Solving, Resume Writing",5,No,Gemini,9,Yes,Chandigarh,Tablet,High,0
+St. Xavier's University ,Commerce,2,Copilot,4.3,"Assignments, Learning new topics, Doubt Solving",4,Yes,Claude,9,Yes,West bengal,Laptop,High,0
+Goa Institute of Management ,Management,1,Copilot,3.2,"Doubt Solving, Resume Writing",3,Yes,Other,7,No,Goa,Mobile,Poor,0
+"School of Law, Christ University ",Law,1,"ChatGPT, Gemini, Copilot",3.5,Content Writing,3,Yes,ChatGPT,6,Yes,Karnataka,Tablet,Medium,1
+Calicut University ,Hotel-management,3,"ChatGPT, Copilot",3.4,Content Writing,3,No,ChatGPT,5,No,Kerala,Mobile,Poor,1
+Goswami Ganesh Dutt Sanatan Dharama College ,Science,3,Gemini,0.7,"Assignments, Coding Help",3,Yes,Gemini,9,No,Punjab,Tablet,High,1
+Indian Institute of Technology ,Science,2,Other,5.0,"Exam Preparation, Assignments",2,No,Copilot,4,No,Assam,Mobile,Medium,1
+Vidyasagar Institute of Management ,Management,1,Claude,4.7,Exam Preparation,5,Yes,Gemini,4,Yes,Madhya pradesh,Tablet,High,0
+"Government Champhai College, Champhai ",Arts,2,"ChatGPT, Copilot",3.0,"Doubt Solving, Resume Writing",4,No,Copilot,9,Yes,Mizoram,Tablet,Medium,1
+ICBM School of Business Excellence ,Management,1,"ChatGPT, Gemini, Copilot",2.6,Content Writing,5,Yes,Other,6,No,Telangana,Laptop,Medium,1
+Jayoti Vidyapeeth Women's University ,Arts,1,"Gemini, Midjourney",3.8,"MCQ Practice, Projects",1,Yes,Copilot,1,Yes,Rajasthan,Mobile,Medium,1
+Sri Sri University ,Law,3,"ChatGPT, Gemini, Copilot",2.7,"Assignments, Coding Help",1,No,Copilot,1,Yes,Orissa,Mobile,High,1
+I.K. Gujral Punjab Technical University ,Hotel-management,4,"ChatGPT, Gemini, Copilot",3.4,"Assignments, Coding Help",2,No,Copilot,6,No,Punjab,Mobile,High,1
+Oriental University ,Management,1,"Gemini, Midjourney",1.1,Learning new topics,1,Yes,ChatGPT,6,Yes,Madhya pradesh,Mobile,Poor,1
+Om Sterling Global University ,Agriculture,4,Gemini,4.8,"Doubt Solving, Content Writing",4,No,Bard,7,No,Haryana,Laptop,Medium,1
+Seth GS Medical College ,Pharmacy,3,Gemini,1.3,Resume Writing,3,Yes,ChatGPT,10,No,Maharashtra,Mobile,Medium,1
+"Dibrugarh University, Dibrugarh ",Science,1,Copilot,3.8,"Doubt Solving, Resume Writing",3,Yes,Other,9,Yes,Assam,Tablet,High,0
+"Institute of Hotel Management Shri Shakti- [IHM], ",Hotel-management,2,"Gemini, Midjourney",1.5,Learning new topics,4,No,ChatGPT,10,Yes,Telangana,Tablet,Medium,1
+Hyderabad School of Business ,Commerce,1,Other,1.2,Coding Help,4,No,Copilot,4,No,Telangana,Mobile,High,1
+Dolphin PG Institute of BioMedical & Natural ,Science,2,Copilot,3.6,"MCQ Practice, Projects",5,No,Gemini,1,No,Uttarakhand,Tablet,Poor,1
+Chitkara University ,Pharmacy,1,Other,4.6,"Learning new topics, Coding Help, Doubt Solving",3,No,Other,7,Yes,Punjab,Laptop,Medium,1
+Himalayan University ,Agriculture,3,Claude,4.5,"Resume Writing, Exam Preparation, Doubt Solving",1,Yes,Gemini,9,Yes,Arunachal pradesh,Laptop,Poor,1
+Modern Vidya Niketan ,Commerce,2,ChatGPT,1.3,"Assignments, Coding Help",4,Yes,Gemini,9,No,Haryana,Mobile,High,1
+"Rama University, Kanpur ",Law,2,ChatGPT,2.9,Resume Writing,4,Yes,Other,3,Yes,Uttar pradesh,Tablet,Medium,1
+Dasarath Deb Memorial College ,Commerce,2,Claude,4.0,"MCQ Practice, Content Writing, Assignments",2,Yes,Other,8,Yes,Tripura,Mobile,High,0
+Jharkhand Rai University ,Medical,2,ChatGPT,1.2,"Exam Prep, Notes",4,Yes,Other,7,Yes,Jharkhand,Laptop,Poor,0
+Amity Global Business School ,Management,2,ChatGPT,2.6,"Assignments, Coding Help",1,Yes,ChatGPT,9,No,Chandigarh,Tablet,Poor,1
+Birsa Agricultural University ,Agriculture,1,"ChatGPT, Gemini, Copilot",1.7,"Assignments, Coding Help",5,Yes,Gemini,5,No,Jharkhand,Tablet,High,0
+"IIHMR University, Jaipur ",Arts,1,"ChatGPT, Gemini, Copilot",3.0,Learning new topics,2,No,Copilot,9,Yes,Rajasthan,Laptop,Medium,0
+"CHM Institute of Hotel and Business Management, ",Hotel-management,2,"Gemini, Midjourney",1.6,"Exam Prep, Notes",3,No,Copilot,1,No,Uttar pradesh,Laptop,Medium,0
+"Elphinstone College, Mumbai ",Commerce,4,"Gemini, Midjourney",4.5,"Doubt Solving, Resume Writing",1,No,Gemini,9,Yes,Maharashtra,Tablet,Poor,1
+"Nirmala College Of Arts And Science, Chalakkudy, ",Hotel-management,2,ChatGPT,4.2,"Exam Prep, Notes",3,Yes,Copilot,7,No,Kerala,Tablet,Poor,1
+St. Thomas College of Engineering and Technology- ,Engineering,4,"ChatGPT, Gemini, Copilot",3.8,Learning new topics,5,Yes,Copilot,1,Yes,Kerala,Laptop,Poor,1
+"United College, Chandel ",Arts,2,ChatGPT,4.3,Content Writing,4,No,Copilot,1,Yes,Manipur,Mobile,Poor,0
+"Jagannath University, Jaipur ",Law,2,Claude,0.9,"Project Work, MCQ Practice, Learning new topics",1,No,ChatGPT,4,Yes,Rajasthan,Laptop,Poor,0
+Bharathiar University ,Medical,3,"Gemini, Midjourney",3.2,"Exam Prep, Notes",5,Yes,ChatGPT,6,No,Tamil nadu,Mobile,Medium,0
+"Techno India University, Kolkata ",Medical,4,Claude,4.1,"Resume Writing, Exam Preparation, Coding Help",4,No,Claude,7,Yes,West bengal,Tablet,Poor,1
+Sher-e-Kashmir University of Agricultural Sciences and Technology ,Agriculture,1,Copilot,3.6,"Resume Writing, Exam Preparation, Project Work",4,No,Other,4,Yes,Jammu,Laptop,High,1
+"Imphal College, Imphal ",Science,1,Gemini,4.2,"Project Work, Content Writing",1,No,Gemini,8,No,Manipur,Tablet,High,0
+"Mahatma Gandhi College, Trivandrum ",Arts,3,"ChatGPT, Copilot",4.0,"Assignments, Coding Help",3,Yes,Other,4,No,Kerala,Tablet,Poor,1
+"DRIEMS Group of Institutions, Cuttack ",Medical,1,Copilot,4.3,"Exam Preparation, Assignments",4,No,ChatGPT,4,Yes,Orissa,Laptop,Poor,1
+"Nagaland University, Zunhebotto ",Agriculture,1,ChatGPT,3.8,Content Writing,4,No,Other,5,No,Nagaland,Mobile,Medium,0
+"T.N.B. College, Bhagalpur ",Science,4,"ChatGPT, Copilot",3.7,"MCQ Practice, Projects",4,No,ChatGPT,8,No,Bihar,Tablet,Poor,1
+State Institute of Hospitality Management ,Management,4,Other,4.4,Content Writing,3,Yes,Bard,7,Yes,Kerala,Mobile,High,1
+Madhav University ,Engineering,2,Gemini,2.6,"Assignments, Coding Help",4,Yes,Other,2,Yes,Rajasthan,Tablet,Poor,1
+Suresh Gyan Vihar University ,Pharmacy,1,Copilot,2.5,"MCQ Practice, Content Writing",5,Yes,Other,2,No,Rajasthan,Tablet,Poor,0
+"College of Commerce, Arts & Science, Patna ",Commerce,1,ChatGPT,2.6,"Project Work, Resume Writing, Assignments",5,No,Other,4,Yes,Bihar,Laptop,High,0
+Dr. C.V. Raman University ,Management,2,"Gemini, Midjourney",2.2,"Doubt Solving, Resume Writing",2,No,Gemini,8,No,Chhattisgarh,Tablet,High,0
+Fr. Agnel College of Arts and Commerce ,Commerce,2,Copilot,3.2,"Exam Prep, Notes",5,No,ChatGPT,10,No,Goa,Mobile,Medium,1
+Manipal School of Architecture and Planning ,Arts,4,"ChatGPT, Gemini, Copilot",2.4,Learning new topics,1,No,ChatGPT,6,Yes,Karnataka,Laptop,Poor,0
+"Anurag University, Hyderabad ",Science,4,Other,4.7,"Resume Writing, Learning new topics, Coding Help",3,No,ChatGPT,6,Yes,Telangana,Tablet,Poor,1
+Sanskriti University ,Management,3,Copilot,4.6,Coding Help,4,Yes,Other,5,No,Uttar pradesh,Laptop,Poor,0
+O. P. Jindal Global University ,Law,4,ChatGPT,3.3,"Doubt Solving, Resume Writing",5,Yes,Other,4,No,Haryana,Mobile,High,1
+Narsee Monjee Institute of Management Studies ,Pharmacy,4,Copilot,0.6,Doubt Solving,2,Yes,Claude,10,No,Telangana,Laptop,Poor,1
+NERIM Group of Institutions ,Science,2,Copilot,0.7,"Exam Prep, Notes",5,No,Other,1,Yes,Assam,Laptop,Medium,0
+Indian Institute of Management ,Management,2,"ChatGPT, Copilot",3.6,"Exam Prep, Notes",1,No,ChatGPT,9,Yes,Bihar,Laptop,Medium,0
+DAV College ,Science,3,Gemini,3.7,Learning new topics,2,No,Other,8,Yes,Punjab,Mobile,High,1
+"DAV PG College, Dehradun ",Law,2,Copilot,3.5,"Exam Prep, Notes",2,No,Gemini,9,No,Uttarakhand,Tablet,High,1
+Dev Bhoomi Group of Institutions ,Agriculture,1,Other,4.0,"Assignments, Content Writing",5,No,Bard,10,Yes,Uttarakhand,Laptop,Medium,0
+"BH College, Barpeta ",Commerce,1,Copilot,3.6,"MCQ Practice, Projects",1,Yes,Other,10,No,Assam,Tablet,Medium,1
+Sri Guru Granth Sahib World University ,Law,2,Gemini,3.9,"Assignments, Coding Help",3,Yes,Copilot,2,Yes,Punjab,Tablet,Medium,1
+Chandigarh University ,Agriculture,2,Bard,1.2,"Doubt Solving, MCQ Practice",5,Yes,Other,6,No,Haryana,Mobile,Poor,0
+University of Science and Technology ,Law,4,Copilot,2.7,"Doubt Solving, Resume Writing",5,No,Gemini,1,No,Meghalaya,Tablet,High,0
+J.S. University ,Agriculture,3,ChatGPT,0.7,"Assignments, Coding Help",5,No,Other,8,No,Uttar pradesh,Mobile,High,0
+"Amity University, Raipur ",Commerce,3,Bard,1.5,Exam Preparation,3,No,ChatGPT,3,Yes,Chhattisgarh,Mobile,Medium,1
+"University School of Business, Chandigarh University ",Arts,4,Copilot,2.7,Project Work,5,Yes,Gemini,10,Yes,Punjab,Mobile,High,1
+"College of Veterinary Sciences, Hisar ",Agriculture,1,Gemini,4.0,Learning new topics,4,Yes,Copilot,4,Yes,Haryana,Laptop,High,0
+"Uka Tarsadia University, Bardoli ",Medical,3,Copilot,1.6,"Assignments, Coding Help",3,Yes,Gemini,4,Yes,Gujarat,Mobile,Poor,0
+"Disha College of Management Studies- [DCMS], Raipur ",Commerce,1,ChatGPT,2.4,"MCQ Practice, Projects",4,Yes,Copilot,6,Yes,Chhattisgarh,Mobile,Poor,0
+Punjab Engineering College University of Technology ,Management,2,ChatGPT,3.7,"Exam Prep, Notes",4,Yes,Gemini,6,No,Chandigarh,Mobile,High,1
+"Presidency College, Bangalore ",Commerce,1,ChatGPT,2.6,"MCQ Practice, Projects",1,Yes,ChatGPT,1,Yes,Karnataka,Tablet,High,1
+Mangalayatan University ,Medical,4,ChatGPT,3.9,"Doubt Solving, Resume Writing",2,Yes,ChatGPT,1,Yes,Uttar pradesh,Mobile,Poor,1
+Dr. S. S. Bhatnagar University Institute of ,Science,2,ChatGPT,4.8,"MCQ Practice, Coding Help, Doubt Solving",2,Yes,ChatGPT,7,No,Chandigarh,Tablet,High,0
+Nari Gursahani Law College ,Law,1,Gemini,3.5,"Assignments, Coding Help",4,No,Gemini,7,No,Maharashtra,Tablet,Poor,0
+Bihar Agricultural University ,Agriculture,4,Copilot,3.1,"Assignments, Coding Help",5,Yes,ChatGPT,4,No,Bihar,Mobile,High,1
+"Mahatma Gandhi Government College, Mayabander ",Science,4,Other,4.1,"Doubt Solving, Coding Help",3,No,Claude,10,Yes,Andaman,Mobile,High,1
+JECRC University ,Commerce,3,Gemini,4.1,Content Writing,3,Yes,ChatGPT,4,Yes,Rajasthan,Laptop,Medium,0
+"Sri Ramachandra Medical College, Chennai ",Medical,2,ChatGPT,2.3,"Assignments, Coding Help",1,Yes,ChatGPT,9,No,Tamil nadu,Tablet,Poor,1
+Sri Venkateswara College of Engineering and Technology ,Engineering,4,"ChatGPT, Copilot",1.0,Learning new topics,3,Yes,Gemini,9,No,Andhra pradesh,Tablet,High,1
+BFIT Group of Institutions ,Arts,2,ChatGPT,2.3,"Assignments, Project Work",2,Yes,ChatGPT,5,Yes,Uttarakhand,Mobile,Medium,1
+RK University ,Pharmacy,4,Bard,2.3,"Assignments, Learning new topics",2,No,Gemini,6,Yes,Gujarat,Tablet,Medium,1
+"RIMT College of Architecture, Fatehgarh Sahib ",Agriculture,2,Bard,1.6,"Doubt Solving, Learning new topics",4,Yes,Bard,6,Yes,Punjab,Mobile,Medium,0
+North-Eastern Hill University ,Arts,3,Copilot,3.1,"Assignments, Resume Writing, Coding Help",3,No,Claude,4,Yes,Meghalaya,Mobile,Medium,1
+"Dina Institute of Hotel Management Hadapsar, Pune ",Hotel-management,2,Copilot,0.6,"Resume Writing, Content Writing, Assignments",1,No,Other,3,No,Maharashtra,Mobile,Poor,1
+Rajmata Vijayaraje Scindia Krishi Vishwa Vidyalaya ,Agriculture,4,Gemini,4.3,Content Writing,2,Yes,Copilot,9,No,Madhya pradesh,Mobile,Medium,1
+"Fazl Ali College, Mokokchung ",Arts,2,Claude,2.3,"MCQ Practice, Doubt Solving, Coding Help",1,No,Copilot,10,No,Nagaland,Mobile,Poor,0
+"Coxtan Administrative & Management College, Dhanbad ",Medical,2,Bard,1.8,Coding Help,3,No,Copilot,8,Yes,Jharkhand,Mobile,Poor,1
+Shri Guru Ram Rai University ,Commerce,4,ChatGPT,3.1,"Learning new topics, Project Work, Resume Writing",3,Yes,ChatGPT,3,No,Uttarakhand,Tablet,High,0
+"Maya Group of Colleges, Dehradun ",Hotel-management,2,Copilot,1.9,Content Writing,3,Yes,Other,6,Yes,Uttarakhand,Mobile,Medium,1
+Maulana Azad National Institute of Technology ,Science,2,Gemini,2.8,"Exam Preparation, Doubt Solving",2,Yes,Bard,10,Yes,Madhya pradesh,Laptop,Medium,1
+"Sikkim University, Gangtok ",Management,2,Bard,3.7,Coding Help,5,Yes,Copilot,7,Yes,Sikkim,Laptop,Medium,1
+SRM Institute of Technology ,Agriculture,3,ChatGPT,3.7,"Exam Prep, Notes",4,Yes,Copilot,2,Yes,Tamil nadu,Laptop,Poor,0
+"Amity University, Mumbai ",Engineering,2,"ChatGPT, Copilot",2.8,"Doubt Solving, Resume Writing",1,No,Other,1,Yes,Maharashtra,Mobile,High,0
+Jayoti Vidyapeeth Women's University ,Law,2,Bard,2.2,"MCQ Practice, Doubt Solving",5,No,Copilot,1,No,Rajasthan,Laptop,Medium,0
+"Lloyd Business School, Greater Noida ",Management,4,Bard,2.1,"Content Writing, Resume Writing",2,No,Gemini,4,No,Uttar pradesh,Mobile,Medium,1
+Birla Institute of Technology and Science ,Arts,4,"ChatGPT, Gemini, Copilot",3.4,Content Writing,3,No,Copilot,7,Yes,Goa,Laptop,Poor,1
+Maulana Azad National Institute of Technology ,Science,3,Copilot,2.5,"Exam Prep, Notes",2,Yes,Gemini,7,No,Madhya pradesh,Mobile,Medium,1
+"Tula's Institute, Dehradun ",Engineering,3,Copilot,4.6,"Project Work, Assignments",5,Yes,Copilot,4,No,Uttarakhand,Tablet,Medium,1
+Arunachal University of Studies ,Medical,4,"ChatGPT, Gemini, Copilot",1.8,Content Writing,2,Yes,Gemini,4,No,Arunachal pradesh,Mobile,Poor,0
+SRM Institute of Technology ,Commerce,2,Gemini,0.6,"Assignments, Resume Writing, Learning new topics",4,No,Gemini,2,No,Tamil nadu,Tablet,High,1
+Sant Baba Bhag Singh University ,Engineering,3,"ChatGPT, Copilot",2.3,"MCQ Practice, Projects",1,No,ChatGPT,9,No,Punjab,Mobile,Poor,0
+"Saveetha Dental College & Hospital, Chennai ",Medical,1,Copilot,5.0,"Exam Preparation, MCQ Practice, Doubt Solving",3,Yes,Copilot,3,Yes,Tamil nadu,Tablet,Medium,1
+"Government Arts College (Autonomous), Coimbatore ",Science,3,Gemini,3.7,Doubt Solving,3,No,Copilot,6,No,Tamil nadu,Laptop,High,0
+Chandigarh Group of Colleges ,Hotel-management,4,Other,3.6,"Assignments, Project Work, MCQ Practice",2,No,ChatGPT,6,No,Punjab,Tablet,Poor,0
+"Rayat Bahra Hoshiarpur Campus, Hoshiarpur ",Medical,2,ChatGPT,3.7,Content Writing,5,Yes,Other,9,No,Punjab,Tablet,Poor,1
+"Mohamed Sathak A.J. College of Pharmacy, Chennai ",Pharmacy,2,ChatGPT,2.9,"Content Writing, Doubt Solving",5,No,ChatGPT,9,Yes,Tamil nadu,Tablet,Medium,1
+"Government Degree College, Baramulla ",Science,3,Gemini,1.5,"Doubt Solving, Resume Writing",5,Yes,Other,4,No,Jammu,Mobile,Poor,1
+Radha Govind University ,Agriculture,2,ChatGPT,0.8,Exam Preparation,2,Yes,Copilot,6,Yes,Jharkhand,Laptop,Poor,0
+Vaishali Institute of Business and Rural Management ,Management,2,Other,3.4,"Project Work, Coding Help",3,No,Gemini,10,No,Bihar,Tablet,Poor,0
+"A.J. College of Science and Technology Thonnakkal, ",Hotel-management,4,"ChatGPT, Copilot",2.1,"Assignments, Coding Help",5,No,Other,10,Yes,Kerala,Tablet,High,0
+International Institute of Management Sciences ,Hotel-management,4,"ChatGPT, Gemini, Copilot",0.7,"Exam Prep, Notes",2,No,Other,10,Yes,West bengal,Tablet,Poor,1
+"Yenepoya University, Mangalore ",Pharmacy,3,Bard,0.7,Assignments,5,No,Claude,2,Yes,Karnataka,Tablet,Poor,0
+GH Raisoni College of Engineering ,Engineering,2,"ChatGPT, Copilot",3.4,"MCQ Practice, Projects",1,Yes,Other,2,Yes,Maharashtra,Laptop,High,1
+"Navsari Agricultural University, Navsari ",Science,4,Copilot,3.1,Learning new topics,3,No,Gemini,3,No,Gujarat,Mobile,High,0
+"OPJS University, Churu ",Management,1,Copilot,1.0,Assignments,5,Yes,Claude,7,Yes,Rajasthan,Laptop,High,1
+Chandigarh University ,Law,2,"Gemini, Midjourney",3.2,Content Writing,2,No,Copilot,9,Yes,Punjab,Mobile,Medium,0
+"St Anthony's College, Shillong ",Arts,2,ChatGPT,1.7,"Project Work, Learning new topics, Exam Preparation",2,No,Gemini,3,Yes,Meghalaya,Laptop,High,0
+"Nirmala College Of Arts And Science, Chalakkudy, ",Hotel-management,3,Gemini,1.2,Assignments,5,No,Other,3,Yes,Kerala,Tablet,Medium,1
+Annie Besant College of Engineering And Management ,Law,4,"ChatGPT, Gemini, Copilot",2.6,"Doubt Solving, Resume Writing",4,Yes,ChatGPT,7,No,Uttar pradesh,Laptop,Poor,0
+"Faculty of Pharmaceutical Sciences, Shoolini University, Solan ",Pharmacy,2,ChatGPT,3.5,"Doubt Solving, Resume Writing",4,No,Gemini,4,Yes,Himachal pradesh,Tablet,Poor,1
+Vellore Institute of Technology ,Law,2,ChatGPT,4.8,"Content Writing, Assignments",3,Yes,Bard,4,Yes,Tamil nadu,Mobile,Medium,1
+Assam Agricultural University ,Management,3,Copilot,1.3,"Coding Help, Resume Writing, Exam Preparation",1,Yes,Copilot,10,Yes,Assam,Laptop,Medium,1
+"Apex University, Jaipur ",Agriculture,1,Bard,1.7,Coding Help,3,Yes,Bard,2,Yes,Rajasthan,Tablet,Poor,0
+Sree Chitra Thirunal College of Engineering ,Engineering,1,Other,0.6,Doubt Solving,2,No,Claude,8,No,Kerala,Tablet,Medium,0
+IMS Unison University ,Law,4,"ChatGPT, Copilot",4.4,"MCQ Practice, Projects",3,Yes,ChatGPT,1,No,Uttarakhand,Tablet,Medium,1
+Gauhati University ,Management,1,Bard,3.5,Coding Help,1,Yes,Claude,10,No,Assam,Mobile,Medium,0
+Birla Institute of Technology ,Management,2,"ChatGPT, Gemini, Copilot",2.3,"Assignments, Coding Help",4,Yes,Copilot,8,Yes,Jharkhand,Laptop,High,0
+Vellore Institute of Technology ,Commerce,2,Copilot,4.5,"Doubt Solving, Resume Writing",3,Yes,Other,6,Yes,Tamil nadu,Mobile,Medium,0
+Baosi Banikanta Kakati College ,Science,2,Claude,2.8,"Learning new topics, Coding Help, Resume Writing",3,Yes,Copilot,5,No,Assam,Laptop,High,0
+Sher-e-Kashmir University of Agricultural Sciences and Technology ,Commerce,4,"Gemini, Midjourney",2.6,"MCQ Practice, Projects",3,No,ChatGPT,8,Yes,Jammu,Tablet,High,0
+The Neotia University ,Management,3,Gemini,0.5,"MCQ Practice, Projects",4,Yes,Copilot,2,Yes,West bengal,Mobile,High,0
+"ICFAI University, Raipur ",Commerce,4,Gemini,3.8,"Coding Help, Resume Writing",5,No,Claude,9,No,Chhattisgarh,Mobile,Medium,1
+"KLE Technological University, Hubli ",Engineering,2,Other,1.4,"Project Work, Assignments, Doubt Solving",1,Yes,Other,3,Yes,Karnataka,Mobile,High,1
+"KJ Somaiya Institute of Management, Mumbai ",Management,1,"ChatGPT, Gemini, Copilot",3.1,Content Writing,3,Yes,Other,1,Yes,Maharashtra,Laptop,High,0
+"Shyam University, Dausa ",Pharmacy,4,Gemini,4.2,"Assignments, Project Work",4,No,Bard,9,No,Rajasthan,Tablet,Poor,0
+"SRM Institute of Hotel Management, Chennai ",Hotel-management,3,Copilot,2.3,"Exam Prep, Notes",3,No,ChatGPT,10,No,Tamil nadu,Mobile,Poor,1
+"St. Peter's College, Kolkata ",Law,1,ChatGPT,2.3,"Resume Writing, Exam Preparation",3,Yes,Other,9,Yes,West bengal,Tablet,Medium,0
+"Guru Kashi University, Bathinda ",Law,1,Copilot,3.8,"Assignments, Coding Help",1,Yes,ChatGPT,10,Yes,Punjab,Mobile,Medium,1
+Leo Academy of Hospitality and Tourism Management ,Hotel-management,2,Gemini,3.2,Learning new topics,1,No,Gemini,9,Yes,Telangana,Tablet,High,0
+Symbiosis International University ,Management,4,"ChatGPT, Copilot",3.4,Learning new topics,1,No,Copilot,4,Yes,Telangana,Laptop,Poor,1
+University of Mysore ,Agriculture,3,Copilot,0.6,"Assignments, Doubt Solving, Learning new topics",2,No,Copilot,6,Yes,Karnataka,Tablet,Poor,0
+Maulana Abul Kalam Azad University of Technology ,Engineering,1,ChatGPT,2.2,Content Writing,4,Yes,Gemini,2,No,West bengal,Mobile,High,1
+Assam Don Bosco University ,Arts,2,Gemini,3.6,"Assignments, Content Writing, MCQ Practice",1,No,Bard,10,No,Assam,Laptop,Poor,1
+"The National Degree College, Bangalore ",Commerce,3,"ChatGPT, Gemini, Copilot",2.1,Learning new topics,4,No,Other,6,No,Karnataka,Laptop,Poor,1
+Himalayan University ,Engineering,3,Copilot,3.7,Learning new topics,4,Yes,Gemini,1,Yes,Arunachal pradesh,Mobile,Poor,0
+"Khalsa College, Amritsar ",Agriculture,2,Other,2.0,"Content Writing, Exam Preparation, Resume Writing",1,No,Copilot,1,No,Punjab,Laptop,Medium,0
+Bonnie foi College ,Law,4,ChatGPT,1.3,Doubt Solving,4,No,Other,3,Yes,Madhya pradesh,Laptop,High,1
+"Government Degree College, Doda ",Commerce,2,ChatGPT,3.1,Resume Writing,4,No,Copilot,4,Yes,Jammu,Tablet,Medium,1
+"Institute of Communication and Information Technology, Kohima ",Engineering,3,"ChatGPT, Copilot",0.6,"Assignments, Coding Help",5,No,Other,2,No,Nagaland,Tablet,High,0
+"Sai Nath University, Ranchi ",Science,2,Other,3.6,Project Work,2,No,ChatGPT,9,Yes,Jharkhand,Mobile,Medium,0
+Institute of Advanced Management ,Hotel-management,1,Gemini,1.4,"Doubt Solving, Learning new topics",1,No,ChatGPT,1,Yes,Assam,Tablet,Medium,1
+Seth GS Medical College ,Medical,1,Copilot,4.3,"MCQ Practice, Projects",2,Yes,Gemini,5,No,Maharashtra,Laptop,High,1
+St. Xavier's University ,Management,3,Other,1.0,"Assignments, Doubt Solving, MCQ Practice",1,Yes,Other,8,No,West bengal,Tablet,Medium,0
+"Lady Keane College, Shillong ",Science,1,Other,3.3,Exam Preparation,4,No,Copilot,4,Yes,Meghalaya,Laptop,Poor,0
+"Amity University, Gurgaon ",Commerce,2,"ChatGPT, Gemini, Copilot",3.0,"Doubt Solving, Resume Writing",2,No,ChatGPT,1,Yes,Haryana,Laptop,High,1
+Institute of Agri Business Management ,Agriculture,3,Copilot,1.3,"Doubt Solving, Resume Writing",1,No,ChatGPT,8,No,Rajasthan,Tablet,Medium,0
+"Basanti Devi College, Kolkata ",Law,4,Claude,1.5,Resume Writing,5,No,Claude,3,No,West bengal,Laptop,High,0
+Aligarh Muslim University ,Engineering,4,Gemini,4.6,Learning new topics,3,No,Claude,3,Yes,Uttar pradesh,Mobile,High,0
+Krupajal Engineering College ,Engineering,4,Gemini,2.8,"Content Writing, Assignments, MCQ Practice",4,No,Bard,1,No,Orissa,Tablet,Poor,1
+Hans Raj Mahila Maha Vidyalaya ,Law,4,Other,1.1,Learning new topics,3,Yes,Claude,6,No,Punjab,Laptop,Medium,0
+Sri Guru Granth Sahib World University ,Medical,1,Other,4.7,"Assignments, Resume Writing, Project Work",3,Yes,Bard,3,No,Punjab,Mobile,Medium,0
+LJ Institute of Computer Application ,Science,2,"ChatGPT, Gemini, Copilot",1.7,Learning new topics,2,Yes,Other,10,Yes,Gujarat,Tablet,Medium,0
+"Scott Christian College, Nagercoil ",Science,1,Other,3.8,Doubt Solving,1,No,Other,2,Yes,Tamil nadu,Laptop,Medium,1
+Sri Ramakrishna Engineering College ,Engineering,1,"ChatGPT, Copilot",3.2,Learning new topics,5,Yes,Gemini,6,No,Tamil nadu,Tablet,Medium,1
+Avvaiyar Government College for Women ,Commerce,4,"ChatGPT, Copilot",4.2,Content Writing,4,Yes,Gemini,5,Yes,Puducherry,Tablet,Poor,1
+OP Jindal University ,Engineering,1,Gemini,0.6,"Exam Prep, Notes",3,Yes,Gemini,7,Yes,Chhattisgarh,Laptop,Poor,1
+"Post Graduate Government College, Chandigarh ",Commerce,2,Copilot,1.0,"Resume Writing, MCQ Practice, Coding Help",4,No,ChatGPT,4,No,Chandigarh,Mobile,High,0
+Jawaharlal Institute of Post Graduate Medical Education and Research ,Medical,4,ChatGPT,4.2,"MCQ Practice, Projects",4,No,Gemini,1,Yes,Puducherry,Laptop,High,1
+Institute of Technical Education and Research ,Science,3,"ChatGPT, Copilot",3.2,Content Writing,1,Yes,Copilot,7,No,Orissa,Laptop,Medium,1
+"Lloyd Law College, Greater Noida ",Commerce,2,Claude,3.6,"Content Writing, Resume Writing, Exam Preparation",4,Yes,Copilot,1,No,Uttar pradesh,Mobile,Poor,0
+Sikkim Manipal University ,Medical,4,ChatGPT,0.7,"Exam Preparation, Resume Writing",5,Yes,Other,9,No,Sikkim,Laptop,High,1
+Maulana Azad National Institute of Technology ,Engineering,4,"ChatGPT, Gemini, Copilot",2.1,"Exam Prep, Notes",2,No,Other,7,Yes,Madhya pradesh,Laptop,Medium,1
+"J.C. Bose University Of Science And Technology, ",Science,1,ChatGPT,2.7,"MCQ Practice, Projects",1,Yes,Gemini,6,No,Haryana,Tablet,Poor,1
+Shri Shankaracharya Institute of Professional Management and ,Commerce,1,ChatGPT,0.7,"Exam Prep, Notes",5,No,ChatGPT,3,Yes,Chhattisgarh,Tablet,High,1
+"Food Craft Institute-[FCI], Visakhapatnam ",Hotel-management,1,Bard,2.7,"Coding Help, Resume Writing, Learning new topics",5,No,Bard,2,Yes,Andhra pradesh,Mobile,Poor,0
+"Kanoria PG Mahila Mahavidyalaya, Jaipur ",Arts,4,Other,4.2,Resume Writing,1,No,ChatGPT,2,Yes,Rajasthan,Mobile,Poor,1
+Radha Govind University ,Pharmacy,1,Gemini,4.1,Content Writing,2,Yes,Other,4,No,Jharkhand,Mobile,High,0
+Dr. B. R. Ambedkar Polytechnic College ,Engineering,3,Gemini,3.1,"Assignments, Coding Help",5,No,Other,6,No,Puducherry,Tablet,High,1
+"P.P. Savani University, Surat ",Commerce,2,Gemini,3.9,"MCQ Practice, Assignments",5,Yes,Claude,2,Yes,Gujarat,Laptop,Poor,1
+Central University of Kashmir ,Science,2,Claude,2.6,"MCQ Practice, Resume Writing",3,No,ChatGPT,6,Yes,Jammu,Mobile,Medium,0
+"Government Maharishi Valmiki College, Kanker ",Commerce,2,Claude,3.3,Exam Preparation,4,Yes,Other,7,Yes,Chhattisgarh,Laptop,Poor,1
+"Sri Venkateshwara College of Pharmacy, Hyderabad ",Pharmacy,4,Bard,3.0,Learning new topics,2,No,Gemini,4,Yes,Telangana,Tablet,Poor,1
+Indira Gandhi Institute of Medical Sciences ,Medical,1,ChatGPT,3.9,"Assignments, Coding Help",2,No,ChatGPT,5,No,Bihar,Mobile,High,1
+Maharishi Markandeshwar ,Medical,4,Copilot,1.6,"MCQ Practice, Projects",1,No,ChatGPT,2,No,Himachal pradesh,Tablet,Medium,0
+"Tura Polytechnic College, Tura ",Engineering,2,Claude,2.2,Exam Preparation,5,Yes,Copilot,6,No,Meghalaya,Laptop,Poor,0
+Apex Professional University ,Hotel-management,2,Gemini,0.9,"Doubt Solving, Resume Writing",4,No,Gemini,1,Yes,Arunachal pradesh,Mobile,High,0
+"Faculty of Management Sciences and Liberal Arts, ",Commerce,1,Copilot,2.2,Learning new topics,2,No,ChatGPT,10,No,Himachal pradesh,Laptop,Poor,1
+Himachal Pradesh University ,Hotel-management,2,Other,1.6,"Assignments, MCQ Practice, Content Writing",4,Yes,Gemini,4,Yes,Himachal pradesh,Tablet,High,1
+"MVJ Medical College and Research Hospital, Hoskote ",Agriculture,4,Claude,2.0,Content Writing,3,No,ChatGPT,8,No,Karnataka,Tablet,High,0
+DAV College ,Commerce,4,ChatGPT,3.3,"Resume Writing, Assignments, Content Writing",5,No,ChatGPT,3,Yes,Uttar pradesh,Tablet,Medium,0
+Gandhi Institute of Management Studies ,Management,2,Gemini,1.6,Content Writing,2,Yes,ChatGPT,9,Yes,Orissa,Laptop,Poor,0
+University of Petroleum and Energy Studies ,Medical,3,ChatGPT,3.0,Content Writing,1,No,Copilot,5,Yes,Uttarakhand,Tablet,Medium,1
+"MotherHood University, Roorkee ",Management,3,Copilot,1.9,"MCQ Practice, Projects",2,Yes,Gemini,6,No,Uttarakhand,Tablet,High,1
+"Sri Guru Gobind Singh College of Pharmacy, ",Medical,2,ChatGPT,2.0,"Exam Prep, Notes",4,Yes,ChatGPT,6,Yes,Chandigarh,Tablet,Poor,0
+"Faculty of Law, University of Delhi, New ",Law,4,"ChatGPT, Copilot",3.2,Learning new topics,4,Yes,Gemini,5,Yes,Delhi ncr,Tablet,High,1
+Bihar Agricultural University ,Science,4,Copilot,3.7,"Assignments, Coding Help",2,Yes,ChatGPT,5,Yes,Bihar,Tablet,Poor,0
+Modern Vidya Niketan ,Agriculture,2,Claude,1.0,"Coding Help, Exam Preparation",1,Yes,Claude,6,Yes,Haryana,Tablet,Medium,1
+College of Engineering ,Engineering,3,"ChatGPT, Copilot",2.2,"Assignments, Coding Help",3,No,ChatGPT,9,No,Maharashtra,Mobile,High,0
+Calicut University ,Agriculture,1,"Gemini, Midjourney",3.6,Content Writing,2,No,Gemini,9,No,Kerala,Tablet,Medium,1
+"City College of Commerce and Business Administration, ",Commerce,4,Gemini,2.2,Content Writing,4,Yes,ChatGPT,2,No,West bengal,Mobile,High,0
+Indian Institute of Management Visakhapatnam ,Management,3,Claude,0.7,Resume Writing,1,No,Copilot,3,No,Andhra pradesh,Laptop,Poor,0
+"Munshi Singh College, Motihari ",Law,4,Claude,2.2,"MCQ Practice, Resume Writing, Doubt Solving",2,No,Copilot,7,Yes,Bihar,Laptop,Medium,0
+"TTAADC Polytechnic Institute, West Tripura ",Engineering,3,Claude,4.4,Exam Preparation,1,No,Copilot,1,No,Tripura,Tablet,High,1
+BML Munjal University ,Arts,4,"Gemini, Midjourney",1.6,"MCQ Practice, Projects",2,Yes,Gemini,5,No,Haryana,Laptop,Medium,0
+"Government Medical College, Kottayam ",Pharmacy,2,ChatGPT,2.7,Content Writing,1,No,Other,4,No,Kerala,Laptop,Medium,0
+"Faculty of Law Jamia Millia Islamia University, ",Law,4,"Gemini, Midjourney",1.9,"Doubt Solving, Resume Writing",2,Yes,Copilot,1,Yes,Delhi ncr,Laptop,Poor,1
+Bahra University ,Management,3,"ChatGPT, Copilot",0.8,"Assignments, Coding Help",5,Yes,Copilot,7,No,Himachal pradesh,Mobile,Medium,1
+Rai Technology University ,Agriculture,1,"Gemini, Midjourney",1.5,Learning new topics,3,No,Gemini,9,Yes,Karnataka,Tablet,High,0
+"Jamshedpur Women's College, Jamshedpur ",Arts,1,Gemini,1.2,"Resume Writing, MCQ Practice",1,No,Copilot,9,Yes,Jharkhand,Laptop,Medium,1
+Mar Athanasios College for Advanced Studies Tiruvalla ,Management,3,ChatGPT,4.4,"Doubt Solving, Resume Writing",2,No,ChatGPT,1,No,Kerala,Mobile,Medium,1
+"Shri HK Arts College, Ahmedabad ",Arts,4,Gemini,2.0,"Doubt Solving, Resume Writing",1,Yes,Gemini,6,No,Gujarat,Tablet,High,0
+"Durgapur Institute of Legal Studies, Bardhaman ",Law,4,"ChatGPT, Copilot",3.3,"MCQ Practice, Projects",3,No,Copilot,1,No,West bengal,Mobile,Medium,1
+Sri Guru Granth Sahib World University ,Engineering,2,Other,4.4,"Coding Help, Assignments, MCQ Practice",4,Yes,Bard,10,Yes,Punjab,Tablet,Poor,0
+Indian Veterinary Research Institute ,Agriculture,2,ChatGPT,3.2,"Exam Prep, Notes",5,Yes,ChatGPT,8,No,Uttar pradesh,Laptop,High,0
+"Sushant University / Ansal University, Gurgaon ",Law,4,Other,4.8,"Exam Preparation, Resume Writing, Coding Help",3,Yes,Bard,9,Yes,Haryana,Tablet,Poor,0
+Nalanda Open University ,Management,2,"ChatGPT, Copilot",4.2,Learning new topics,1,Yes,ChatGPT,2,Yes,Bihar,Mobile,High,0
+"Poddar Group of Institutions, Jaipur ",Pharmacy,1,Gemini,5.0,Resume Writing,2,No,ChatGPT,6,Yes,Rajasthan,Mobile,Medium,0
+Directorate of Distance Education Sikkim Manipal University ,Arts,1,Gemini,3.5,"Resume Writing, Learning new topics",1,No,Other,1,No,Sikkim,Mobile,Poor,0
+Farooqia College of Pharmacy ,Pharmacy,1,Copilot,2.5,"Exam Preparation, Doubt Solving",4,Yes,Bard,2,Yes,Karnataka,Laptop,Poor,0
+"Amity University, Raipur ",Commerce,3,Copilot,3.6,Content Writing,1,No,Other,4,Yes,Chhattisgarh,Mobile,High,1
+William Carey University ,Engineering,1,Gemini,3.3,Learning new topics,2,No,Bard,8,No,Meghalaya,Mobile,High,0
+Hyderabad School of Business ,Management,2,"ChatGPT, Copilot",3.2,Learning new topics,1,Yes,Copilot,1,Yes,Telangana,Mobile,Poor,0
+"Scott Christian College, Nagercoil ",Commerce,2,Copilot,0.7,"Exam Prep, Notes",1,No,Gemini,2,Yes,Tamil nadu,Tablet,Medium,0
+"St Joseph's Degree and PG College, Hyderabad ",Arts,2,Bard,1.7,"Coding Help, MCQ Practice",3,Yes,Claude,9,Yes,Telangana,Tablet,Poor,0
+Xavier Institute of Management ,Management,3,ChatGPT,1.0,Assignments,5,No,ChatGPT,4,Yes,Orissa,Laptop,High,1
+Delhi College of Arts and Commerce ,Arts,1,ChatGPT,1.1,"Content Writing, MCQ Practice",2,Yes,Other,1,Yes,Delhi ncr,Tablet,High,1
+"Shobhit University, Meerut ",Pharmacy,4,"ChatGPT, Copilot",1.8,"Doubt Solving, Resume Writing",1,Yes,ChatGPT,7,Yes,Delhi ncr,Tablet,High,1
+"Lingaya's Vidyapeeth, Faridabad ",Arts,1,Gemini,2.5,"Exam Preparation, Learning new topics",1,Yes,ChatGPT,5,No,Haryana,Mobile,Medium,1
+RNB Global University ,Agriculture,1,"Gemini, Midjourney",2.4,"MCQ Practice, Projects",1,Yes,Other,6,Yes,Rajasthan,Laptop,Medium,1
+"University School of Business, Chandigarh University ",Arts,1,ChatGPT,4.2,"MCQ Practice, Projects",5,Yes,Copilot,1,No,Punjab,Laptop,Medium,1
+"Starex University, Gurgaon ",Pharmacy,2,"ChatGPT, Copilot",3.5,"Exam Prep, Notes",2,Yes,Gemini,3,No,Haryana,Laptop,High,0
+Institute of Rural Management ,Management,3,ChatGPT,4.1,Learning new topics,3,No,Other,6,Yes,Gujarat,Tablet,Poor,1
+Swami Vivekanand National Institute of Rehabilitation Training ,Medical,2,Copilot,1.3,"MCQ Practice, Projects",4,Yes,ChatGPT,9,Yes,Orissa,Tablet,High,1
+"Manohar Lal Mahavidhyalaya, Kanpur ",Arts,1,Copilot,1.5,"Coding Help, Learning new topics",2,Yes,Copilot,8,Yes,Uttar pradesh,Tablet,High,0
+Chandigarh Institute of Hotel Management and Catering ,Hotel-management,3,Copilot,4.0,"MCQ Practice, Content Writing",3,Yes,ChatGPT,6,No,Punjab,Tablet,Poor,1
+Central Marine Fisheries Research Institute ,Agriculture,4,ChatGPT,1.7,"Doubt Solving, Learning new topics",5,No,Bard,2,Yes,Tamil nadu,Laptop,High,1
+Indian School of Business Management and Administration ,Law,2,Gemini,4.1,"MCQ Practice, Projects",4,No,Copilot,9,No,Tamil nadu,Laptop,Poor,1
+Indian Institute of Management ,Law,3,Other,0.6,"Assignments, MCQ Practice",5,Yes,Claude,6,No,Delhi ncr,Tablet,Medium,0
+National Institute of Technology ,Science,1,Copilot,2.3,"Resume Writing, Project Work",3,No,ChatGPT,1,Yes,Kerala,Mobile,High,0
+Uttarakhand Open University ,Law,2,Other,1.2,"Project Work, Content Writing",3,Yes,Other,9,Yes,Uttarakhand,Mobile,Medium,1
+Ganpat University ,Management,2,Claude,3.8,MCQ Practice,3,Yes,Gemini,4,No,Gujarat,Mobile,Poor,0
+"Doaba College, Jalandhar ",Hotel-management,1,Bard,4.4,"MCQ Practice, Learning new topics, Exam Preparation",1,No,Gemini,9,No,Punjab,Tablet,High,1
+Rajagiri Centre for Business Studies ,Management,1,Gemini,0.9,"Doubt Solving, Resume Writing",4,No,Copilot,9,No,Kerala,Tablet,Medium,1
+K.J. Somaiya Medical College & Research Centre ,Medical,4,Gemini,2.2,"Exam Preparation, Content Writing, Resume Writing",5,No,Other,3,Yes,Maharashtra,Tablet,High,1
+Sri Sri University ,Medical,4,Copilot,3.3,"Learning new topics, Project Work, Exam Preparation",3,Yes,Gemini,1,Yes,Orissa,Mobile,Medium,0
+"Devi Ahilya Vishwavidyalaya, Indore ",Pharmacy,4,Gemini,4.6,"Assignments, Doubt Solving, Project Work",1,Yes,ChatGPT,7,No,Madhya pradesh,Tablet,Poor,1
+"CU Shah Arts College, Ahmedabad ",Arts,1,"ChatGPT, Copilot",1.8,Learning new topics,1,No,ChatGPT,4,Yes,Gujarat,Mobile,Poor,1
+"V. O. Chidambaram College, Thoothukkudi ",Science,4,Copilot,4.0,"MCQ Practice, Projects",4,Yes,Other,5,No,Tamil nadu,Laptop,Poor,0
+Ajeenkya DY Patil University ,Hotel-management,1,Copilot,2.9,"MCQ Practice, Projects",2,Yes,ChatGPT,10,Yes,Maharashtra,Tablet,Medium,0
+Indian Institute of Technology ,Law,3,ChatGPT,2.9,Learning new topics,2,Yes,Other,10,Yes,West bengal,Tablet,High,1
+"Sityog Institute of Technology, Aurangabad ",Engineering,2,Gemini,3.8,"Project Work, Coding Help",1,Yes,Other,10,No,Bihar,Laptop,High,0
+Gupta College of Technological Sciences ,Pharmacy,1,"ChatGPT, Copilot",3.1,Learning new topics,5,Yes,Gemini,6,Yes,West bengal,Mobile,Poor,0
+ICAR-Central Coastal Agricultural Research Institute ,Agriculture,2,Copilot,3.5,"Exam Preparation, Doubt Solving",1,Yes,Other,8,No,Goa,Laptop,Poor,0
+"K.L.E. Society's S.A. Manvi Law College, Gadag ",Law,4,Claude,2.8,"MCQ Practice, Assignments, Coding Help",1,Yes,Copilot,4,Yes,Karnataka,Mobile,Poor,1
+AISSMS College of Hotel Management & Catering ,Hotel-management,2,Other,2.1,"Resume Writing, Content Writing, Project Work",2,No,Claude,7,No,Maharashtra,Tablet,Poor,0
+Anugrah Narayan Singh College ,Science,1,Gemini,1.4,Resume Writing,2,No,Other,2,No,Bihar,Laptop,High,0
+Bidhan Chandra Krishi Viswavidyalaya ,Agriculture,4,"Gemini, Midjourney",2.4,Learning new topics,1,Yes,Gemini,9,Yes,West bengal,Mobile,Medium,1
+"Faculty of Pharmaceutical Sciences, PDM University, Bahadurgarh ",Pharmacy,2,ChatGPT,3.0,"Assignments, Coding Help",1,Yes,Copilot,9,No,Haryana,Mobile,Medium,0
+Nehru College of Engineering and Research Centre ,Management,3,ChatGPT,0.7,"MCQ Practice, Projects",2,No,Other,9,No,Kerala,Tablet,Poor,1
+Punjab College of Technical Education ,Hotel-management,3,"Gemini, Midjourney",3.3,Content Writing,1,Yes,Copilot,10,Yes,Punjab,Mobile,Medium,1
+Dr DY Patil Medical College Hospital and ,Medical,2,ChatGPT,2.7,"Learning new topics, Coding Help",5,Yes,Gemini,10,Yes,Maharashtra,Laptop,Poor,0
+Arunachal University of Studies ,Commerce,2,"ChatGPT, Copilot",3.6,"Doubt Solving, Resume Writing",4,No,ChatGPT,1,Yes,Arunachal pradesh,Tablet,Poor,0
+International Institute of Information Technology ,Science,1,Gemini,0.6,"Doubt Solving, Resume Writing",4,No,ChatGPT,3,Yes,Telangana,Laptop,High,1
+"University College of Engineering, Osmania University ",Engineering,3,Other,3.4,"Exam Preparation, Doubt Solving",4,Yes,Copilot,3,No,Telangana,Mobile,High,0
+"Bilaspur University- [BU], Bilaspur ",Hotel-management,2,ChatGPT,4.4,"Exam Prep, Notes",2,No,Gemini,8,Yes,Chhattisgarh,Tablet,Medium,1
+"Shillong College, Shillong ",Management,2,Other,3.1,"Project Work, Resume Writing",5,Yes,Gemini,1,No,Meghalaya,Tablet,Poor,0
+"University Business School, Panjab University ",Management,3,ChatGPT,3.1,Learning new topics,3,Yes,Gemini,10,No,Haryana,Tablet,Poor,1
+Modern College Kohima ,Agriculture,4,Bard,4.3,"Learning new topics, Coding Help",3,Yes,Bard,9,No,Nagaland,Laptop,High,0
+Dr. B.R. Ambedkar Open University ,Commerce,1,"ChatGPT, Copilot",3.4,Learning new topics,2,No,Other,1,No,Telangana,Laptop,Medium,0
+Career Point University ,Commerce,3,Copilot,0.9,"Project Work, Doubt Solving, Coding Help",3,No,Gemini,10,No,Himachal pradesh,Tablet,Poor,0
+Birla Institute of Technology ,Science,4,Bard,3.3,"Coding Help, Resume Writing",3,No,Copilot,10,No,Bihar,Laptop,Medium,0
+Christ Institute of Technology ,Engineering,4,Copilot,3.2,Content Writing,4,Yes,Other,2,Yes,Puducherry,Laptop,Medium,1
+"Government College for Women, Srinagar ",Management,3,Copilot,3.4,"Content Writing, Project Work, Resume Writing",4,No,Claude,3,Yes,Jammu,Mobile,Poor,1
+"Institute of Communication and Information Technology, Kohima ",Engineering,2,Claude,1.3,"Doubt Solving, Coding Help, Project Work",4,No,Other,7,No,Nagaland,Mobile,Medium,1
+Sanjay Gandhi Postgraduate Institute of Medical Sciences ,Science,1,Copilot,4.4,"Project Work, Content Writing",4,No,Bard,10,Yes,Uttar pradesh,Mobile,Poor,1
+"Institute of Distance Education, Rajiv Gandhi University, Itanagar ",Science,1,Other,1.2,Doubt Solving,4,Yes,Bard,10,No,Arunachal pradesh,Tablet,High,1
+"St John's Pharmacy College, Bangalore ",Pharmacy,4,Gemini,1.5,Learning new topics,3,No,Gemini,3,No,Karnataka,Mobile,High,0
+"Amity University, Ranchi ",Arts,3,"ChatGPT, Copilot",3.9,"Doubt Solving, Resume Writing",5,No,ChatGPT,9,No,Jharkhand,Mobile,Medium,0
+Ram Krishna Dwarika College ,Management,3,"ChatGPT, Gemini, Copilot",3.3,"Doubt Solving, Resume Writing",5,No,Copilot,4,No,Bihar,Mobile,Poor,0
+Panjab University ,Hotel-management,3,Copilot,3.0,"Doubt Solving, Resume Writing",4,No,Copilot,6,Yes,Haryana,Mobile,Poor,0
+"St Joseph's College, Kohima ",Management,4,Claude,4.0,"Assignments, Coding Help, Content Writing",4,No,Bard,8,Yes,Nagaland,Tablet,High,1
+Bharati Vidyapeeth Institute of Management Studies & ,Management,4,Copilot,2.5,"Doubt Solving, Resume Writing",2,No,ChatGPT,10,Yes,Maharashtra,Tablet,Poor,1
+Chhatrapati Shahu Ji Maharaj University ,Commerce,3,Gemini,2.7,"Assignments, Coding Help",4,Yes,Gemini,6,Yes,Uttar pradesh,Laptop,High,0
+"Post Graduate Government College for Girls, Chandigarh ",Arts,4,Gemini,2.4,"Exam Preparation, MCQ Practice",1,Yes,ChatGPT,9,Yes,Chandigarh,Mobile,High,1
+Sagi Ramakrishnam Raju Engineering College ,Science,2,"ChatGPT, Gemini, Copilot",1.4,"Exam Prep, Notes",5,No,ChatGPT,8,Yes,Andhra pradesh,Laptop,Medium,0
+"College of Technology, GB Pant University of ",Science,2,ChatGPT,4.1,"Learning new topics, Project Work",3,Yes,Copilot,4,Yes,Uttarakhand,Tablet,Medium,0
+"Ahmedabad University, Ahmedabad ",Science,4,Gemini,3.0,"Resume Writing, MCQ Practice, Coding Help",4,No,ChatGPT,5,Yes,Gujarat,Laptop,High,0
+Sri Sri University ,Management,1,Gemini,1.9,Learning new topics,4,Yes,Claude,3,No,Orissa,Laptop,High,1
+"Trinity College of Hotel Management, Hyderabad ",Hotel-management,3,Copilot,1.1,"Doubt Solving, Resume Writing",4,Yes,ChatGPT,3,Yes,Telangana,Mobile,Medium,0
+"Andhra University, College of Science & Technology, ",Commerce,4,Other,1.6,Content Writing,5,Yes,Gemini,9,Yes,Andhra pradesh,Laptop,High,1
+Army College of Medical Science ,Medical,1,Other,4.2,"Coding Help, Resume Writing",3,Yes,Other,9,No,Delhi ncr,Laptop,Poor,0
+Vardhaman College of Engineering ,Engineering,4,Gemini,4.1,"Exam Prep, Notes",2,No,ChatGPT,10,No,Telangana,Tablet,Medium,1
+"Kushabhau Thakre Patrakarita Avam Jansanchar Vishwavidyalaya, Raipur ",Management,1,"Gemini, Midjourney",1.7,"Assignments, Coding Help",2,Yes,Gemini,2,Yes,Chhattisgarh,Laptop,High,0
+DAV College ,Commerce,1,Bard,4.1,"Project Work, MCQ Practice, Resume Writing",2,No,Copilot,2,No,Punjab,Mobile,High,1
+Chhatrapati Shahu Ji Maharaj University ,Commerce,3,Copilot,1.8,"Assignments, Coding Help",1,Yes,Other,5,No,Uttar pradesh,Tablet,Medium,1
+"Christ Church College -[CCC], Kanpur ",Arts,3,"ChatGPT, Gemini, Copilot",4.4,"Assignments, Coding Help",3,Yes,Copilot,9,Yes,Uttar pradesh,Tablet,High,0
+VIT University ,Arts,3,Gemini,3.9,"Doubt Solving, Resume Writing",4,No,Other,1,Yes,Andhra pradesh,Mobile,High,0
+Islamia Karimia College ,Arts,2,Other,3.8,"Resume Writing, Exam Preparation",1,Yes,Claude,3,Yes,Madhya pradesh,Mobile,High,1
+"Vidyasthali Law College, Jaipur ",Law,1,Other,0.9,"Exam Preparation, Learning new topics, Doubt Solving",3,Yes,Claude,4,No,Rajasthan,Tablet,Poor,1
+Pioneer Institute of Professional Studies ,Agriculture,1,Bard,2.1,"Assignments, Exam Preparation",2,Yes,ChatGPT,1,Yes,Madhya pradesh,Mobile,Medium,1
+Institute for Excellence in Higher Education ,Commerce,4,Gemini,3.5,"Exam Preparation, Resume Writing",4,No,Copilot,3,No,Madhya pradesh,Tablet,Medium,0
+Rai University ,Agriculture,4,Other,1.2,Exam Preparation,4,Yes,Gemini,4,No,Gujarat,Tablet,Poor,0
+"Teerthanker Mahaveer University, College of Architecture ",Law,4,Bard,4.3,"Doubt Solving, Learning new topics",3,No,Claude,3,Yes,Uttar pradesh,Mobile,Medium,1
+Indian Institute of Technology ,Arts,2,"ChatGPT, Gemini, Copilot",3.0,Content Writing,2,Yes,Gemini,8,Yes,Rajasthan,Laptop,High,1
+"VIT Bhopal University, Bhopal ",Science,2,Bard,3.7,"Doubt Solving, Content Writing, Coding Help",3,No,Bard,10,Yes,Madhya pradesh,Mobile,Medium,1
+"Dibrugarh University, Dibrugarh ",Pharmacy,1,ChatGPT,1.8,"Project Work, MCQ Practice",2,No,Gemini,3,Yes,Assam,Tablet,Poor,1
+"Nizam College, Hyderabad ",Commerce,2,Gemini,1.1,Learning new topics,2,No,Copilot,6,Yes,Telangana,Mobile,Medium,1
+"Daudnagar College, Aurangabad ",Arts,2,ChatGPT,3.2,"MCQ Practice, Coding Help, Learning new topics",3,Yes,Bard,1,Yes,Bihar,Tablet,High,1
+"MATS School of Law, Raipur ",Law,4,Copilot,2.9,"Exam Preparation, Content Writing, Learning new topics",1,Yes,Bard,5,No,Chhattisgarh,Tablet,High,0
+"St Joseph's Degree and PG College, Hyderabad ",Management,3,ChatGPT,2.0,"Assignments, Coding Help",2,No,ChatGPT,6,Yes,Telangana,Tablet,Poor,0
+"Annabattuni Satyanarayana Degree College, Guntur ",Arts,4,Copilot,1.7,"Coding Help, Learning new topics, MCQ Practice",2,No,Bard,7,Yes,Andhra pradesh,Mobile,Poor,0
+"Ramnarain Ruia Autonomous College, Mumbai ",Agriculture,3,Claude,4.2,"MCQ Practice, Content Writing",2,No,ChatGPT,4,Yes,Maharashtra,Laptop,Medium,0
+All India Institute of Medical Sciences ,Medical,1,Claude,1.3,"Project Work, MCQ Practice",5,No,ChatGPT,10,Yes,Jharkhand,Laptop,Medium,0
+National Institute of Electronics & Information Technology ,Arts,4,Copilot,4.9,"Exam Preparation, Resume Writing",1,No,ChatGPT,6,Yes,Mizoram,Laptop,High,1
+"Government Polytechnic College, Sopore ",Engineering,2,"Gemini, Midjourney",3.9,Learning new topics,3,Yes,Copilot,9,Yes,Jammu,Laptop,High,0
+Sikkim Manipal Institute of Medical Sciences ,Science,1,ChatGPT,3.5,"Exam Preparation, Assignments, Project Work",5,No,Copilot,10,Yes,Sikkim,Laptop,Medium,0
+"SAGE University, Indore ",Law,3,ChatGPT,2.0,"Project Work, Content Writing, Resume Writing",5,No,ChatGPT,10,Yes,Madhya pradesh,Laptop,High,0
+National Institute of Technology ,Engineering,4,ChatGPT,1.1,"Coding Help, Assignments",4,No,Bard,8,No,Andhra pradesh,Laptop,Medium,1
+Sri Padmavati Mahila Visvavidyalayam ,Law,1,Bard,2.8,"Learning new topics, Resume Writing",2,Yes,Copilot,4,No,Andhra pradesh,Tablet,Medium,0
+"Besant Theosophical College, Madanapalle ",Commerce,4,ChatGPT,3.3,Doubt Solving,2,No,Copilot,6,No,Andhra pradesh,Tablet,High,1
+"Synod College, Shillong ",Commerce,3,Copilot,1.1,"Doubt Solving, Content Writing",2,Yes,Copilot,5,No,Meghalaya,Tablet,Poor,0
+"Graphic Era Hill University Dehradun Campus, School ",Law,3,"Gemini, Midjourney",2.3,Learning new topics,3,No,Other,2,Yes,Uttarakhand,Mobile,Medium,1
+Kasturba Gandhi Degree and PG College for ,Arts,1,Copilot,1.1,"Exam Preparation, Project Work",2,Yes,Copilot,10,No,Telangana,Tablet,Medium,1
+Jawaharlal Nehru Krishi Vishwa Vidyalaya ,Agriculture,4,Claude,3.6,"Learning new topics, Resume Writing",2,No,Bard,8,No,Madhya pradesh,Tablet,Poor,1
+Basaveshwar Engineering College ,Engineering,2,Copilot,4.7,"Assignments, MCQ Practice",2,Yes,ChatGPT,6,No,Karnataka,Laptop,High,1
+"Guru Kashi University, Bathinda ",Hotel-management,4,ChatGPT,3.9,"Coding Help, Exam Preparation, Doubt Solving",3,Yes,Copilot,1,Yes,Punjab,Laptop,Medium,0
+Assam Institute of Technology ,Engineering,2,ChatGPT,2.5,"Doubt Solving, MCQ Practice",2,No,Other,5,Yes,Assam,Tablet,Medium,0
+Sanjay Gandhi Postgraduate Institute of Medical Sciences ,Medical,3,"ChatGPT, Gemini, Copilot",1.4,"Exam Prep, Notes",2,No,Gemini,2,No,Uttar pradesh,Laptop,Medium,1
+Kerala University of Fisheries and Ocean Studies ,Law,4,Gemini,1.1,"Assignments, Coding Help",4,No,ChatGPT,6,No,Kerala,Tablet,High,0
+"RKDF University, Ranchi ",Agriculture,1,Bard,1.2,Doubt Solving,3,No,Claude,2,Yes,Jharkhand,Laptop,High,1
+"Maharishi College of Natural Law, Bhubaneswar ",Science,2,Gemini,4.4,Project Work,1,No,Claude,4,No,Orissa,Mobile,High,0
+J.S. University ,Pharmacy,4,ChatGPT,3.8,Coding Help,3,No,Gemini,7,No,Uttar pradesh,Tablet,Poor,1
+Magadh University ,Arts,4,"ChatGPT, Gemini, Copilot",2.5,"Doubt Solving, Resume Writing",5,No,ChatGPT,9,Yes,Bihar,Mobile,Poor,1
+"Deen Dayal Upadhyaya College, New Delhi ",Arts,1,ChatGPT,2.3,"Resume Writing, Exam Preparation, Learning new topics",2,No,ChatGPT,3,No,Delhi ncr,Laptop,Poor,0
+"Patkai Christian College, Dimapur ",Arts,1,"ChatGPT, Gemini, Copilot",3.9,"Exam Prep, Notes",2,Yes,Gemini,8,No,Nagaland,Tablet,Medium,1
+Poomulli Neelakandan Namboodiripad Memorial Ayurveda Medical College ,Medical,1,"Gemini, Midjourney",3.0,"Exam Prep, Notes",2,No,Other,8,No,Kerala,Laptop,Medium,1
+Sangam University ,Hotel-management,3,ChatGPT,3.9,Coding Help,4,Yes,Claude,1,Yes,Rajasthan,Tablet,High,1
+"Kamadhenu College of Arts & Science, Dharmapuri ",Arts,4,ChatGPT,3.8,"Exam Prep, Notes",4,Yes,ChatGPT,9,Yes,Tamil nadu,Laptop,Poor,1
+"Assam University, Silchar ",Pharmacy,4,Copilot,4.5,"Project Work, Doubt Solving, Content Writing",1,No,Other,10,Yes,Assam,Mobile,Medium,1
+Jesus and Mary College ,Science,4,Copilot,1.2,"Exam Prep, Notes",2,Yes,Gemini,9,Yes,Delhi ncr,Tablet,Poor,0
+Adarsh Institute of Management and Information Technology ,Management,4,ChatGPT,1.3,Project Work,3,Yes,Copilot,9,No,Karnataka,Laptop,Medium,0
+"St Joseph's College, Kohima ",Management,1,"ChatGPT, Copilot",3.7,"Assignments, Coding Help",1,No,ChatGPT,2,No,Nagaland,Laptop,Medium,1
+Sant Rocha Singh Degree College ,Science,3,"Gemini, Midjourney",4.3,"Assignments, Coding Help",5,Yes,Other,3,No,Jammu,Laptop,High,0
+MNNIT Allahabad ,Science,3,"ChatGPT, Copilot",0.9,"Assignments, Coding Help",2,Yes,Copilot,8,Yes,Uttar pradesh,Mobile,Poor,0
+National Institute of Technology ,Engineering,3,ChatGPT,2.6,Coding Help,4,No,Other,6,No,Jammu,Mobile,Poor,1
+Nalanda College of Engineering ,Engineering,4,Bard,3.0,"Coding Help, Doubt Solving, MCQ Practice",1,Yes,ChatGPT,3,Yes,Bihar,Mobile,Poor,1
+"Christ Church College -[CCC], Kanpur ",Arts,2,"ChatGPT, Gemini, Copilot",1.2,"Assignments, Coding Help",5,No,Gemini,5,No,Uttar pradesh,Mobile,Poor,1
+Netaji Subhas University ,Engineering,4,Gemini,0.6,"Coding Help, Assignments",1,Yes,Other,10,Yes,Jharkhand,Laptop,Medium,0
+Sister Nivedita University ,Engineering,2,Copilot,0.7,"Learning new topics, Coding Help",5,No,ChatGPT,3,Yes,West bengal,Laptop,Poor,0
+"Alliance University, Bangalore ",Law,1,Gemini,2.4,"Exam Prep, Notes",2,No,Gemini,8,Yes,Karnataka,Mobile,Medium,1
+"Ramthakur College, West Tripura ",Commerce,3,"Gemini, Midjourney",2.9,"Exam Prep, Notes",5,Yes,Gemini,2,No,Tripura,Mobile,Poor,1
+"LNCT Group of Colleges -[LNCT], Bhopal ",Medical,4,ChatGPT,2.0,Content Writing,1,Yes,Other,7,Yes,Madhya pradesh,Tablet,Medium,0
+Acharya Nagarjuna University ,Pharmacy,4,"Gemini, Midjourney",4.2,Content Writing,2,Yes,Other,4,Yes,Andhra pradesh,Tablet,Poor,0
+"ICFAI University, Gangtok ",Arts,2,Gemini,2.7,Content Writing,3,Yes,Gemini,10,No,Sikkim,Tablet,Poor,1
+Mahatma Gandhi Institute of Medical Sciences ,Pharmacy,3,ChatGPT,4.6,"Doubt Solving, Exam Preparation",4,No,Other,4,No,Maharashtra,Tablet,Medium,0
+Cluster University of Srinagar ,Engineering,1,ChatGPT,2.7,"MCQ Practice, Project Work",1,Yes,Claude,2,No,Jammu,Tablet,Medium,1
+"Quaide-E-Millath Government College for Women (Autonomous), Chennai ",Arts,1,ChatGPT,4.3,"MCQ Practice, Projects",4,No,Copilot,10,No,Tamil nadu,Laptop,Medium,0
+"Government Degree College, Srinagar ",Science,2,Claude,2.3,"Assignments, Project Work, MCQ Practice",1,No,Claude,7,Yes,Jammu,Laptop,High,1
+"Government Degree College, Srinagar ",Science,1,ChatGPT,3.8,MCQ Practice,2,Yes,Bard,7,No,Jammu,Mobile,Medium,0
+"Arni University, Kangra ",Commerce,3,ChatGPT,1.1,"Learning new topics, Assignments, Coding Help",4,Yes,Copilot,2,No,Himachal pradesh,Tablet,High,0
+"Amal College of Advanced Studies, Nilambur, Nilambur ",Hotel-management,3,Claude,0.9,"Exam Preparation, Assignments",4,No,Claude,2,Yes,Kerala,Tablet,High,0
+Ramaiah Institute of Technology ,Science,3,Other,3.2,"Assignments, Coding Help, Exam Preparation",5,No,Other,5,No,Karnataka,Mobile,High,1
+"St. Alphonsa College of Hotel Management Studies, ",Hotel-management,3,"Gemini, Midjourney",2.7,"Doubt Solving, Resume Writing",4,No,ChatGPT,8,Yes,Kerala,Laptop,Poor,0
+"St. Mira's College for Girls, Pune ",Commerce,4,"Gemini, Midjourney",4.1,Content Writing,5,No,Copilot,9,Yes,Maharashtra,Laptop,High,0
+Institute of Technology and Science ,Medical,1,Gemini,3.0,Content Writing,1,No,Gemini,4,Yes,Delhi ncr,Laptop,Poor,1
+"Bir Tikendrajit University, Imphal ",Hotel-management,1,Gemini,1.6,"Exam Prep, Notes",3,Yes,Gemini,7,Yes,Manipur,Mobile,High,1
+International Centre For Distance Education And Open ,Law,3,Gemini,3.6,"MCQ Practice, Projects",4,Yes,ChatGPT,7,Yes,Himachal pradesh,Mobile,High,1
+Srimanta Sankaradeva University of Health Sciences ,Pharmacy,1,Copilot,2.0,"Doubt Solving, Resume Writing",5,Yes,Copilot,1,Yes,Assam,Laptop,Poor,1
+Panjab University ,Science,4,ChatGPT,1.5,Exam Preparation,1,Yes,Claude,5,No,Punjab,Laptop,Poor,1
+Rungta College of Pharmaceutical Sciences and Research ,Pharmacy,3,ChatGPT,1.5,"Exam Preparation, Doubt Solving, Coding Help",2,Yes,Bard,3,Yes,Chhattisgarh,Mobile,Poor,1
+"Kamadhenu College of Arts & Science, Dharmapuri ",Arts,2,Copilot,4.0,"MCQ Practice, Exam Preparation, Resume Writing",4,No,Copilot,2,Yes,Tamil nadu,Laptop,High,1
+Pt. Ravishankar Shukla University ,Management,4,Gemini,4.0,"Assignments, Coding Help",4,Yes,Other,5,No,Chhattisgarh,Mobile,Medium,1
+Gopal Narayan Singh University ,Agriculture,4,Bard,1.0,"Content Writing, Resume Writing",5,Yes,Copilot,8,No,Bihar,Laptop,Medium,0
+Vaikunth Mehta National Institute of Co-Operative Management ,Management,3,Gemini,3.7,"Assignments, Exam Preparation, MCQ Practice",2,Yes,Copilot,8,Yes,Maharashtra,Tablet,Medium,1
+"EMEA College of Arts and Science Kondotty, ",Law,1,Bard,4.5,"Learning new topics, Resume Writing, Assignments",3,No,Other,7,No,Kerala,Tablet,Medium,1
+Mount Carmel College ,Arts,1,"ChatGPT, Copilot",4.3,"Doubt Solving, Resume Writing",1,No,Copilot,7,No,Karnataka,Tablet,High,1
+Guru Jambheshwar University of Science and Technology ,Arts,4,ChatGPT,3.6,"Exam Prep, Notes",1,Yes,ChatGPT,1,Yes,Haryana,Tablet,High,1
+"TSR and TBK Degree and PG College, ",Commerce,3,ChatGPT,3.2,Learning new topics,3,Yes,Gemini,1,Yes,Andhra pradesh,Mobile,Medium,0
+Indian Institute of Management ,Management,1,Copilot,1.4,"Learning new topics, MCQ Practice, Exam Preparation",5,Yes,Gemini,4,Yes,Delhi ncr,Mobile,Poor,0
+Mahatma Gandhi Government Engineering College ,Engineering,4,"ChatGPT, Copilot",3.0,"Assignments, Coding Help",4,No,Copilot,8,Yes,Himachal pradesh,Tablet,High,0
+Sunder Deep Pharmacy College ,Pharmacy,4,Other,1.3,"Assignments, Content Writing",2,No,Other,10,Yes,Uttar pradesh,Mobile,High,0
+Ramniranjan Jhunjhunwala College ,Agriculture,3,ChatGPT,4.9,Doubt Solving,1,No,Copilot,10,No,Maharashtra,Tablet,Medium,1
+Madhav University ,Commerce,1,Copilot,1.5,"MCQ Practice, Projects",1,No,ChatGPT,6,Yes,Rajasthan,Tablet,Medium,0
+Madhav University ,Pharmacy,1,Gemini,4.4,"MCQ Practice, Projects",1,No,Copilot,4,No,Rajasthan,Mobile,High,1
+"Singhania University, Jhunjhunu ",Management,2,"ChatGPT, Gemini, Copilot",2.7,Content Writing,1,No,Other,5,Yes,Rajasthan,Laptop,Medium,1
+"Government College of Arts, Science and Commerce, North Goa ",Science,3,ChatGPT,3.1,Learning new topics,4,No,Gemini,5,Yes,Goa,Mobile,High,0
+Garden City University ,Arts,4,Copilot,2.1,"Doubt Solving, Resume Writing",2,Yes,Gemini,2,No,Karnataka,Laptop,Poor,1
+"Goa University, North Goa ",Commerce,4,Claude,0.5,MCQ Practice,3,Yes,Bard,3,No,Goa,Laptop,Medium,0
+"Osteen College, Bangalore ",Hotel-management,2,"ChatGPT, Copilot",3.8,Content Writing,4,Yes,Copilot,6,Yes,Karnataka,Mobile,Poor,0
+BFIT Group of Institutions ,Agriculture,2,"ChatGPT, Gemini, Copilot",3.2,"MCQ Practice, Projects",2,No,ChatGPT,6,Yes,Uttarakhand,Tablet,High,0
+Central Institute of Technology ,Arts,3,Gemini,3.8,"Project Work, Assignments, Exam Preparation",1,Yes,Copilot,10,No,Assam,Laptop,High,0
+"University of Jammu, Jammu ",Arts,1,Other,0.8,"Project Work, Exam Preparation",4,No,Bard,3,No,Jammu,Tablet,Poor,0
+Maharishi University of Management and Technology Bilaspur ,Management,2,ChatGPT,1.0,"Exam Preparation, Coding Help",5,No,Bard,7,No,Chhattisgarh,Tablet,High,1
+"RIMT University, Gobindgarh ",Pharmacy,4,Claude,3.1,"Resume Writing, Project Work",5,Yes,Bard,5,Yes,Punjab,Mobile,High,0
+Ramaiah Institute of Technology ,Engineering,2,"ChatGPT, Gemini, Copilot",1.4,Learning new topics,3,No,ChatGPT,6,Yes,Karnataka,Tablet,Poor,0
+Sri Sai University ,Engineering,2,Copilot,1.1,Assignments,2,No,Claude,4,No,Himachal pradesh,Mobile,High,1
+DIT University ,Pharmacy,4,Gemini,1.1,Content Writing,4,No,Gemini,10,Yes,Uttarakhand,Tablet,Poor,1
+"Deshbandhu College for Girls, Kolkata ",Medical,4,ChatGPT,2.1,"MCQ Practice, Resume Writing, Project Work",3,No,Other,9,Yes,West bengal,Tablet,Medium,1
+Assam Agricultural University ,Agriculture,3,Bard,2.7,Content Writing,4,No,Gemini,5,No,Assam,Laptop,High,0
+Apex Professional University ,Agriculture,1,Gemini,1.0,"Assignments, Coding Help",1,Yes,Other,6,Yes,Arunachal pradesh,Tablet,High,0
+Baba Saheb Dr Bhim Rao Ambedkar College ,Agriculture,3,Copilot,1.8,Learning new topics,3,Yes,Other,9,Yes,Uttar pradesh,Tablet,Medium,1
+Amity Global Business School ,Management,3,Gemini,4.8,"MCQ Practice, Resume Writing",1,No,ChatGPT,4,No,Delhi ncr,Laptop,Poor,0
+University of Engineering and Management ,Hotel-management,3,Gemini,3.2,Content Writing,5,No,Gemini,3,Yes,Rajasthan,Tablet,High,1
+Asian Institute of Management and Technology ,Management,3,ChatGPT,2.8,"Doubt Solving, Assignments, Learning new topics",3,Yes,Bard,7,No,Assam,Mobile,Medium,1
+Silicon Institute of Technology ,Engineering,4,Other,0.7,"Doubt Solving, Resume Writing, Assignments",4,Yes,Gemini,4,Yes,Orissa,Mobile,Poor,0
+BFIT Group of Institutions ,Engineering,2,"ChatGPT, Copilot",1.0,Content Writing,5,Yes,Gemini,6,Yes,Uttarakhand,Mobile,Poor,0
+Nirma University ,Commerce,4,"ChatGPT, Copilot",2.5,Content Writing,5,Yes,ChatGPT,8,Yes,Gujarat,Mobile,Poor,0
+"Government Medical College / Rajindra Hospital-[GMCP], Patiala ",Medical,4,"ChatGPT, Copilot",0.8,Learning new topics,3,Yes,ChatGPT,5,No,Punjab,Laptop,Medium,1
+Rungta College of Pharmaceutical Sciences and Research ,Pharmacy,4,Other,4.2,"Doubt Solving, Assignments",3,Yes,Gemini,6,No,Chhattisgarh,Tablet,Poor,0
+"Shri Shikshayatan College, Kolkata ",Commerce,4,"ChatGPT, Gemini, Copilot",1.9,Content Writing,1,No,Gemini,6,No,West bengal,Tablet,High,1
+"Presidency College, Chennai ",Science,1,Bard,3.9,"Learning new topics, Doubt Solving, Project Work",3,No,ChatGPT,9,No,Tamil nadu,Mobile,Medium,0
+Holy Grace Academy of Management Studies ,Hotel-management,4,"ChatGPT, Copilot",3.7,Content Writing,4,No,Other,6,No,Kerala,Tablet,Poor,1
+Mahatma Gandhi University ,Law,1,Gemini,4.9,"Doubt Solving, Assignments, Learning new topics",1,Yes,Other,7,Yes,Kerala,Mobile,Medium,0
+Ashoka Institute of Technology and Management ,Pharmacy,3,"ChatGPT, Copilot",4.4,"Assignments, Coding Help",4,Yes,ChatGPT,5,Yes,Chhattisgarh,Tablet,Poor,0
+"Sai Nath University, Ranchi ",Engineering,4,Bard,4.0,"Project Work, Content Writing",4,Yes,Bard,4,No,Jharkhand,Tablet,High,1
+Attitude Business School ,Hotel-management,4,Bard,1.7,"Coding Help, Learning new topics, Project Work",3,Yes,Claude,7,No,Orissa,Laptop,High,0
+Kakatiya University ,Law,2,Bard,4.2,Doubt Solving,2,Yes,Bard,5,No,Telangana,Laptop,High,1
+Kasturba Gandhi Degree and PG College for ,Science,4,"ChatGPT, Copilot",2.7,"Doubt Solving, Resume Writing",3,Yes,Other,6,Yes,Telangana,Tablet,Poor,0
+Sri Venkateswara College of Pharmacy ,Pharmacy,4,"ChatGPT, Gemini, Copilot",3.1,"MCQ Practice, Projects",3,Yes,Copilot,1,No,Andhra pradesh,Laptop,Poor,1
+KIIT School of Rural Management ,Management,2,Copilot,1.8,"Doubt Solving, Resume Writing",2,No,Other,2,No,Orissa,Tablet,Medium,1
+"SPC Education Center, Jaipur ",Arts,4,Copilot,1.4,Exam Preparation,1,Yes,Bard,6,No,Rajasthan,Laptop,Poor,1
+Chandigarh Institute of Hotel Management and Catering ,Hotel-management,1,Copilot,3.5,"Resume Writing, Coding Help, Assignments",2,Yes,Claude,6,No,Haryana,Mobile,Medium,0
+Ramchandra Chandravansi University ,Commerce,3,ChatGPT,4.0,"Doubt Solving, Project Work",1,Yes,Copilot,10,Yes,Jharkhand,Mobile,High,0
+"National Post Graduate College, Lucknow ",Arts,3,ChatGPT,0.7,"Assignments, Coding Help",5,Yes,Gemini,1,Yes,Uttar pradesh,Tablet,Poor,1
+NERIM Group of Institutions ,Law,1,Claude,3.8,"Content Writing, Project Work, Doubt Solving",3,No,Gemini,10,Yes,Assam,Tablet,Medium,0
+Kasturba Gandhi Degree and PG College for ,Arts,3,"ChatGPT, Copilot",3.2,Learning new topics,4,No,Other,7,Yes,Telangana,Tablet,Poor,0
+Nalanda Open University ,Arts,4,"ChatGPT, Gemini, Copilot",1.6,Learning new topics,1,Yes,ChatGPT,8,Yes,Bihar,Laptop,Medium,1
+"Rayat Bahra Hoshiarpur Campus, Hoshiarpur ",Pharmacy,2,Gemini,3.2,"MCQ Practice, Projects",4,Yes,Copilot,7,Yes,Punjab,Mobile,Poor,0
+"Career College, Bhopal ",Arts,4,Claude,0.6,Exam Preparation,1,No,Other,9,No,Madhya pradesh,Laptop,Poor,1
+Andhra University ,Medical,4,ChatGPT,1.7,"MCQ Practice, Doubt Solving",3,No,Bard,9,No,Andhra pradesh,Tablet,High,1
+"ICFAI University, Shillong ",Commerce,2,Gemini,1.4,Content Writing,3,No,Gemini,3,Yes,Meghalaya,Laptop,High,0
+Tezpur Medical College & Hospital ,Medical,1,ChatGPT,2.0,Project Work,3,No,Other,8,No,Assam,Tablet,Medium,1
+ICFAI Foundation for Higher Education ,Commerce,3,Bard,4.3,MCQ Practice,1,No,ChatGPT,4,No,Telangana,Tablet,Medium,0
+Nirmala College of Pharmacy ,Pharmacy,1,Gemini,2.4,"Exam Prep, Notes",3,Yes,Other,5,No,Kerala,Tablet,High,0
+"AV Abdurahiman Haji Arts & Science College, ",Arts,3,ChatGPT,2.0,"Resume Writing, Assignments, Coding Help",3,Yes,Other,10,No,Kerala,Laptop,Medium,1
+Kruti Institute of Technology and Engineering ,Science,1,ChatGPT,3.9,"Assignments, Resume Writing, Coding Help",1,Yes,Other,10,No,Chhattisgarh,Mobile,Medium,0
+"Doon University, Dehradun ",Commerce,4,Copilot,3.0,"Exam Prep, Notes",2,Yes,ChatGPT,10,Yes,Uttarakhand,Tablet,High,0
+Orissa University of Agriculture and Technology ,Agriculture,2,Gemini,4.6,Assignments,5,No,Claude,7,Yes,Orissa,Tablet,High,1
+"Indira Gandhi Technological And Medical Sciences University, Ziro ",Medical,2,"ChatGPT, Gemini, Copilot",0.8,"Exam Prep, Notes",3,No,Other,10,No,Arunachal pradesh,Tablet,Poor,1
+"Mahila Vidyalaya PG College, Lucknow ",Arts,3,Gemini,3.8,"Exam Prep, Notes",3,No,Gemini,1,Yes,Uttar pradesh,Mobile,Medium,1
+"Government Degree College, Baramulla ",Science,4,Gemini,2.4,"Doubt Solving, Resume Writing",5,Yes,Gemini,7,No,Jammu,Mobile,Poor,1
+"Holy Cross College, Agartala ",Science,2,"ChatGPT, Copilot",0.6,"Assignments, Coding Help",2,No,Gemini,1,Yes,Tripura,Laptop,Medium,1
+"Post Graduate Government College for Girls, Chandigarh ",Commerce,1,Claude,4.4,Project Work,3,Yes,Copilot,2,No,Chandigarh,Mobile,Poor,0
+"Adamas University, Kolkata ",Engineering,3,Bard,0.5,"Project Work, Doubt Solving",2,Yes,Bard,7,No,West bengal,Tablet,High,0
+St Andrew's College of Arts Science and ,Commerce,3,Bard,1.0,Content Writing,4,No,Copilot,2,Yes,Maharashtra,Tablet,Poor,1
+"Amazon Institute of Hotel Tourism and Management, ",Hotel-management,3,Claude,1.8,"Content Writing, Coding Help",4,Yes,Copilot,4,No,Uttarakhand,Tablet,Poor,0
+"PCTE Group of Institutes, Ludhiana ",Agriculture,1,"ChatGPT, Gemini, Copilot",0.8,"MCQ Practice, Projects",4,No,Copilot,1,Yes,Punjab,Laptop,Poor,1
+University of Rajasthan ,Management,4,"ChatGPT, Copilot",3.8,"Doubt Solving, Resume Writing",3,No,Other,5,No,Rajasthan,Tablet,Medium,1
+T.K.M. College of Arts and Science ,Commerce,4,Copilot,2.4,"Doubt Solving, Resume Writing",4,Yes,Copilot,9,Yes,Kerala,Laptop,High,1
+"IILM University, Gurgaon ",Management,4,ChatGPT,4.0,"MCQ Practice, Coding Help",1,Yes,Claude,3,No,Haryana,Laptop,Poor,0
+"Saurashtra University, Rajkot ",Agriculture,3,"Gemini, Midjourney",3.3,"Assignments, Coding Help",2,Yes,Copilot,9,Yes,Gujarat,Laptop,High,1
+"St Anthony's College, Shillong ",Management,2,Claude,2.6,"Project Work, Resume Writing",5,Yes,Other,5,Yes,Meghalaya,Tablet,Medium,0
+JP Institute of Hotel Management & Catering ,Hotel-management,4,Gemini,3.9,"Exam Prep, Notes",4,Yes,Gemini,2,Yes,Uttar pradesh,Mobile,Medium,1
+Baba Ghulam Shah Badshah University ,Arts,4,"ChatGPT, Gemini, Copilot",3.7,"MCQ Practice, Projects",2,Yes,Other,2,Yes,Jammu,Mobile,Medium,1
+"St Bede's College, Shimla ",Science,1,Gemini,1.3,"Resume Writing, Assignments",4,No,ChatGPT,3,No,Himachal pradesh,Mobile,Medium,1
+"Goa University, North Goa ",Medical,2,Other,3.8,Coding Help,4,No,ChatGPT,9,Yes,Goa,Tablet,Poor,1
+"St Joseph's College Devagiri, Calicut ",Commerce,2,Other,2.7,Doubt Solving,4,Yes,Claude,5,Yes,Kerala,Mobile,High,0
+Indian Law Institute ,Law,2,Copilot,1.8,"Assignments, Coding Help",3,No,ChatGPT,4,Yes,Delhi ncr,Laptop,Poor,1
+"Ramjas College, New Delhi ",Commerce,2,Claude,0.8,"Content Writing, Doubt Solving",5,No,Bard,2,Yes,Delhi ncr,Laptop,Medium,0
+IAS Academy ,Commerce,4,Claude,3.6,"Assignments, Coding Help, Content Writing",3,No,Copilot,5,Yes,West bengal,Mobile,High,1
+"Oriental School of Hotel Management Lakkidi, Wayanad ",Science,1,Bard,0.7,"Project Work, Coding Help",5,Yes,Bard,10,Yes,Kerala,Laptop,High,1
+Shivalik College of Engineering ,Engineering,1,"Gemini, Midjourney",1.8,"MCQ Practice, Projects",2,No,ChatGPT,1,No,Uttarakhand,Tablet,High,1
+"Poona College of Pharmacy, Pune ",Pharmacy,3,Copilot,0.9,"Exam Prep, Notes",1,No,Copilot,2,No,Maharashtra,Mobile,Poor,1
+Abhilashi Institute of Management Studies ,Management,1,Other,1.8,Assignments,4,Yes,ChatGPT,8,No,Himachal pradesh,Mobile,High,1
+"Longowal Polytechnic College, Chandigarh ",Engineering,1,Copilot,1.7,Coding Help,3,No,Gemini,2,No,Chandigarh,Laptop,Medium,0
+"CT Group of Institutions, Jalandhar ",Pharmacy,4,Bard,0.6,"Learning new topics, Doubt Solving",4,No,Other,8,No,Punjab,Tablet,Medium,0
+Ewing Christian College ,Medical,3,Claude,3.7,"Coding Help, Assignments",5,No,Gemini,5,Yes,Uttar pradesh,Laptop,Medium,1
+Tata Institute of Social Sciences ,Engineering,1,ChatGPT,1.6,"Content Writing, Learning new topics, MCQ Practice",4,Yes,Copilot,6,No,Maharashtra,Tablet,Poor,0
+Maharishi Markandeshwar ,Science,2,"Gemini, Midjourney",2.6,"Exam Prep, Notes",3,Yes,Copilot,3,No,Himachal pradesh,Tablet,High,1
+National Institute of Agricultural Extension Management ,Management,2,ChatGPT,4.1,"MCQ Practice, Projects",2,Yes,Copilot,9,No,Telangana,Laptop,High,1
+SDM Institute for Management Development ,Management,3,ChatGPT,3.6,"Exam Prep, Notes",2,Yes,Copilot,6,No,Karnataka,Laptop,High,0
+"DCT’s Dhempe College of Arts and Science, Panji ",Science,3,Gemini,2.0,MCQ Practice,2,Yes,Gemini,7,No,Goa,Mobile,Poor,0
+"Risali Institute Of Management, Hyderabad ",Hotel-management,2,ChatGPT,1.9,Assignments,3,No,Bard,6,Yes,Telangana,Mobile,High,0
+"Tripura Institute of Technology, Agartala ",Agriculture,2,"ChatGPT, Copilot",2.4,Learning new topics,4,Yes,Gemini,10,No,Tripura,Laptop,Poor,1
+"Amity University, Ranchi ",Engineering,4,"Gemini, Midjourney",0.6,"Exam Prep, Notes",4,No,ChatGPT,2,Yes,Jharkhand,Laptop,Poor,0
+Bengal College of Engineering and Technology ,Engineering,3,Copilot,3.5,"Exam Preparation, Learning new topics, Doubt Solving",3,No,Other,2,No,West bengal,Laptop,Poor,1
+Nehru Academy of Law ,Law,1,Gemini,3.4,Learning new topics,2,No,Other,4,No,Kerala,Laptop,High,1
+Himachal Pradesh University ,Arts,4,Bard,1.2,"Doubt Solving, MCQ Practice",3,Yes,Gemini,5,No,Himachal pradesh,Laptop,High,1
+"Government Maharani Laxmi Bai Girls PG College, ",Science,1,Copilot,3.4,"MCQ Practice, Projects",5,No,ChatGPT,6,No,Madhya pradesh,Tablet,Poor,0
+"Amity University, Gwalior ",Pharmacy,3,"ChatGPT, Gemini, Copilot",3.5,Content Writing,2,Yes,ChatGPT,10,Yes,Madhya pradesh,Tablet,Medium,0
+College of Agribusiness Management ,Management,2,Gemini,1.3,Resume Writing,1,No,Other,10,No,Uttarakhand,Laptop,Medium,1
+"Acharya NG Ranga Agricultural University, Agricultural College ",Agriculture,2,Claude,4.2,Coding Help,5,Yes,Gemini,1,No,Andhra pradesh,Mobile,Medium,0
+Sangai International University ,Science,4,"ChatGPT, Gemini, Copilot",4.5,Learning new topics,1,No,Gemini,4,Yes,Manipur,Mobile,Medium,0
+"University School of Business, Chandigarh University ",Science,2,Bard,4.8,"Resume Writing, Exam Preparation, Doubt Solving",1,No,Gemini,2,No,Chandigarh,Laptop,Medium,0
+"SJM College of Pharmacy, Chitradurga ",Pharmacy,2,Gemini,2.2,"Doubt Solving, Assignments",5,No,ChatGPT,4,Yes,Karnataka,Laptop,Poor,1
+Indian Institute of Public Health ,Medical,4,ChatGPT,1.5,"Assignments, Learning new topics",1,No,Other,5,No,Telangana,Mobile,Poor,1
+Sri Ramachandra Institute of Higher Education and ,Pharmacy,3,ChatGPT,1.5,Learning new topics,1,Yes,ChatGPT,7,Yes,Tamil nadu,Mobile,Medium,0
+Government Medical College and Hospital ,Science,1,ChatGPT,3.4,"Exam Prep, Notes",1,Yes,ChatGPT,7,Yes,Haryana,Mobile,High,0
+"IITT Institutions, Chandigarh ",Engineering,1,Other,0.6,"Coding Help, Exam Preparation",5,Yes,Other,8,No,Chandigarh,Tablet,Poor,1
+Rajiv Gandhi Institute of Petroleum Technology ,Engineering,2,"ChatGPT, Copilot",4.4,"Exam Prep, Notes",1,No,Other,1,No,Uttar pradesh,Tablet,Medium,1
+Lady Brabourne College ,Arts,4,ChatGPT,2.8,MCQ Practice,3,No,Other,7,Yes,West bengal,Tablet,Medium,1
+"Brainware University, Kolkata ",Commerce,1,Other,1.6,"Learning new topics, Project Work, Content Writing",1,No,Copilot,5,Yes,West bengal,Mobile,High,1
+Panjab University ,Agriculture,1,Copilot,4.1,"Assignments, Coding Help",5,Yes,Copilot,8,No,Punjab,Mobile,Medium,1
+"Smt NilaBen ManuBhai Padalia Pharmacy College, Ahmedabad ",Pharmacy,4,"ChatGPT, Copilot",3.8,"MCQ Practice, Projects",2,Yes,Gemini,9,No,Gujarat,Mobile,High,1
+"Fazl Ali College, Mokokchung ",Arts,4,ChatGPT,2.2,"Assignments, Coding Help",2,No,ChatGPT,1,Yes,Nagaland,Mobile,Poor,1
+Manav Rachna International Institute of Research and ,Engineering,3,ChatGPT,3.6,"Exam Prep, Notes",5,No,ChatGPT,1,Yes,Haryana,Mobile,Medium,0
+Galgotias University ,Medical,4,Gemini,2.6,"MCQ Practice, Projects",3,No,Other,6,Yes,Delhi ncr,Mobile,Medium,1
+Maulana Abul Kalam Azad University of Technology ,Law,4,Gemini,1.9,"Resume Writing, Learning new topics",3,Yes,Gemini,2,Yes,West bengal,Laptop,High,1
+Mangalayatan University ,Medical,3,"ChatGPT, Gemini, Copilot",0.9,Content Writing,2,Yes,Other,7,No,Uttar pradesh,Laptop,High,1
+Mother Teresa Post Graduate and Research Institute of Health Sciences ,Medical,2,ChatGPT,3.0,Learning new topics,4,Yes,Other,10,No,Puducherry,Laptop,Medium,1
+Punjab Engineering College University of Technology ,Science,3,"ChatGPT, Copilot",4.1,"Assignments, Coding Help",2,Yes,ChatGPT,2,No,Haryana,Laptop,Medium,0
+Uttaranchal College of Science & Technology ,Agriculture,4,Claude,4.7,Content Writing,1,Yes,Claude,6,Yes,Uttarakhand,Mobile,Medium,0
+"Maris Stella College, Vijayawada ",Agriculture,2,"Gemini, Midjourney",3.5,"MCQ Practice, Projects",4,No,Other,10,No,Andhra pradesh,Mobile,High,1
+"OPJS University, Churu ",Medical,1,Claude,3.5,MCQ Practice,2,Yes,ChatGPT,7,Yes,Rajasthan,Mobile,Poor,0
+"Maratha Mandal College of Pharmacy, Belgaum ",Pharmacy,3,Copilot,1.9,Assignments,2,No,Other,10,No,Karnataka,Tablet,High,1
+Dr Babasaheb Ambedkar Open University ,Law,1,"ChatGPT, Gemini, Copilot",4.0,Content Writing,1,Yes,Copilot,1,Yes,Gujarat,Tablet,High,1
+Sister Nivedita University ,Hotel-management,4,ChatGPT,4.2,"MCQ Practice, Projects",4,Yes,Copilot,4,Yes,West bengal,Tablet,Poor,0
+St. Berchmans College ,Commerce,3,Bard,1.1,"Content Writing, Assignments",4,Yes,ChatGPT,5,Yes,Kerala,Laptop,Medium,1
+Kalinga Institute of Industrial Technology ,Arts,1,Copilot,1.0,"Doubt Solving, Resume Writing",1,No,Copilot,5,Yes,Orissa,Mobile,High,0
+"ICFAI University, Baddi ",Science,4,ChatGPT,4.1,"Project Work, Resume Writing, Learning new topics",4,No,Copilot,9,No,Himachal pradesh,Laptop,Medium,0
+"Alpha College of Engineering & Technology, Pondicherry ",Engineering,4,"ChatGPT, Copilot",2.4,"Exam Prep, Notes",2,Yes,Copilot,5,Yes,Puducherry,Mobile,High,0
+Institute of Hotel Management Catering Technology and ,Hotel-management,4,"ChatGPT, Gemini, Copilot",2.0,"MCQ Practice, Projects",2,No,ChatGPT,9,No,Jammu,Mobile,Medium,0
+"Aizawl Theological College-[ATC], Aizawl ",Arts,3,ChatGPT,1.8,"MCQ Practice, Projects",1,No,Copilot,1,Yes,Mizoram,Mobile,Poor,0
+Heritage Institute of Hotel and Tourism ,Hotel-management,1,ChatGPT,0.9,Content Writing,5,Yes,Gemini,7,No,Uttar pradesh,Mobile,Medium,1
+Sri Padmavati Mahila Visvavidyalayam ,Law,1,Other,2.5,"Resume Writing, Content Writing, Doubt Solving",1,No,Bard,7,Yes,Andhra pradesh,Laptop,Medium,0
+Lady Hardinge Medical College ,Medical,4,Gemini,1.5,"Assignments, Coding Help",5,No,Copilot,3,No,Delhi ncr,Laptop,Medium,1
+GEMS B School ,Hotel-management,4,ChatGPT,2.9,"Doubt Solving, Resume Writing",2,No,ChatGPT,6,No,Karnataka,Laptop,Medium,1
+"Lalit Chandra Bharali College, Guwahati ",Management,2,ChatGPT,2.7,"Assignments, Coding Help",3,Yes,ChatGPT,6,Yes,Assam,Tablet,Poor,1
+"Union Christian College, Shillong ",Commerce,3,Copilot,4.9,"Resume Writing, Assignments, Coding Help",5,Yes,Claude,6,No,Meghalaya,Mobile,Medium,1
+"Chameli Devi Group of Institution, Indore ",Pharmacy,1,Other,3.8,"Coding Help, Doubt Solving",2,No,Bard,2,Yes,Madhya pradesh,Tablet,Poor,1
+Central India Institute of Management Studies ,Hotel-management,3,"Gemini, Midjourney",3.8,"Assignments, Coding Help",5,No,Copilot,2,No,Madhya pradesh,Tablet,Poor,1
+Kasturba Medical College ,Medical,1,"ChatGPT, Copilot",2.7,"Doubt Solving, Resume Writing",3,No,Other,3,Yes,Karnataka,Tablet,Medium,1
+P.S.G College of Technology ,Engineering,1,Claude,1.4,Project Work,4,No,ChatGPT,6,No,Tamil nadu,Tablet,Medium,1
+The Neotia University ,Agriculture,1,Gemini,1.8,"Assignments, Coding Help",4,No,ChatGPT,2,Yes,West bengal,Tablet,High,1
+National Institute of Food Technology Entrepreneurship and ,Engineering,3,"Gemini, Midjourney",0.7,"MCQ Practice, Projects",5,No,Copilot,1,Yes,Haryana,Mobile,Medium,0
+"Doying Gumin College, Pasighat ",Arts,3,Copilot,4.1,"Coding Help, Assignments, Project Work",2,Yes,Copilot,3,Yes,Arunachal pradesh,Laptop,Poor,1
+College of Veterinary and Animal Sciences ,Agriculture,2,Gemini,3.8,Learning new topics,3,No,Other,6,Yes,Rajasthan,Tablet,High,1
+Swosti Institute of Management and Social Studies ,Hotel-management,1,"ChatGPT, Copilot",2.6,"Doubt Solving, Resume Writing",1,Yes,Copilot,7,No,Orissa,Mobile,Poor,0
+RNB Global University ,Agriculture,1,Copilot,4.0,Learning new topics,5,No,ChatGPT,9,Yes,Rajasthan,Tablet,Medium,1
+"Swami Vivekanand University, Sagar ",Hotel-management,3,Gemini,4.0,"Exam Prep, Notes",3,No,Other,2,Yes,Madhya pradesh,Tablet,Medium,0
+Guru Nanak Dev Engineering College ,Engineering,3,Gemini,2.6,"Coding Help, Project Work, Resume Writing",5,Yes,Bard,3,No,Punjab,Laptop,Medium,0
+Pt. Ravishankar Shukla University ,Law,2,Copilot,1.9,"Doubt Solving, Resume Writing",4,No,ChatGPT,10,No,Chhattisgarh,Laptop,Poor,0
+Patna Women's College ,Arts,3,Bard,1.7,Assignments,2,No,Gemini,6,Yes,Bihar,Laptop,Medium,1
+Graphic Era University ,Management,1,Claude,3.4,"MCQ Practice, Assignments, Content Writing",5,No,Copilot,2,No,Uttarakhand,Laptop,Medium,1
+"Jagran School of Law, Dehradun ",Law,1,Gemini,1.8,"Doubt Solving, Resume Writing",4,No,ChatGPT,5,Yes,Uttarakhand,Tablet,High,1
+Belagavi Institute of Medical Sciences ,Medical,1,Claude,0.7,"MCQ Practice, Learning new topics, Content Writing",3,No,Bard,8,Yes,Karnataka,Tablet,High,0
+"Maharaja Ranjit Singh Punjab Technical University, Bathinda ",Agriculture,2,Copilot,2.9,"Exam Prep, Notes",3,Yes,Gemini,1,Yes,Punjab,Laptop,Poor,0
+"Sarah Institute of Paramedical Sciences, Itanagar ",Medical,1,Gemini,4.3,"Project Work, Resume Writing",5,Yes,Gemini,7,Yes,Arunachal pradesh,Tablet,Medium,1
+SunRise University ,Pharmacy,1,ChatGPT,1.0,"Exam Prep, Notes",4,No,ChatGPT,8,Yes,Rajasthan,Tablet,Medium,1
+A.V. College of Arts Science and Commerce ,Arts,3,Gemini,3.1,"Doubt Solving, Learning new topics",4,No,Claude,7,No,Telangana,Laptop,Poor,1
+Chaudhary Charan Singh University ,Law,1,Claude,4.5,Content Writing,1,Yes,Bard,9,Yes,Delhi ncr,Laptop,High,1
+Assam Science and Technology University ,Engineering,4,Bard,2.5,"Assignments, MCQ Practice, Doubt Solving",2,Yes,ChatGPT,10,Yes,Assam,Mobile,High,0
+Birla Institute of Technology and Science ,Engineering,1,ChatGPT,1.1,"Exam Preparation, Doubt Solving",2,Yes,Copilot,10,No,Rajasthan,Mobile,Medium,1
+"Government Homoeopathic Medical College, Calicut ",Medical,2,ChatGPT,2.1,"Doubt Solving, Resume Writing",1,Yes,Copilot,1,No,Kerala,Mobile,Poor,1
+Jawaharlal Nehru University ,Arts,1,ChatGPT,4.4,"Exam Prep, Notes",2,No,ChatGPT,9,No,Delhi ncr,Laptop,High,1
+O. P. Jindal Global University ,Law,4,Gemini,1.4,Content Writing,2,No,Gemini,5,Yes,Haryana,Mobile,Poor,1
+"Bir Tikendrajit University, Imphal ",Management,3,"Gemini, Midjourney",2.4,"Assignments, Coding Help",3,No,Gemini,4,Yes,Manipur,Tablet,Poor,1
+Royal Global University ,Science,3,Bard,2.6,"Content Writing, Resume Writing",3,Yes,Bard,7,Yes,Assam,Tablet,High,1
+Raghu Engineering College ,Engineering,2,"ChatGPT, Copilot",1.3,Content Writing,3,No,Other,8,Yes,Andhra pradesh,Tablet,Medium,1
+Bharathiar University ,Medical,3,Copilot,1.6,Doubt Solving,1,No,Gemini,3,No,Tamil nadu,Mobile,High,0
+Bhargava Degree College ,Science,3,ChatGPT,4.1,"Doubt Solving, Resume Writing",4,Yes,Other,3,Yes,Jammu,Laptop,Medium,0
+"EMEA College of Arts and Science Kondotty, ",Law,3,"ChatGPT, Copilot",4.3,"Exam Prep, Notes",4,No,Copilot,3,Yes,Kerala,Laptop,Poor,0
+St. Xavier's University ,Commerce,2,ChatGPT,4.6,"Project Work, Resume Writing",2,No,Bard,9,Yes,West bengal,Mobile,Medium,0
+Jawaharlal Nehru Rajkeeya Mahavidyalaya ,Agriculture,1,Bard,3.1,"MCQ Practice, Assignments, Content Writing",3,No,Other,3,No,Andaman,Laptop,High,1
+Baba Balak Nath Post Graduate College ,Science,3,Copilot,1.3,"Doubt Solving, Resume Writing",5,Yes,Other,10,Yes,Himachal pradesh,Tablet,Medium,1
+Kalinga Institute of Industrial Technology ,Management,4,"ChatGPT, Copilot",2.4,"Assignments, Coding Help",1,Yes,ChatGPT,1,No,Orissa,Laptop,Medium,1
+Pandit Deendayal Petroleum University [PDPU] / (Energy ,Arts,3,"Gemini, Midjourney",1.9,"MCQ Practice, Projects",5,Yes,Gemini,3,Yes,Gujarat,Mobile,Poor,0
+Narsee Monjee Institute of Management Studies ,Medical,2,ChatGPT,2.9,"Exam Prep, Notes",5,No,Copilot,3,Yes,Maharashtra,Laptop,Poor,0
+Ramchandra Chandravansi University ,Arts,2,"ChatGPT, Gemini, Copilot",1.3,"Doubt Solving, Resume Writing",3,Yes,Gemini,4,No,Jharkhand,Tablet,High,0
+Rajiv Gandhi Government Polytechnic ,Hotel-management,1,Claude,0.6,"Exam Preparation, Project Work, Resume Writing",4,No,ChatGPT,1,No,Arunachal pradesh,Mobile,Medium,0
+K L University ,Arts,2,ChatGPT,2.7,"Exam Prep, Notes",4,No,Copilot,10,Yes,Andhra pradesh,Laptop,High,1
+Government Law College ,Law,4,Other,2.0,Content Writing,4,Yes,Other,2,No,Kerala,Tablet,Medium,0
+"Sharda University, School of Business Studies ",Commerce,4,Gemini,2.0,"Doubt Solving, Resume Writing",3,No,Other,8,No,Uttar pradesh,Mobile,Poor,1
+Shaheed Rajguru College of Applied Sciences for ,Science,1,"ChatGPT, Copilot",4.0,"Exam Prep, Notes",5,No,ChatGPT,4,No,Delhi ncr,Tablet,Poor,0
+"SRM Engineering College, Kanchipuram ",Engineering,3,Copilot,4.2,MCQ Practice,4,Yes,Gemini,8,No,Tamil nadu,Laptop,Poor,1
+International Institute of Hotel Management ,Hotel-management,2,Claude,4.8,Resume Writing,5,No,ChatGPT,9,No,Gujarat,Tablet,Poor,0
+National Institute of Technology ,Arts,1,"Gemini, Midjourney",3.9,"Assignments, Coding Help",5,Yes,Copilot,7,Yes,Manipur,Mobile,High,1
+Chandigarh University ,Agriculture,2,Claude,3.6,Content Writing,1,No,Bard,10,Yes,Punjab,Tablet,High,1
+Narendra Deva University of Agriculture and Technology ,Agriculture,4,Copilot,3.2,"Coding Help, Project Work, Doubt Solving",3,Yes,ChatGPT,5,No,Uttar pradesh,Laptop,Poor,1
+Swami Vivekanand College of Computer Science ,Science,3,Gemini,2.3,"Assignments, Coding Help",3,Yes,Other,4,No,Gujarat,Laptop,High,1
+"IPS Group of Colleges, Gwalior ",Pharmacy,3,"ChatGPT, Copilot",0.5,"Exam Prep, Notes",1,No,Gemini,4,Yes,Madhya pradesh,Tablet,Poor,0
+"Nagaland University, Zunhebotto ",Engineering,3,Claude,1.3,Doubt Solving,3,No,ChatGPT,2,Yes,Nagaland,Tablet,High,1
+Suresh Gyan Vihar University ,Engineering,1,Gemini,1.3,"Doubt Solving, Resume Writing",1,No,Other,3,Yes,Rajasthan,Laptop,Poor,1
+"PDM University, Bahadurgarh, Bahadurgarh ",Medical,4,"Gemini, Midjourney",2.2,Learning new topics,5,Yes,ChatGPT,6,Yes,Haryana,Mobile,Poor,1
+"Christ University, Bangalore ",Engineering,4,Other,1.0,Coding Help,5,Yes,Copilot,9,No,Karnataka,Laptop,High,0
+National Institute of Technology ,Science,4,Copilot,1.7,Content Writing,5,No,Copilot,2,No,Karnataka,Laptop,Medium,1
+"Rawal Institutions, Faridabad ",Hotel-management,3,Other,1.6,Doubt Solving,1,Yes,Gemini,10,No,Haryana,Laptop,Medium,1
+Indian Institute of Information Technology ,Engineering,1,Copilot,1.2,"Assignments, Coding Help",2,No,Copilot,3,No,Gujarat,Laptop,High,0
+Raipur Institute of Technology ,Engineering,4,"ChatGPT, Copilot",2.3,"Doubt Solving, Resume Writing",3,No,Copilot,3,Yes,Chhattisgarh,Laptop,High,0
+National Institute of Fashion Technology ,Management,2,"ChatGPT, Gemini, Copilot",3.8,"MCQ Practice, Projects",5,No,Copilot,4,No,Meghalaya,Laptop,High,0
+Himgiri Zee University ,Management,1,"ChatGPT, Gemini, Copilot",3.4,"MCQ Practice, Projects",3,No,Other,4,No,Uttarakhand,Mobile,Medium,0
+Modern College of Arts Science and Commerce ,Arts,3,Copilot,0.9,"MCQ Practice, Projects",5,Yes,Other,2,No,Maharashtra,Laptop,High,0
+PVKN Govt Degree College ,Science,3,ChatGPT,4.9,"Project Work, Content Writing, Assignments",5,Yes,Bard,8,Yes,Andhra pradesh,Mobile,Poor,1
+"Arka Jain University, Jamshedpur ",Law,1,Copilot,1.8,"MCQ Practice, Projects",5,No,ChatGPT,7,Yes,Jharkhand,Mobile,Poor,0
+Ranijta Institute of Hotel Management and Catering ,Hotel-management,4,ChatGPT,2.0,"MCQ Practice, Assignments, Learning new topics",2,No,ChatGPT,5,Yes,Orissa,Tablet,High,0
+"Maryland Institute of Technology And Management, Jamshedpur ",Engineering,3,"ChatGPT, Copilot",2.7,"MCQ Practice, Projects",1,Yes,ChatGPT,1,Yes,Jharkhand,Laptop,High,1
+Sacred Heart College ,Commerce,3,Gemini,4.1,Coding Help,5,Yes,Claude,10,No,Kerala,Mobile,Poor,0
+Rungta College of Pharmaceutical Sciences and Research ,Pharmacy,2,Gemini,3.8,"Assignments, Coding Help",4,Yes,Copilot,10,No,Chhattisgarh,Tablet,High,0
+St Francis De Sales College ,Arts,1,"ChatGPT, Copilot",3.7,Learning new topics,4,Yes,Gemini,7,Yes,Maharashtra,Tablet,High,0
+Bangalore Medical College and Research Institute ,Science,3,"ChatGPT, Copilot",0.8,"Assignments, Coding Help",1,Yes,ChatGPT,8,Yes,Karnataka,Mobile,Poor,0
+Institute of Technology and Future Management Trends ,Management,4,Other,1.1,Content Writing,5,No,Gemini,3,No,Chandigarh,Tablet,Poor,1
+"Guru Nanak Dev University Regional Campus, Gurdaspur ",Law,1,Copilot,2.1,"Learning new topics, Project Work, Doubt Solving",1,Yes,ChatGPT,3,Yes,Punjab,Laptop,High,0
+K L University ,Science,3,ChatGPT,1.4,"Assignments, Coding Help",2,No,Copilot,1,No,Andhra pradesh,Tablet,High,1
+Indian Institute of Technology ,Arts,4,Bard,0.5,Assignments,3,Yes,Bard,10,Yes,Andhra pradesh,Mobile,High,0
+"Loyola College, Chennai ",Commerce,4,Copilot,2.0,"Exam Prep, Notes",3,Yes,Copilot,8,No,Tamil nadu,Tablet,Medium,0
+"Department of Management Studies, Indian Institute of ",Management,3,Gemini,4.7,"Assignments, MCQ Practice",1,No,Claude,9,Yes,Uttarakhand,Tablet,Medium,0
+"Bimala Prasad Chaliha College, Kamrup ",Science,4,Gemini,4.5,Assignments,5,No,Other,3,Yes,Assam,Mobile,Poor,1
+Shri Vaishnav Institute of Management ,Science,2,"ChatGPT, Copilot",2.3,"Assignments, Coding Help",4,Yes,ChatGPT,1,No,Madhya pradesh,Tablet,Poor,0
+"Netaji Subhash College, Raipur ",Medical,3,"ChatGPT, Gemini, Copilot",1.4,"MCQ Practice, Projects",4,No,Gemini,3,Yes,Chhattisgarh,Tablet,High,1
+"Hindu College, New Delhi ",Commerce,4,"ChatGPT, Gemini, Copilot",4.0,"Exam Prep, Notes",3,Yes,ChatGPT,2,No,Delhi ncr,Tablet,Poor,1
+Chandigarh Institute of Hotel Management and Catering ,Hotel-management,2,"ChatGPT, Copilot",2.0,Learning new topics,3,No,ChatGPT,9,No,Chandigarh,Mobile,Medium,1
+Madhav University ,Agriculture,3,Bard,2.3,Coding Help,5,No,Copilot,2,Yes,Rajasthan,Laptop,Poor,0
+IIEBM Indus Business School ,Management,4,Other,1.8,"Exam Preparation, Doubt Solving, Content Writing",3,Yes,Gemini,3,No,Maharashtra,Tablet,Poor,1
+Christian College of Engineering and Technology ,Engineering,2,Copilot,2.7,"MCQ Practice, Projects",4,Yes,Other,8,No,Chhattisgarh,Laptop,Medium,0
+Sri Venkateswara University ,Commerce,1,ChatGPT,4.2,Resume Writing,2,No,Other,2,Yes,Andhra pradesh,Mobile,High,1
+National Law Institute University ,Science,3,Other,1.8,Doubt Solving,3,No,Copilot,7,Yes,Madhya pradesh,Laptop,High,0
+Dantuluri Narayana Raju college ,Agriculture,4,Gemini,0.9,Learning new topics,2,Yes,ChatGPT,10,Yes,Andhra pradesh,Laptop,Medium,1
+"P.P. Savani University, Surat ",Medical,2,"Gemini, Midjourney",3.3,"MCQ Practice, Projects",1,Yes,Gemini,7,No,Gujarat,Mobile,High,1
+Sarosh Institute of Hotel Administration ,Hotel-management,1,ChatGPT,4.2,"Content Writing, Resume Writing, Assignments",1,No,Bard,5,No,Karnataka,Laptop,High,1
+"Rayat Bahra University, Mohali ",Agriculture,2,Copilot,0.5,Content Writing,1,No,Copilot,10,No,Punjab,Tablet,High,1
+"Durgapur Institute of Legal Studies, Bardhaman ",Law,3,Copilot,1.4,Content Writing,1,Yes,ChatGPT,9,No,West bengal,Laptop,Medium,1
+Marwadi University ,Agriculture,1,ChatGPT,3.5,"MCQ Practice, Doubt Solving",1,No,Claude,2,Yes,Gujarat,Laptop,Poor,1
+"Sushant University / Ansal University, Gurgaon ",Management,2,Gemini,2.9,"Coding Help, Content Writing",4,Yes,Gemini,2,No,Haryana,Mobile,Medium,0
+Army Institute of Nursing ,Medical,1,Other,2.6,"MCQ Practice, Exam Preparation, Project Work",3,No,Other,8,No,Assam,Tablet,High,0
+"Cluster University of Jammu, Jammu ",Commerce,1,Claude,0.6,"Exam Preparation, Project Work, Assignments",1,No,Claude,3,Yes,Jammu,Tablet,Medium,0
+Vidyavardhaka Law College ,Law,4,ChatGPT,3.3,"Content Writing, Doubt Solving",5,Yes,Copilot,10,No,Karnataka,Laptop,Medium,0
+Rajagiri Business School ,Management,3,"ChatGPT, Gemini, Copilot",1.2,Learning new topics,2,No,Copilot,5,Yes,Kerala,Mobile,Medium,0
+"Dhenkanal Autonomous College, Dhenkanal ",Commerce,2,"ChatGPT, Gemini, Copilot",1.4,"Exam Prep, Notes",2,No,ChatGPT,4,No,Orissa,Laptop,Poor,1
+Government Polytechnic ,Engineering,4,Copilot,1.6,"Assignments, Coding Help",3,No,Gemini,1,Yes,Goa,Laptop,Medium,0
+"Anand Niketan College of Agriculture, Chandrapur ",Agriculture,3,Gemini,4.0,Content Writing,2,Yes,Gemini,10,Yes,Maharashtra,Mobile,High,0
+Institute of Agri Business Management ,Agriculture,2,Gemini,3.0,Learning new topics,3,No,Claude,9,Yes,Rajasthan,Tablet,Medium,0
+CMR Engineering College ,Engineering,4,"ChatGPT, Copilot",4.2,"Exam Prep, Notes",3,Yes,Gemini,1,No,Telangana,Mobile,Poor,1
+"Khalsa College, Amritsar ",Arts,1,"ChatGPT, Gemini, Copilot",0.9,Content Writing,4,No,ChatGPT,6,Yes,Punjab,Mobile,Medium,0
+Institute of Advanced Studies in Education ,Engineering,2,ChatGPT,2.3,"MCQ Practice, Project Work",1,Yes,Gemini,8,No,Rajasthan,Mobile,Medium,0
+Jawahar Lal Nehru Medical College ,Medical,1,"ChatGPT, Copilot",0.8,Learning new topics,5,Yes,Copilot,6,No,Uttar pradesh,Tablet,Medium,0
+Indian Institute of Management ,Management,1,"ChatGPT, Copilot",0.6,"MCQ Practice, Projects",5,Yes,Copilot,9,No,Rajasthan,Laptop,Medium,1
+"Mahatma Gandhi Memorial Medical College, Jamshedpur ",Medical,1,Claude,4.6,MCQ Practice,3,No,Copilot,3,Yes,Jharkhand,Tablet,High,1
+Annamalai University ,Agriculture,2,"ChatGPT, Copilot",1.4,"Exam Prep, Notes",3,No,Other,1,Yes,Tamil nadu,Laptop,Poor,1
+"Govt Zirtiri Residential Science College, Aizawl ",Science,2,"ChatGPT, Copilot",3.2,"Doubt Solving, Resume Writing",2,Yes,ChatGPT,3,Yes,Mizoram,Mobile,High,1
+Mahatma Jyoti Rao Phoole University ,Law,4,"ChatGPT, Copilot",2.7,Learning new topics,5,Yes,Other,6,Yes,Rajasthan,Mobile,High,1
+"St. Xavier's College, Bardez ",Science,4,Claude,1.8,"Content Writing, MCQ Practice",1,No,Gemini,7,No,Goa,Laptop,High,1
+Jaypee University of Information Technology ,Engineering,4,Bard,3.8,Doubt Solving,2,No,Gemini,4,No,Himachal pradesh,Tablet,Poor,1
+"KK Wagh College of Agriculture, Nashik ",Agriculture,4,Other,1.8,"Resume Writing, Learning new topics",4,Yes,Copilot,4,Yes,Maharashtra,Laptop,Poor,0
+BV Patel Pharmaceutical Education and Research Development ,Pharmacy,4,ChatGPT,4.9,"Resume Writing, Doubt Solving, Learning new topics",4,Yes,Copilot,9,No,Gujarat,Mobile,Medium,1
+Acharya NG Ranga Agricultural University ,Science,2,Copilot,3.5,Content Writing,5,No,ChatGPT,4,No,Andhra pradesh,Tablet,Poor,0
+B.K Birla College Of Arts Science & ,Commerce,2,Bard,3.6,Assignments,3,No,Other,3,Yes,Maharashtra,Mobile,High,0
+Bangalore Medical College and Research Institute ,Medical,4,Gemini,2.6,"Exam Preparation, Content Writing",1,Yes,Other,9,Yes,Karnataka,Mobile,High,0
+"The Modern College, Imphal ",Science,1,Gemini,2.8,"Assignments, Coding Help",5,Yes,Other,1,No,Manipur,Laptop,Poor,0
+Indian Institute of Information Technology ,Engineering,2,"ChatGPT, Gemini, Copilot",2.8,"Exam Prep, Notes",3,Yes,Gemini,1,No,Himachal pradesh,Laptop,High,1
+P.K. University ,Pharmacy,3,"ChatGPT, Copilot",3.6,"Doubt Solving, Resume Writing",5,No,Copilot,7,Yes,Madhya pradesh,Mobile,Medium,1
+Agricultural College and Research Institute ,Agriculture,1,Copilot,4.4,Doubt Solving,2,Yes,Other,2,Yes,Tamil nadu,Tablet,Medium,0
+"Artex Informatic Solutions, Chandigarh ",Arts,3,"ChatGPT, Gemini, Copilot",3.3,Content Writing,5,No,ChatGPT,7,Yes,Chandigarh,Mobile,Medium,0
+"Assam University, Silchar ",Law,3,Gemini,2.8,"Doubt Solving, Resume Writing",1,Yes,Copilot,6,Yes,Assam,Laptop,High,0
+"SCMS Cochin School of Business, Cochin ",Management,4,ChatGPT,2.1,Content Writing,4,No,ChatGPT,5,No,Kerala,Mobile,High,1
+"SRM University Delhi NCR, Sonepat ",Hotel-management,4,Gemini,2.8,"Doubt Solving, Resume Writing",1,No,Copilot,6,Yes,Haryana,Mobile,High,1
+Nimra College of Pharmacy ,Pharmacy,4,Copilot,1.9,"Doubt Solving, Resume Writing",2,Yes,Copilot,2,Yes,Andhra pradesh,Tablet,Medium,1
+Alwar School of Business ,Medical,3,Gemini,2.9,"Exam Prep, Notes",1,Yes,Other,8,No,Andhra pradesh,Tablet,High,0
+Anugrah Narayan Singh College ,Arts,4,"ChatGPT, Copilot",3.3,Content Writing,1,No,Other,4,No,Bihar,Mobile,Poor,1
+"R.B.D. Mahila Mahavidyalaya, Bijnor ",Commerce,2,"Gemini, Midjourney",2.7,"Doubt Solving, Resume Writing",3,Yes,ChatGPT,5,Yes,Uttar pradesh,Laptop,High,0
+"Bikali College, Goalpara ",Management,2,"Gemini, Midjourney",2.7,"Doubt Solving, Resume Writing",1,Yes,Gemini,5,No,Assam,Laptop,High,1
+Delhi Pharmaceutical Sciences and Research University ,Medical,4,"ChatGPT, Gemini, Copilot",2.7,Content Writing,5,Yes,ChatGPT,10,Yes,Delhi ncr,Mobile,Medium,1
+Netaji Subhas University ,Science,1,ChatGPT,1.7,Coding Help,4,Yes,Gemini,5,No,Jharkhand,Tablet,High,0
+"Sri Manakula Vinayagar Polytechnic College-[SMVPC], Pondicherry ",Engineering,2,Copilot,4.0,"MCQ Practice, Projects",5,Yes,ChatGPT,9,Yes,Puducherry,Tablet,Poor,1
+State Institute of Hotel Management Catering Technology ,Hotel-management,3,"ChatGPT, Copilot",2.5,"Exam Prep, Notes",3,Yes,Copilot,9,No,Himachal pradesh,Laptop,Medium,0
+"ICFAI University, West Tripura ",Law,4,"ChatGPT, Copilot",1.3,"Assignments, Coding Help",3,Yes,Gemini,10,No,Tripura,Tablet,Poor,1
+"Amity University, Kolkata ",Law,1,"Gemini, Midjourney",3.2,Learning new topics,1,No,Other,6,No,West bengal,Laptop,Poor,1
+Chouksey Engineering College ,Management,1,Claude,4.4,Exam Preparation,2,Yes,Other,4,No,Chhattisgarh,Tablet,Medium,0
+Shri Shankaracharya Institute of Professional Management and ,Science,4,Bard,1.8,"Doubt Solving, Project Work, MCQ Practice",4,Yes,Copilot,2,Yes,Chhattisgarh,Mobile,Medium,0
+Acharya Narendra Dev College ,Commerce,4,ChatGPT,3.3,"MCQ Practice, Projects",4,Yes,Copilot,8,No,Delhi ncr,Mobile,Medium,1
+Anand Arts College ,Arts,1,ChatGPT,0.5,"Exam Preparation, Learning new topics",3,Yes,ChatGPT,3,Yes,Gujarat,Laptop,High,0
+"Shree Damodar College of Commerce and Economics, Salcete ",Commerce,3,"ChatGPT, Gemini, Copilot",4.4,"Doubt Solving, Resume Writing",1,No,Gemini,2,No,Goa,Laptop,Medium,1
+Indus Institute of Hotel Management ,Hotel-management,3,"ChatGPT, Copilot",2.3,Learning new topics,5,No,Other,10,Yes,Andhra pradesh,Tablet,Poor,1
+International Institute of Information Technology ,Arts,4,"ChatGPT, Copilot",1.4,Learning new topics,5,No,Gemini,10,Yes,Chhattisgarh,Laptop,Poor,1
+"Indian Institute of Information Technology [IIIT], Kottayam ",Engineering,4,"ChatGPT, Gemini, Copilot",4.0,"Exam Prep, Notes",2,Yes,Copilot,7,Yes,Kerala,Mobile,Poor,1
+"Rungta Group of Institutions Bhilai Campus, Bhilai ",Arts,2,Copilot,3.1,"MCQ Practice, Assignments",1,No,Other,10,Yes,Chhattisgarh,Laptop,High,1
+Sardar Patel University ,Pharmacy,2,Claude,4.9,"Learning new topics, Resume Writing",5,Yes,ChatGPT,7,No,Madhya pradesh,Tablet,Medium,1
+"PG Government College for Girls, Chandigarh ",Management,4,Gemini,0.8,"Content Writing, Project Work",3,Yes,Copilot,5,Yes,Chandigarh,Tablet,Medium,1
+"Parvatibai Chowgule College of Arts and Science, Salcete ",Arts,4,Claude,0.9,"Doubt Solving, MCQ Practice, Project Work",2,Yes,Gemini,9,No,Goa,Tablet,Poor,1
+Maharashtra Institute of Medical Education and Research ,Medical,4,"Gemini, Midjourney",1.6,"Exam Prep, Notes",4,Yes,ChatGPT,3,Yes,Maharashtra,Laptop,Medium,1
+"Institute of Law, Nirma University ",Law,1,Copilot,2.0,Learning new topics,2,No,Other,5,No,Gujarat,Mobile,Poor,0
+"Pragjyotish College, Guwahati ",Science,2,Copilot,4.3,"Doubt Solving, Resume Writing",1,Yes,Other,6,No,Assam,Mobile,Medium,0
+IEC University Baddi ,Law,4,Other,3.2,Coding Help,2,Yes,Claude,4,Yes,Himachal pradesh,Laptop,Poor,1
+"Indus University, Ahmedabad ",Management,3,"Gemini, Midjourney",3.9,"Exam Prep, Notes",1,No,ChatGPT,2,No,Gujarat,Tablet,High,1
+Modern Vidya Niketan ,Agriculture,4,Copilot,0.9,Doubt Solving,2,Yes,ChatGPT,6,No,Delhi ncr,Mobile,High,0
+"NSHM Knowledge Campus, Kolkata ",Science,1,Other,2.7,MCQ Practice,2,No,ChatGPT,7,No,West bengal,Laptop,High,1
+"Sambalpur University, Sambalpur ",Law,1,"Gemini, Midjourney",1.4,Content Writing,5,No,Other,6,No,Orissa,Tablet,High,0
+Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya ,Science,1,ChatGPT,4.2,"Project Work, Coding Help",1,Yes,Copilot,2,No,Himachal pradesh,Tablet,Medium,0
+Ram Krishna Dwarika College ,Science,4,Copilot,1.0,"Doubt Solving, Resume Writing",2,Yes,Other,8,No,Bihar,Laptop,Poor,0
+National Institute of Technology ,Engineering,2,Other,4.4,Resume Writing,3,No,Claude,3,No,Chhattisgarh,Tablet,Poor,0
+"Rungta Group of Institutions Raipur Campus, Raipur ",Commerce,2,Copilot,4.7,Exam Preparation,3,Yes,Claude,7,Yes,Chhattisgarh,Tablet,High,1
+Dharma Apparao College ,Commerce,2,ChatGPT,0.8,"Project Work, Learning new topics",3,Yes,Gemini,8,No,Andhra pradesh,Tablet,Medium,1
+Bhargava Degree College ,Arts,1,Copilot,3.8,"Coding Help, Resume Writing, MCQ Practice",4,Yes,ChatGPT,2,Yes,Jammu,Laptop,Medium,1
+Dharmsinh Desai University ,Engineering,3,Copilot,1.1,"MCQ Practice, Projects",5,Yes,ChatGPT,5,No,Gujarat,Tablet,Poor,0
+"Govind Ramnath Kare College of Law, South Goa ",Law,1,ChatGPT,1.1,"Coding Help, Resume Writing",1,Yes,Copilot,4,Yes,Goa,Mobile,Medium,1
+Shivalik Institute of Paramedical Technology ,Management,3,ChatGPT,2.5,Learning new topics,2,No,ChatGPT,5,No,Chandigarh,Laptop,Medium,0
+"St Teresa's College (Autonomous), Ernakulam ",Medical,4,Gemini,4.8,"Coding Help, Doubt Solving, Resume Writing",2,No,Copilot,8,Yes,Kerala,Mobile,Medium,1
+Manav Rachna International Institute of Research and ,Hotel-management,3,Copilot,3.8,Doubt Solving,2,Yes,Gemini,7,No,Delhi ncr,Tablet,Medium,0
+"St. Mira's College for Girls, Pune ",Commerce,1,"ChatGPT, Copilot",4.3,"Doubt Solving, Resume Writing",2,Yes,Other,2,No,Maharashtra,Mobile,High,1
+Centurion University of Technology and Management ,Pharmacy,4,Gemini,4.1,"Resume Writing, Doubt Solving, Learning new topics",4,Yes,Other,10,No,Andhra pradesh,Laptop,Poor,1
+"Banasthali Vidyapith, Jaipur ",Agriculture,1,"Gemini, Midjourney",2.6,"MCQ Practice, Projects",3,No,Other,6,No,Rajasthan,Mobile,Poor,1
+"St Francis Sales College, West Siang ",Arts,2,ChatGPT,2.6,"Assignments, Coding Help",5,No,ChatGPT,6,No,Arunachal pradesh,Tablet,Poor,1
+"Shangrila Institute of Hotel Management and Aviation, ",Hotel-management,2,"Gemini, Midjourney",1.1,"Assignments, Coding Help",5,No,Other,6,No,Andhra pradesh,Laptop,Medium,1
+Ashoka Institute of Technology and Management ,Pharmacy,3,ChatGPT,1.8,"Exam Preparation, Resume Writing",4,No,Copilot,6,Yes,Chhattisgarh,Laptop,Poor,1
+"Bahona College, Jorhat ",Arts,1,"Gemini, Midjourney",3.1,Learning new topics,3,No,Gemini,7,No,Assam,Tablet,Poor,0
+Garware Institute of Career Education and Development ,Agriculture,2,Copilot,1.6,"Assignments, Coding Help",2,Yes,ChatGPT,2,Yes,Maharashtra,Laptop,High,0
+Institute of Management Study ,Science,3,"ChatGPT, Gemini, Copilot",4.2,"Exam Prep, Notes",5,Yes,Other,9,Yes,West bengal,Mobile,Medium,1
+National Law University ,Science,1,Claude,2.6,Coding Help,2,No,Copilot,5,No,Rajasthan,Mobile,Medium,0
+Govind Ballabh Pant University of Agriculture and ,Science,3,Copilot,3.1,"MCQ Practice, Projects",5,No,Copilot,5,No,Uttarakhand,Laptop,Poor,0
+IFMR Graduate School of Business ,Management,4,Copilot,3.1,Learning new topics,5,No,Other,1,No,Andhra pradesh,Tablet,Poor,0
+Nalanda College of Engineering ,Engineering,2,Claude,4.0,"Learning new topics, Exam Preparation, MCQ Practice",4,Yes,Bard,8,No,Bihar,Tablet,High,1
+Himalayan University ,Agriculture,3,Other,4.8,"Doubt Solving, Project Work",4,Yes,Copilot,3,Yes,Arunachal pradesh,Laptop,Poor,1
+Bengal Institute of Technology ,Engineering,3,Gemini,4.0,"Exam Preparation, Coding Help, Content Writing",1,No,Bard,1,No,West bengal,Tablet,Poor,0
+Shivaji University ,Agriculture,4,Gemini,0.9,"Exam Prep, Notes",3,Yes,ChatGPT,5,Yes,Maharashtra,Mobile,Poor,1
+Maharashtra Institute of Medical Education and Research ,Medical,2,Claude,1.8,Coding Help,4,No,Copilot,2,No,Maharashtra,Laptop,Medium,1
+Pt. Ravishankar Shukla University ,Commerce,4,ChatGPT,2.8,"Doubt Solving, Coding Help, Project Work",2,Yes,Gemini,10,No,Chhattisgarh,Mobile,High,1
+Indira Gandhi Krishi Vishwavidyalaya ,Science,1,ChatGPT,1.2,"Content Writing, Assignments, Coding Help",3,Yes,Other,4,No,Chhattisgarh,Laptop,Medium,0
+"Amity University, Kolkata ",Engineering,2,"ChatGPT, Gemini, Copilot",3.2,Learning new topics,1,Yes,Other,3,No,West bengal,Mobile,High,1
+"Govt. T.C.L. College, Janjgir ",Law,4,Gemini,4.3,"Assignments, Coding Help",3,Yes,Other,3,Yes,Chhattisgarh,Mobile,Poor,0
+Prestige Institute of Management ,Commerce,1,ChatGPT,3.0,"Assignments, Coding Help",4,No,Gemini,1,Yes,Madhya pradesh,Laptop,Poor,1
+"Bahona College, Jorhat ",Agriculture,3,Gemini,2.7,"Exam Prep, Notes",2,Yes,Copilot,3,No,Assam,Tablet,Medium,1
+Shaheed Rajguru College of Applied Sciences for ,Science,4,Other,2.7,"Content Writing, Project Work, Resume Writing",4,No,Claude,9,Yes,Delhi ncr,Mobile,High,1
+Anderson Theological College ,Arts,1,Copilot,4.1,"MCQ Practice, Coding Help, Resume Writing",2,No,Copilot,8,No,Nagaland,Tablet,High,1
+Central Institute of Fisheries Education ,Agriculture,1,Copilot,2.1,Learning new topics,2,Yes,Other,2,Yes,Maharashtra,Tablet,Medium,1
+Institute of Hotel Management and Catering Technology ,Hotel-management,1,"ChatGPT, Copilot",0.6,"Doubt Solving, Resume Writing",4,No,Copilot,7,Yes,Dadra,Laptop,High,0
+Directorate of Research on Woman in Agriculture ,Arts,2,"ChatGPT, Gemini, Copilot",0.9,"Exam Prep, Notes",1,No,Other,6,No,Orissa,Tablet,High,1
+Jayoti Vidyapeeth Women's University ,Pharmacy,1,Claude,4.4,"MCQ Practice, Doubt Solving",4,No,Gemini,4,No,Rajasthan,Tablet,Medium,1
+Indira Gandhi Institute of Medical Sciences ,Medical,3,Copilot,1.0,"Doubt Solving, Resume Writing",3,No,ChatGPT,4,Yes,Bihar,Tablet,Medium,0
+Royal Global University ,Commerce,4,Copilot,1.7,"Content Writing, MCQ Practice, Resume Writing",2,Yes,Claude,6,No,Assam,Tablet,Poor,1
+"Amity University, Noida ",Commerce,3,Other,1.1,"Learning new topics, Assignments, Content Writing",5,Yes,ChatGPT,1,Yes,Uttar pradesh,Tablet,Poor,0
+"Directorate of Coldwater Fisheries Research, Nainital ",Agriculture,4,Copilot,4.8,"Coding Help, Assignments",1,Yes,Bard,9,Yes,Uttarakhand,Laptop,Poor,0
+"Government Shahid Kaushal Yadav College, Balod ",Commerce,3,Copilot,5.0,"MCQ Practice, Exam Preparation",1,No,ChatGPT,9,No,Chhattisgarh,Laptop,Medium,0
+"RP Sharma Institute of Technology, Patna ",Engineering,4,"Gemini, Midjourney",2.5,Learning new topics,2,No,ChatGPT,9,Yes,Bihar,Tablet,High,1
+Shri Ram Murti Smarak College of Engineering ,Management,4,Other,3.1,Learning new topics,1,No,ChatGPT,3,Yes,Uttar pradesh,Laptop,High,1
+"C. V. Raman Global University, Bhubaneswar ",Hotel-management,1,"ChatGPT, Gemini, Copilot",0.9,"Doubt Solving, Resume Writing",2,No,Copilot,6,No,Orissa,Mobile,High,1
+"The Modern College, Imphal ",Science,1,"ChatGPT, Gemini, Copilot",2.0,Learning new topics,5,Yes,Other,2,Yes,Manipur,Tablet,Medium,1
+Shaheed Rajguru College of Applied Sciences for ,Arts,2,Copilot,2.9,Content Writing,5,Yes,Gemini,5,No,Delhi ncr,Laptop,High,1
+"Institute of Management Studies, Ranchi University ",Hotel-management,3,Gemini,4.0,"Exam Prep, Notes",1,No,ChatGPT,4,Yes,Jharkhand,Tablet,Medium,0
+Guru Angad Dev Veterinary and Animal Sciences ,Agriculture,3,Other,3.0,"Doubt Solving, MCQ Practice",2,No,Other,6,No,Punjab,Tablet,High,0
+Indian Institute of Information Technology ,Science,3,Copilot,0.7,Learning new topics,3,No,Gemini,3,No,Manipur,Tablet,High,0
+SCMS School of Technology and Management ,Science,3,"Gemini, Midjourney",4.2,"MCQ Practice, Projects",5,Yes,Other,4,Yes,Kerala,Laptop,High,1
+IMS Unison University ,Arts,2,"ChatGPT, Gemini, Copilot",4.4,"MCQ Practice, Projects",5,No,Gemini,9,No,Uttarakhand,Tablet,High,1
+Sambhram College of Hotel Management ,Hotel-management,2,"Gemini, Midjourney",0.7,Learning new topics,3,Yes,Copilot,4,No,Karnataka,Tablet,Poor,0
+"Arya Post Graduate College, Panipat ",Law,4,"ChatGPT, Copilot",2.6,Content Writing,2,No,Gemini,8,Yes,Haryana,Laptop,Medium,0
+Punjab College of Technical Education ,Hotel-management,1,ChatGPT,2.2,Content Writing,5,No,Gemini,2,Yes,Punjab,Tablet,High,0
+Jorhat Medical College ,Medical,2,Bard,1.2,"Resume Writing, MCQ Practice, Doubt Solving",1,Yes,Other,7,Yes,Assam,Laptop,Poor,0
+Central Institute of Technology ,Arts,4,Claude,3.4,Coding Help,2,Yes,ChatGPT,7,Yes,Assam,Tablet,High,0
+"IIKM Business School, Chennai ",Management,3,ChatGPT,2.6,"MCQ Practice, Projects",5,Yes,Copilot,5,Yes,Tamil nadu,Laptop,Poor,0
+"Ganjam Law College, Berhampur ",Law,3,"Gemini, Midjourney",2.9,"MCQ Practice, Projects",2,No,ChatGPT,9,No,Orissa,Tablet,Medium,0
+"RKDF University, Ranchi ",Law,4,"Gemini, Midjourney",2.9,"MCQ Practice, Projects",2,No,ChatGPT,3,Yes,Jharkhand,Tablet,High,0
+Career Point University ,Science,4,Copilot,3.9,"Coding Help, Exam Preparation",1,Yes,Other,7,Yes,Rajasthan,Mobile,Medium,0
+Bonnie foi College ,Law,2,Other,1.8,"Doubt Solving, Exam Preparation",1,No,Claude,3,No,Madhya pradesh,Mobile,Medium,0
+Sri Pratap Memorial Rajput College of Commerce ,Commerce,1,ChatGPT,2.3,"Exam Prep, Notes",5,Yes,ChatGPT,7,Yes,Jammu,Laptop,Poor,1
+"DY Patil University, Navi Mumbai ",Science,4,"ChatGPT, Gemini, Copilot",3.1,"Exam Prep, Notes",1,Yes,Copilot,6,No,Maharashtra,Mobile,High,1
+Veermata Jijabai Technological Institute ,Engineering,4,Copilot,3.3,"Doubt Solving, Assignments",5,Yes,Other,5,Yes,Maharashtra,Tablet,Medium,0
+"Government College of Arts Science and Commerce Sanquelim, North Goa ",Arts,3,Copilot,1.6,Content Writing,2,No,Gemini,9,No,Goa,Tablet,High,0
+"Vanavarayar Institute of Agriculture, Pollachi ",Agriculture,4,ChatGPT,2.5,"MCQ Practice, Projects",2,Yes,Other,2,No,Tamil nadu,Laptop,Poor,0
+"The Global University, Itanagar ",Commerce,3,Gemini,2.4,"MCQ Practice, Projects",1,Yes,Copilot,8,No,Arunachal pradesh,Laptop,Poor,0
+Vaishali Institute of Business and Rural Management ,Management,3,"Gemini, Midjourney",2.6,Learning new topics,3,No,ChatGPT,10,No,Bihar,Tablet,Poor,0
+"Malwanchal University, Indore ",Pharmacy,1,Copilot,1.2,"MCQ Practice, Projects",3,No,Gemini,6,No,Madhya pradesh,Tablet,High,0
+University of Mysore ,Agriculture,2,Copilot,1.0,"Doubt Solving, Resume Writing",2,No,Gemini,3,Yes,Karnataka,Tablet,Medium,0
+"Government Polytechnic For Women, Srinagar ",Medical,2,Copilot,3.3,"Doubt Solving, Resume Writing",4,No,Gemini,9,No,Jammu,Tablet,Poor,0
+College of Veterinary and Animal Sciences ,Science,4,"ChatGPT, Gemini, Copilot",0.6,"MCQ Practice, Projects",5,No,Copilot,7,Yes,Rajasthan,Laptop,Medium,1
+Indian Institute of Technology ,Engineering,3,"ChatGPT, Gemini, Copilot",1.5,"Assignments, Coding Help",2,Yes,Other,7,Yes,Goa,Tablet,High,1
+Maharishi Markandeshwar ,Engineering,3,ChatGPT,2.9,"Doubt Solving, Resume Writing",4,Yes,ChatGPT,8,No,Himachal pradesh,Tablet,High,1
+Institute of Management Study ,Hotel-management,4,"ChatGPT, Copilot",3.7,"Exam Prep, Notes",5,Yes,Copilot,9,Yes,West bengal,Mobile,High,0
+"Government Degree College For Women, Baramulla ",Commerce,3,"Gemini, Midjourney",3.4,Learning new topics,2,Yes,ChatGPT,2,Yes,Jammu,Tablet,Medium,0
+"Dnyanprassarak Mandal's College of Arts Science Commerce Management Studies & Technology, Bardez ",Commerce,1,Gemini,2.1,"Content Writing, Project Work, Exam Preparation",3,No,Bard,5,No,Goa,Mobile,Poor,1
+"Southern International Hotel Management Academy, Visakhapatnam ",Hotel-management,3,Bard,0.6,"Learning new topics, Resume Writing, Content Writing",2,No,Gemini,8,No,Andhra pradesh,Mobile,High,1
+LNCT University ,Engineering,3,ChatGPT,1.5,Content Writing,4,Yes,Copilot,5,Yes,Madhya pradesh,Tablet,Poor,1
+"Government Degree College, Jammu ",Science,1,Other,2.5,Doubt Solving,2,No,Claude,8,No,Jammu,Mobile,Poor,0
+"PDM University, Bahadurgarh, Bahadurgarh ",Law,2,Gemini,2.6,Learning new topics,2,Yes,ChatGPT,3,No,Haryana,Laptop,Medium,0
+"Lucky Institute of Professional Studies, Jodhpur ",Commerce,1,ChatGPT,3.5,"Coding Help, MCQ Practice",1,No,Claude,6,No,Rajasthan,Laptop,High,1
+Sikkim Manipal Institute of Technology ,Management,2,Claude,2.4,"Coding Help, Learning new topics, Assignments",1,No,Claude,8,No,Sikkim,Laptop,Poor,1
+Indian Institute of Technology ,Science,2,Claude,1.8,Doubt Solving,2,No,ChatGPT,9,Yes,Jharkhand,Mobile,Poor,1
+"PG Government College for Girls, Chandigarh ",Pharmacy,2,Copilot,3.2,"Resume Writing, Content Writing, Coding Help",5,Yes,ChatGPT,2,Yes,Chandigarh,Tablet,Poor,1
+Career Point University ,Pharmacy,1,"Gemini, Midjourney",3.3,"Exam Prep, Notes",4,No,Other,3,Yes,Himachal pradesh,Tablet,High,0
+Baldev Institute of Management Technology and Sciences ,Management,1,Other,3.7,"Doubt Solving, Content Writing, Project Work",3,No,Claude,3,No,Jammu,Mobile,High,0
+Institute of Hotel Management and Catering Technology ,Hotel-management,2,Bard,3.2,Coding Help,3,Yes,Copilot,7,No,Dadra,Laptop,Medium,1
+"RA Podar College of Commerce and Economics, ",Science,2,Bard,1.8,"Project Work, Learning new topics",2,Yes,Gemini,9,Yes,Maharashtra,Mobile,Medium,0
+"Nirmala College Of Arts And Science, Chalakkudy, ",Hotel-management,4,Gemini,1.7,"Exam Prep, Notes",4,Yes,Other,7,No,Kerala,Tablet,Poor,1
+Model Institute of Engineering and Technology ,Commerce,3,Other,1.1,"Content Writing, Learning new topics, Assignments",1,Yes,Other,5,Yes,Jammu,Laptop,High,1
+Sri Sri University ,Arts,1,ChatGPT,0.6,"Doubt Solving, Learning new topics",3,No,Gemini,9,Yes,Orissa,Mobile,Poor,0
+"SRM University, Amaravathi ",Arts,2,Copilot,1.4,"Doubt Solving, Resume Writing",4,Yes,Gemini,10,Yes,Andhra pradesh,Laptop,Medium,1
+"DAV College, Jalandhar ",Arts,2,Gemini,3.9,"Learning new topics, Coding Help",1,No,Gemini,3,Yes,Punjab,Tablet,High,1
+"RRK Samithi College of Pharmacy, Bidar ",Pharmacy,4,"Gemini, Midjourney",3.7,Learning new topics,3,Yes,Gemini,3,Yes,Karnataka,Laptop,High,0
+"Kongunadu Arts and Science College, Coimbatore ",Agriculture,2,ChatGPT,4.2,Content Writing,2,Yes,ChatGPT,9,No,Tamil nadu,Tablet,Medium,1
+Indian Institute of Technology ,Engineering,1,"ChatGPT, Copilot",0.8,Learning new topics,3,No,Gemini,2,Yes,Jammu,Tablet,High,0
+BV Raju Institute of Technology ,Engineering,1,ChatGPT,2.1,"Doubt Solving, Resume Writing",3,Yes,Gemini,9,No,Telangana,Laptop,Poor,1
+Awadhesh Pratap Singh University ,Science,3,ChatGPT,4.4,Content Writing,1,Yes,Bard,10,Yes,Madhya pradesh,Laptop,Medium,1
+Doon Post Graduate College of Agriculture Science ,Hotel-management,2,Copilot,3.1,"Assignments, Coding Help",2,No,Gemini,10,Yes,Uttarakhand,Laptop,Medium,0
+"Buddha Institute of Technology- [BIT], Gaya ",Commerce,3,Claude,4.6,Learning new topics,5,No,Copilot,7,No,Bihar,Mobile,Medium,1
+"Fergusson College, Pune ",Arts,4,Claude,2.9,"Resume Writing, Learning new topics, Doubt Solving",3,No,Copilot,10,Yes,Maharashtra,Tablet,Poor,1
+"Amity University, Kolkata ",Hotel-management,1,Copilot,0.6,"Assignments, Coding Help",1,No,Other,10,Yes,West bengal,Laptop,Medium,1
+Vellore Institute of Technology ,Commerce,2,ChatGPT,4.4,"Assignments, Coding Help",3,No,Other,4,Yes,Tamil nadu,Laptop,Medium,1
+Indian Institute of Technology ,Engineering,3,"ChatGPT, Copilot",3.8,"Exam Prep, Notes",3,Yes,Gemini,7,No,Goa,Laptop,High,1
+Chandigarh University ,Medical,4,"ChatGPT, Copilot",4.0,"Doubt Solving, Resume Writing",5,No,Copilot,3,Yes,Punjab,Mobile,Medium,1
+Kalinga Institute of Industrial Technology ,Medical,3,"Gemini, Midjourney",1.5,"MCQ Practice, Projects",3,No,Gemini,8,No,Orissa,Mobile,High,1
+"Shanti Devi Arya Mahila College, Gurdaspur ",Commerce,3,"Gemini, Midjourney",0.6,"Exam Prep, Notes",1,Yes,ChatGPT,2,Yes,Punjab,Mobile,High,0
+"Duliajan College, Dibrugarh ",Engineering,4,"ChatGPT, Gemini, Copilot",1.5,Learning new topics,3,Yes,Gemini,5,Yes,Assam,Mobile,Medium,1
+"Global Institute, Amritsar ",Pharmacy,1,Gemini,1.0,"Exam Preparation, Learning new topics",4,No,Gemini,8,Yes,Punjab,Laptop,Medium,0
+AAFT University of Media and Arts ,Arts,2,Copilot,4.9,Doubt Solving,2,No,Claude,4,Yes,Chhattisgarh,Laptop,Medium,1
+Lady Hardinge Medical College ,Medical,2,Bard,4.3,"Assignments, Resume Writing",5,Yes,Copilot,2,No,Delhi ncr,Tablet,Medium,1
+"Christ College Irinjalakuda, Thrissur ",Commerce,1,Copilot,2.9,"Learning new topics, Content Writing",5,No,ChatGPT,4,No,Kerala,Mobile,Medium,1
+"SAMS Institute of Hotel Management, Varanasi ",Hotel-management,1,Gemini,1.3,"Doubt Solving, Resume Writing",3,No,Other,3,No,Uttar pradesh,Tablet,Medium,1
+Jadavpur University ,Engineering,1,Gemini,4.3,"MCQ Practice, Projects",3,Yes,Gemini,3,Yes,West bengal,Laptop,Medium,1
+"Arya Post Graduate College, Panipat ",Science,1,Bard,3.8,"Assignments, Exam Preparation",2,Yes,ChatGPT,7,No,Haryana,Mobile,High,1
+"Kapol Vidyanidhi College of Management and Technology, ",Hotel-management,3,Gemini,4.9,"Content Writing, Resume Writing, Assignments",1,Yes,Copilot,4,No,Maharashtra,Mobile,Medium,0
+Capital College of Higher Education ,Arts,4,ChatGPT,1.0,"Content Writing, Resume Writing",1,Yes,Gemini,7,No,Nagaland,Laptop,High,1
+"OPJS University, Churu ",Pharmacy,1,Other,1.4,"Project Work, Exam Preparation",4,Yes,Other,6,Yes,Rajasthan,Tablet,Medium,0
+CMR Institute of Technology ,Engineering,1,"ChatGPT, Copilot",2.6,"MCQ Practice, Projects",5,Yes,Gemini,4,No,Karnataka,Laptop,Poor,1
+"Amity University, Lucknow ",Commerce,2,ChatGPT,3.7,Learning new topics,4,No,Copilot,10,Yes,Uttar pradesh,Laptop,Poor,1
+Narayana Nursing Institution ,Medical,4,ChatGPT,1.1,"Assignments, Coding Help",3,Yes,Gemini,8,Yes,Andhra pradesh,Mobile,Poor,1
+Patna University ,Science,1,"ChatGPT, Gemini, Copilot",2.8,"Doubt Solving, Resume Writing",2,Yes,Other,7,Yes,Bihar,Tablet,High,1
+"Chitkara School of Hospitality -[CSH], Chandigarh ",Hotel-management,2,ChatGPT,3.8,"MCQ Practice, Project Work, Coding Help",5,No,Copilot,10,No,Chandigarh,Laptop,Poor,0
+GRD Institute of Management and Technology ,Hotel-management,4,ChatGPT,4.3,Learning new topics,5,Yes,Gemini,7,Yes,Uttarakhand,Tablet,High,0
+Chhatrapati Shahu Ji Maharaj University ,Hotel-management,2,"ChatGPT, Copilot",2.3,"Exam Prep, Notes",3,Yes,ChatGPT,1,No,Uttar pradesh,Laptop,Poor,0
+Mother Teresa Post Graduate and Research Institute of Health Sciences ,Pharmacy,4,Copilot,4.2,"Exam Preparation, Doubt Solving",5,Yes,Claude,3,No,Puducherry,Mobile,Poor,0
+College of Veterinary and Animal Sciences ,Science,4,Gemini,4.3,"Exam Prep, Notes",2,No,Copilot,10,Yes,Rajasthan,Mobile,Medium,1
+"Auro University, Surat ",Hotel-management,2,Copilot,3.9,"Doubt Solving, Project Work",2,Yes,ChatGPT,3,Yes,Gujarat,Laptop,High,0
+"VIT Bhopal University, Bhopal ",Engineering,4,Claude,3.8,Learning new topics,4,Yes,Other,7,Yes,Madhya pradesh,Tablet,Medium,1
+Dr Babasaheb Ambedkar Open University ,Medical,2,ChatGPT,1.4,"Resume Writing, MCQ Practice, Exam Preparation",5,Yes,Copilot,8,No,Gujarat,Laptop,Medium,0
+GH Raisoni College of Engineering ,Engineering,4,Gemini,1.4,"Coding Help, Resume Writing, Content Writing",4,Yes,Gemini,5,Yes,Maharashtra,Laptop,Medium,0
+"Government Degree College for Boys, Anantnag ",Science,4,Other,3.5,"Exam Preparation, Coding Help, Assignments",2,No,Copilot,5,Yes,Jammu,Tablet,High,0
+"Ramnarain Ruia Autonomous College, Mumbai ",Agriculture,1,ChatGPT,4.2,"Assignments, Coding Help",2,No,Copilot,5,No,Maharashtra,Mobile,Medium,0
+"Ashoka University, Sonepat ",Arts,3,Claude,4.1,"Coding Help, Assignments, MCQ Practice",2,Yes,Gemini,5,No,Haryana,Laptop,Medium,0
+Chandigarh University ,Arts,3,Bard,1.9,Content Writing,5,Yes,ChatGPT,5,Yes,Haryana,Tablet,Medium,0
+Pondicherry Institute of Medical Sciences ,Medical,2,Copilot,2.6,Exam Preparation,1,Yes,Gemini,3,No,Puducherry,Laptop,High,1
+"Indira Gandhi Technological And Medical Sciences University, Ziro ",Commerce,1,"Gemini, Midjourney",0.7,"Assignments, Coding Help",3,Yes,Copilot,4,No,Arunachal pradesh,Laptop,Poor,1
+Royal Global University ,Law,2,Copilot,0.8,Content Writing,4,Yes,Gemini,6,Yes,Assam,Laptop,Medium,1
+Acharya Nagarjuna University ,Commerce,3,"ChatGPT, Copilot",4.3,"Doubt Solving, Resume Writing",2,Yes,Gemini,4,Yes,Andhra pradesh,Tablet,Medium,1
+"Sri Ramachandra Medical College, Chennai ",Pharmacy,3,ChatGPT,2.5,"Content Writing, Learning new topics",5,Yes,Gemini,5,No,Tamil nadu,Tablet,Medium,1
+Dr CC Mattei Electro Homoeopathic Alternative Medical ,Medical,3,Claude,2.6,"Content Writing, Coding Help, Learning new topics",5,Yes,Copilot,7,No,Telangana,Mobile,High,1
+Radha Govind University ,Commerce,4,Gemini,4.2,Assignments,5,Yes,ChatGPT,8,No,Jharkhand,Laptop,Medium,0
+Imperial School of Agri Business ,Agriculture,4,ChatGPT,1.1,"Doubt Solving, Resume Writing",2,No,Other,5,Yes,Uttar pradesh,Laptop,Medium,1
+Ganpat University ,Law,1,ChatGPT,4.4,MCQ Practice,1,Yes,Gemini,3,Yes,Gujarat,Mobile,High,1
+Government Law College ,Law,3,Bard,2.9,Learning new topics,3,Yes,Copilot,1,Yes,Maharashtra,Laptop,Poor,0
+Indian Institute of Management ,Management,1,Bard,2.9,"Exam Preparation, Doubt Solving, Resume Writing",3,Yes,ChatGPT,5,Yes,Punjab,Tablet,Medium,1
+"Shillong College, Shillong ",Science,1,"ChatGPT, Copilot",0.7,Content Writing,5,Yes,ChatGPT,10,No,Meghalaya,Mobile,Poor,1
+Ganpat University ,Arts,3,Copilot,3.4,"Assignments, Coding Help",2,Yes,Gemini,5,No,Gujarat,Mobile,High,1
+"Patna College, Patna ",Management,1,Copilot,4.8,MCQ Practice,2,Yes,Claude,10,No,Bihar,Tablet,Medium,0
+"The Global University, Itanagar ",Agriculture,4,Gemini,3.9,"MCQ Practice, Doubt Solving",3,No,ChatGPT,9,Yes,Arunachal pradesh,Laptop,Poor,0
+"ISF College of pharmacy, Moga ",Pharmacy,3,"ChatGPT, Copilot",2.5,"Assignments, Coding Help",2,No,ChatGPT,2,No,Punjab,Mobile,Poor,0
+"Adamas University, Kolkata ",Pharmacy,2,"ChatGPT, Gemini, Copilot",2.0,"MCQ Practice, Projects",5,No,Gemini,6,Yes,West bengal,Mobile,High,1
+Indian Institute of Technology ,Science,1,Gemini,3.9,"Exam Prep, Notes",3,No,ChatGPT,1,No,West bengal,Laptop,Medium,1
+"Pragyan International University, Ranchi ",Pharmacy,2,Bard,1.3,Learning new topics,2,Yes,Gemini,2,Yes,Jharkhand,Laptop,Medium,1
+"Government Degree College, Jammu ",Arts,1,Copilot,4.3,Content Writing,2,No,Other,6,No,Jammu,Tablet,High,1
+Dibrugarh Hanumanbux Surajmal Kanoi College ,Arts,1,Copilot,2.8,"Exam Preparation, Project Work",4,No,ChatGPT,7,Yes,Assam,Tablet,Medium,0
+"Smt. NHL Municipal Medical College, Ahmedabad ",Science,4,"Gemini, Midjourney",4.0,"MCQ Practice, Projects",1,No,Copilot,5,Yes,Gujarat,Tablet,Poor,0
+Osmania University ,Arts,4,Claude,3.3,"Assignments, Learning new topics",1,No,Copilot,10,No,Telangana,Mobile,Poor,1
+BVV Sangha's Hangal Shri Kumareshwar College of ,Pharmacy,4,"ChatGPT, Copilot",3.5,"Doubt Solving, Resume Writing",5,Yes,Copilot,6,No,Karnataka,Tablet,Medium,0
+Baba Ghulam Shah Badshah University ,Arts,1,ChatGPT,2.6,"Assignments, Coding Help",3,Yes,Other,9,No,Jammu,Mobile,High,1
+LM College of Pharmacy ,Science,4,"Gemini, Midjourney",4.4,"Assignments, Coding Help",1,Yes,ChatGPT,6,Yes,Gujarat,Tablet,Poor,0
+Cochin University of Science and Technology ,Engineering,2,Copilot,4.2,"Assignments, Coding Help",3,No,Other,3,No,Kerala,Tablet,Poor,1
+"Indus University, Ahmedabad ",Medical,1,ChatGPT,3.6,"Doubt Solving, Resume Writing",1,No,Copilot,10,Yes,Gujarat,Mobile,High,0
+"SRM University Delhi NCR, Sonepat ",Management,2,Claude,2.2,"Learning new topics, Doubt Solving, Assignments",4,No,Copilot,1,No,Haryana,Tablet,Poor,1
+Guru Angad Dev Veterinary and Animal Sciences ,Agriculture,2,Copilot,3.9,"Doubt Solving, Resume Writing",4,Yes,Copilot,7,Yes,Punjab,Tablet,High,1
+AIPH University ,Medical,4,Bard,4.1,"Assignments, Exam Preparation",2,Yes,ChatGPT,6,Yes,Orissa,Laptop,Poor,0
+"Global Institute, Amritsar ",Hotel-management,4,Gemini,0.5,"Exam Prep, Notes",3,Yes,Other,8,Yes,Punjab,Mobile,Poor,0
+"Himalayan Pharmacy Institute, East Sikkim ",Pharmacy,2,Gemini,3.2,"Content Writing, MCQ Practice",1,No,Gemini,10,No,Sikkim,Laptop,Poor,0
+The Global Open University ,Law,4,ChatGPT,0.8,"Assignments, Coding Help",1,Yes,Other,1,Yes,Nagaland,Laptop,Medium,1
+"SRM University Sikkim, Gangtok ",Management,4,Gemini,3.1,"Doubt Solving, Resume Writing",5,No,Other,1,No,Sikkim,Tablet,High,0
+Shri Rawatpura Sarkar University ,Medical,4,"Gemini, Midjourney",1.8,"Exam Prep, Notes",3,Yes,Gemini,10,No,Chhattisgarh,Laptop,Medium,1
+"KVASU, College of Veterinary and Animal Sciences ",Agriculture,4,Copilot,3.7,"Assignments, Coding Help",3,No,ChatGPT,3,Yes,Kerala,Tablet,Poor,0
+Sharda University ,Medical,1,ChatGPT,4.7,Exam Preparation,1,Yes,Copilot,9,No,Uttar pradesh,Laptop,Medium,1
+"B.M.D. College, Vaishali ",Commerce,1,"ChatGPT, Copilot",1.5,"Doubt Solving, Resume Writing",5,No,ChatGPT,1,No,Bihar,Mobile,Poor,1
+The Neotia University ,Agriculture,2,Claude,3.5,"Learning new topics, Exam Preparation, Content Writing",5,No,Gemini,8,Yes,West bengal,Laptop,Medium,1
+Symbiosis Law School Hyderabad ,Law,1,Bard,1.2,Content Writing,2,No,Bard,10,No,Telangana,Tablet,Medium,1
+International School of Business and Research ,Commerce,4,Copilot,2.8,"Exam Prep, Notes",2,Yes,Copilot,3,Yes,Karnataka,Mobile,Poor,0
+Pt. Ravishankar Shukla University ,Law,2,Copilot,4.7,"Coding Help, MCQ Practice",3,Yes,Gemini,9,Yes,Chhattisgarh,Mobile,High,0
+"Doaba College, Jalandhar ",Arts,3,Gemini,1.0,"MCQ Practice, Doubt Solving, Assignments",5,Yes,ChatGPT,2,Yes,Punjab,Laptop,Poor,0
+Atal Bihari Vajpayee Hindi Vishwavidyalaya ,Medical,3,Gemini,3.5,"Exam Prep, Notes",1,No,ChatGPT,4,No,Madhya pradesh,Mobile,Medium,0
+JP Institute of Hotel Management & Catering ,Hotel-management,2,Gemini,1.7,"Coding Help, Project Work",5,Yes,Other,6,No,Uttar pradesh,Mobile,Medium,0
+ICFAI Foundation for Higher Education ,Law,2,"Gemini, Midjourney",3.7,"MCQ Practice, Projects",2,No,Other,8,No,Telangana,Mobile,High,1
+Heritage Institute of Hotel and Tourism ,Science,3,"ChatGPT, Gemini, Copilot",2.6,"Exam Prep, Notes",1,Yes,Other,1,No,Himachal pradesh,Mobile,Poor,1
+University of Kashmir ,Arts,3,ChatGPT,1.3,Content Writing,4,No,ChatGPT,8,Yes,Jammu,Mobile,High,1
+"Little Flower College Guruvayoor, Thrissur ",Law,1,"ChatGPT, Copilot",0.8,"Doubt Solving, Resume Writing",2,Yes,Other,7,No,Kerala,Tablet,High,0
+"LR Institute of Pharmacy, Solan ",Pharmacy,3,"Gemini, Midjourney",4.4,Learning new topics,3,Yes,Other,6,No,Himachal pradesh,Mobile,Poor,0
+"Government Polytechnic College, Bandipora ",Engineering,3,Bard,2.0,"Doubt Solving, Assignments, Project Work",1,Yes,Claude,8,Yes,Jammu,Laptop,Poor,1
+Vinayaka Missions University ,Pharmacy,2,Copilot,3.5,"Project Work, Doubt Solving, Assignments",4,No,Bard,7,No,Tamil nadu,Tablet,Medium,1
+"MVP Samaj's College of Pharmacy, Nashik ",Pharmacy,4,Claude,0.8,Project Work,5,No,Claude,8,No,Maharashtra,Tablet,Medium,0
+"Late Baliram Kashyap Memorial Govt. Medical College, ",Medical,4,Gemini,0.6,"MCQ Practice, Projects",2,Yes,Gemini,7,Yes,Chhattisgarh,Laptop,Poor,0
+Vidyasagar College ,Medical,1,Copilot,2.3,"Coding Help, Doubt Solving",1,Yes,Gemini,10,No,West bengal,Mobile,High,0
+MIT World Peace University ,Law,3,"ChatGPT, Gemini, Copilot",3.5,"Exam Prep, Notes",5,No,Other,5,No,Maharashtra,Tablet,Medium,1
+"Uttaranchal University, Dehradun ",Hotel-management,4,"ChatGPT, Gemini, Copilot",0.6,"Doubt Solving, Resume Writing",5,Yes,Copilot,10,Yes,Uttarakhand,Mobile,Medium,1
+"Amity University, Raipur ",Engineering,4,Other,3.9,Assignments,4,No,Copilot,10,Yes,Chhattisgarh,Laptop,High,0
+Central India Institute of Management Studies ,Hotel-management,3,Other,1.7,"Resume Writing, Project Work, Learning new topics",4,Yes,Bard,5,Yes,Madhya pradesh,Mobile,High,1
+Institute of Technology and Science ,Management,4,Copilot,1.2,"Exam Prep, Notes",1,No,Other,3,Yes,Uttar pradesh,Mobile,Medium,0
+"Ranchi University, Ranchi ",Commerce,4,Gemini,4.3,"Assignments, Doubt Solving, Learning new topics",2,No,Claude,3,No,Jharkhand,Laptop,Poor,1
+"Government Mahaprabhu Vallabhacharya Post Graduate College, Mahasamund ",Science,4,"ChatGPT, Gemini, Copilot",1.8,Content Writing,1,Yes,Other,10,No,Chhattisgarh,Laptop,Poor,0
+"NSHM Knowledge Campus, Durgapur ",Hotel-management,2,Copilot,2.2,"Exam Preparation, Content Writing",4,No,ChatGPT,6,Yes,West bengal,Tablet,Poor,1
+S. V. Agricultural College ,Agriculture,3,Copilot,3.3,"Learning new topics, Project Work, Coding Help",4,No,Copilot,8,No,Andhra pradesh,Mobile,Medium,1
+JP Institute of Hotel Management & Catering ,Hotel-management,2,Gemini,2.6,Content Writing,2,Yes,Bard,8,No,Delhi ncr,Mobile,Poor,0
+"P.P. Savani University, Surat ",Commerce,3,Gemini,3.7,Exam Preparation,2,Yes,Claude,10,Yes,Gujarat,Mobile,High,1
+"Adwaita Malla Barman Smriti Mahavidyalaya (AMBS), Amarpur ",Science,3,"ChatGPT, Gemini, Copilot",3.0,"Assignments, Coding Help",5,Yes,ChatGPT,8,Yes,Tripura,Tablet,Medium,0
+Indira Gandhi Institute of Aeronautics ,Management,2,ChatGPT,1.3,"Assignments, Coding Help",4,No,ChatGPT,10,No,Chandigarh,Mobile,Poor,1
+Nalanda Open University ,Agriculture,3,Other,3.4,Project Work,1,No,Copilot,10,Yes,Bihar,Tablet,High,0
+"Akal College of Economics, Commerce and Management, ",Science,2,Copilot,2.7,"Assignments, Coding Help",2,No,ChatGPT,3,Yes,Himachal pradesh,Laptop,High,1
+Indian Institute of Public Health ,Medical,3,Gemini,4.0,"MCQ Practice, Projects",3,Yes,Copilot,1,Yes,Meghalaya,Tablet,Medium,0
+Apex Professional University ,Arts,4,ChatGPT,2.8,"Doubt Solving, Resume Writing",5,No,Other,9,No,Arunachal pradesh,Mobile,Poor,1
+Shri Krishna University ,Law,2,Gemini,4.4,"Coding Help, MCQ Practice",2,No,ChatGPT,8,Yes,Madhya pradesh,Laptop,High,1
+Birla Institute of Technology ,Science,2,"ChatGPT, Copilot",1.4,Content Writing,4,Yes,Gemini,5,Yes,Bihar,Tablet,High,1
+Vinayaka Missions Sikkim University ,Science,1,Copilot,4.2,"MCQ Practice, Projects",2,Yes,Gemini,6,No,Sikkim,Tablet,Poor,1
+Doranda College ,Commerce,3,Bard,3.9,"Coding Help, Content Writing, Project Work",5,Yes,Gemini,6,Yes,Jharkhand,Tablet,High,1
+"Amity University, Patna ",Arts,1,Gemini,3.8,"Project Work, Exam Preparation",3,No,Other,7,Yes,Bihar,Tablet,Poor,0
+Narsee Monjee Institute of Management Studies -[NMIMS ,Commerce,4,"ChatGPT, Gemini, Copilot",4.3,"Assignments, Coding Help",5,No,Gemini,4,Yes,Madhya pradesh,Laptop,Medium,1
+Central University of Jharkhand ,Management,2,"Gemini, Midjourney",1.2,Content Writing,4,No,Gemini,3,No,Jharkhand,Laptop,High,0
+Vardhman Institute of Medical Sciences ,Medical,1,Gemini,3.7,"Coding Help, Doubt Solving",1,Yes,Claude,4,No,Bihar,Mobile,High,1
+"RKDF University, Bhopal ",Agriculture,1,Claude,2.6,"Learning new topics, Resume Writing, Project Work",5,Yes,Gemini,7,No,Madhya pradesh,Mobile,Medium,1
+BJB Autonomous College ,Arts,4,Claude,3.1,"Assignments, Coding Help, Doubt Solving",5,No,Copilot,5,No,Orissa,Tablet,Medium,0
+ICFAI Business School ,Science,4,ChatGPT,2.3,Resume Writing,5,No,Claude,7,Yes,Telangana,Tablet,Medium,0
+"Dhanamanjuri University, Imphal ",Science,3,Gemini,2.8,Learning new topics,4,Yes,Gemini,4,Yes,Manipur,Mobile,Medium,1
+"ICFAI University, Ranchi ",Arts,3,ChatGPT,3.7,"Doubt Solving, MCQ Practice, Learning new topics",3,Yes,Claude,4,Yes,Jharkhand,Laptop,Poor,1
+"C. U. Shah University, Wadhwan ",Medical,2,Copilot,2.3,"Assignments, Coding Help",1,Yes,Copilot,10,No,Gujarat,Mobile,Poor,0
+"NEF Law College, Guwahati ",Law,2,Claude,2.7,Resume Writing,3,Yes,Gemini,9,Yes,Assam,Tablet,Poor,0
+"JSS Academy of Higher Education & Research, ",Science,1,"Gemini, Midjourney",1.4,"MCQ Practice, Projects",4,Yes,Other,6,Yes,Karnataka,Laptop,Poor,0
+Jaipur National University ,Commerce,2,Copilot,3.4,"Assignments, Coding Help",1,No,ChatGPT,6,Yes,Rajasthan,Laptop,Poor,1
+"Chandola Homoeopathic Medical College and Hospital, Udham ",Medical,2,Gemini,0.6,"Exam Prep, Notes",3,Yes,Gemini,6,No,Uttarakhand,Mobile,Poor,0
+"PWS College of Arts & Commerce, Nagpur ",Arts,2,Copilot,1.4,"MCQ Practice, Projects",1,Yes,Copilot,2,Yes,Maharashtra,Tablet,Medium,1
+"Christ College Irinjalakuda, Thrissur ",Science,4,ChatGPT,1.7,Doubt Solving,4,No,Copilot,4,Yes,Kerala,Laptop,Poor,1
+"Shri Saraswati Gramvidyapith, Patan ",Agriculture,1,Gemini,3.3,"MCQ Practice, Assignments, Resume Writing",1,No,Gemini,5,No,Gujarat,Mobile,High,1
+Andhra University ,Law,1,ChatGPT,1.6,"Doubt Solving, Resume Writing",3,No,Other,9,No,Andhra pradesh,Tablet,Medium,0
+"BLDE Association's AS Patil College of Commerce, ",Commerce,1,Gemini,4.9,"Learning new topics, Doubt Solving",5,Yes,Gemini,10,No,Karnataka,Tablet,Medium,1
+Institute of Management Studies ,Management,1,ChatGPT,1.4,Project Work,5,No,Claude,8,Yes,Uttar pradesh,Tablet,Medium,1
+Sree Chitra Thirunal College of Engineering ,Engineering,4,Gemini,2.7,"Exam Prep, Notes",3,Yes,Gemini,3,Yes,Kerala,Laptop,Poor,1
+"Himalayan Group of Professional Institutions, Sirmaur ",Engineering,1,"Gemini, Midjourney",2.3,Content Writing,1,Yes,Copilot,2,No,Himachal pradesh,Laptop,Poor,1
+Lady Shri Ram College for Women ,Commerce,1,Gemini,4.8,"Exam Preparation, Doubt Solving, Project Work",5,No,Other,10,No,Delhi ncr,Tablet,Poor,1
+"Lady Keane College, Shillong ",Management,4,Claude,4.8,"Assignments, Doubt Solving",4,Yes,Bard,5,No,Meghalaya,Tablet,High,0
+"NMKRV College for Women, Bangalore ",Arts,1,"ChatGPT, Gemini, Copilot",4.5,Content Writing,4,No,Gemini,9,No,Karnataka,Tablet,Poor,1
+"Devi Ahilya Vishwavidyalaya, Indore ",Pharmacy,1,"ChatGPT, Gemini, Copilot",2.9,"MCQ Practice, Projects",5,Yes,Copilot,9,No,Madhya pradesh,Mobile,Medium,1
+"St Bede's College, Shimla ",Science,1,"ChatGPT, Copilot",1.7,"Exam Prep, Notes",5,Yes,ChatGPT,1,Yes,Himachal pradesh,Tablet,Poor,1
+Dr DY Patil College of Agriculture Business ,Agriculture,1,"ChatGPT, Gemini, Copilot",3.1,"MCQ Practice, Projects",5,No,Copilot,7,Yes,Maharashtra,Laptop,Poor,0
+"PDM University, Bahadurgarh, Bahadurgarh ",Management,3,Gemini,3.9,"Exam Prep, Notes",4,No,Copilot,9,Yes,Haryana,Laptop,High,0
+"Patna Law College, Patna ",Law,4,Copilot,3.0,Exam Preparation,5,Yes,Gemini,8,Yes,Bihar,Mobile,High,1
+"Government Medical College, Kozhikode ",Pharmacy,2,"Gemini, Midjourney",1.2,"Assignments, Coding Help",2,No,Gemini,4,Yes,Kerala,Mobile,Medium,0
+"Al-Karim University, Katihar ",Medical,1,ChatGPT,2.2,"Coding Help, Doubt Solving",5,No,Claude,10,Yes,Bihar,Laptop,Poor,1
+"PCTE Group of Institutes, Ludhiana ",Pharmacy,4,Claude,1.8,"Project Work, Content Writing, Exam Preparation",5,Yes,Gemini,4,No,Punjab,Tablet,Poor,0
+"Lloyd Law College, Greater Noida ",Science,1,Claude,4.3,Assignments,2,Yes,ChatGPT,4,No,Uttar pradesh,Mobile,Medium,1
+"Ganjam Law College, Berhampur ",Law,2,ChatGPT,1.5,"Resume Writing, Learning new topics",3,No,Other,2,No,Orissa,Mobile,High,0
+Sardar Bhagwan Singh Post Graduate Institute of ,Pharmacy,1,"ChatGPT, Gemini, Copilot",2.9,"Assignments, Coding Help",1,Yes,Gemini,3,Yes,Uttarakhand,Tablet,Poor,1
+Vaikunth Mehta National Institute of Co-Operative Management ,Management,1,"ChatGPT, Copilot",3.7,Content Writing,4,No,Copilot,4,Yes,Maharashtra,Laptop,Poor,0
+Himachal Pradesh University ,Arts,3,ChatGPT,4.0,"Content Writing, Resume Writing, Assignments",1,No,Gemini,3,Yes,Himachal pradesh,Laptop,Poor,1
+Jawaharlal Institute of Post Graduate Medical Education and Research ,Science,2,"ChatGPT, Gemini, Copilot",1.8,"Assignments, Coding Help",5,Yes,Copilot,4,Yes,Puducherry,Mobile,Poor,1
+Mizoram University ,Commerce,2,Other,4.0,"Coding Help, Assignments",3,No,Bard,2,No,Mizoram,Tablet,Medium,1
+"Mody University, Sikar ",Agriculture,3,Copilot,3.0,Exam Preparation,3,Yes,ChatGPT,2,Yes,Rajasthan,Mobile,High,1
+"St. Xavier's College (Autonomous), Palayamkottai ",Science,4,ChatGPT,2.2,"Exam Prep, Notes",1,No,Other,8,No,Tamil nadu,Tablet,High,1
+Indian Institute of Technology ,Engineering,3,Copilot,4.3,"Content Writing, Coding Help",2,Yes,Bard,4,Yes,Goa,Mobile,High,0
+"M.V. College, Buxar ",Agriculture,2,Copilot,2.9,Doubt Solving,4,No,Gemini,6,No,Bihar,Laptop,Medium,0
+"Institute of Media Management , Technology & ",Hotel-management,2,ChatGPT,2.0,"Project Work, Learning new topics, Assignments",3,No,Gemini,6,No,Uttarakhand,Laptop,Medium,1
+Baosi Banikanta Kakati College ,Science,3,Other,3.6,"Doubt Solving, Content Writing",1,No,Bard,1,No,Assam,Mobile,High,0
+"Government College, Kasaragod ",Commerce,2,Copilot,0.7,"Coding Help, Learning new topics, MCQ Practice",3,Yes,Gemini,9,Yes,Kerala,Tablet,Poor,1
+"Dr SN Medical College & Hospital, Jodhpur ",Science,3,ChatGPT,3.2,"MCQ Practice, Projects",5,Yes,Gemini,5,Yes,Rajasthan,Mobile,High,1
+"Institute of Management, Nirma university, Ahmedabad ",Commerce,2,Claude,3.7,Doubt Solving,5,Yes,Claude,8,Yes,Gujarat,Tablet,Poor,0
+Indian Institute of Space Science and Technology ,Science,2,"ChatGPT, Copilot",2.2,Content Writing,3,No,Gemini,3,No,Kerala,Laptop,Medium,0
+"Mar Thoma College, Tiruvalla ",Arts,1,Claude,3.3,"Resume Writing, Doubt Solving",3,No,ChatGPT,2,Yes,Kerala,Laptop,Poor,1
+"Saveetha School of Law, Chennai ",Law,3,ChatGPT,3.8,"Project Work, MCQ Practice, Doubt Solving",2,No,Other,4,No,Tamil nadu,Laptop,Medium,1
+"PK Roy Memorial College, Dhanbad ",Commerce,4,Claude,4.5,"Coding Help, Learning new topics, Exam Preparation",1,No,Bard,4,Yes,Jharkhand,Mobile,High,1
+Bhavan's Tripura College of Science and Technology ,Management,3,"Gemini, Midjourney",0.7,"Exam Prep, Notes",4,No,Gemini,7,No,Tripura,Laptop,Poor,1
+"Alankar P.G. Girls College, Jaipur ",Arts,1,Gemini,4.6,"Resume Writing, Coding Help",3,Yes,Claude,1,Yes,Rajasthan,Tablet,Medium,0
+Forest Research Institute ,Agriculture,4,Gemini,3.9,"Resume Writing, Content Writing",4,No,Claude,1,Yes,Uttarakhand,Mobile,High,1
+Kirloskar Institute of Advanced Management Studies ,Management,2,Other,1.1,"Assignments, Learning new topics",2,No,Gemini,2,No,Karnataka,Mobile,Medium,1
+Atal Bihari Vajpayee Hindi Vishwavidyalaya ,Law,4,"ChatGPT, Copilot",4.1,"Doubt Solving, Resume Writing",5,No,Other,5,No,Madhya pradesh,Laptop,Medium,0
+Dr. D.Y. Patil Institute of Pharmaceutical Sciences ,Pharmacy,4,Other,3.0,"Exam Preparation, Doubt Solving, Content Writing",2,Yes,Claude,5,No,Maharashtra,Tablet,Poor,1
+"SRM University, Amaravathi ",Arts,1,Copilot,1.7,Coding Help,3,No,Claude,5,Yes,Andhra pradesh,Mobile,High,1
+"Loyola Academy Degree and PG College, Secunderabad ",Commerce,2,Bard,3.0,"Learning new topics, Coding Help, MCQ Practice",1,Yes,Claude,2,Yes,Telangana,Tablet,High,1
+"Miranda House, New Delhi ",Commerce,3,Bard,1.1,"Exam Preparation, Doubt Solving",1,Yes,Other,3,Yes,Delhi ncr,Tablet,High,0
+"OPJS University, Churu ",Pharmacy,2,ChatGPT,3.1,"Learning new topics, Coding Help, MCQ Practice",4,No,Copilot,2,No,Rajasthan,Laptop,High,1
+Govind Ballabh Pant University of Agriculture and ,Science,4,"ChatGPT, Copilot",1.1,"Exam Prep, Notes",3,Yes,ChatGPT,3,Yes,Uttarakhand,Laptop,Medium,1
+Dr BC Roy College of Pharmacy and ,Pharmacy,1,ChatGPT,2.9,"Assignments, Doubt Solving",5,No,ChatGPT,9,No,West bengal,Mobile,Medium,0
+"Auro University, Surat ",Commerce,4,Copilot,1.9,"Content Writing, Resume Writing",1,Yes,ChatGPT,10,No,Gujarat,Mobile,Medium,0
+"Chameli Devi Group of Institution, Indore ",Pharmacy,3,ChatGPT,2.0,"Assignments, Project Work, Doubt Solving",2,No,Other,9,No,Madhya pradesh,Tablet,High,1
+Maharashtra Institute of Medical Education and Research ,Medical,4,Bard,1.9,"Assignments, Exam Preparation, Resume Writing",5,Yes,Other,1,Yes,Maharashtra,Mobile,Poor,1
+Chitkara University ,Pharmacy,1,ChatGPT,2.8,"Assignments, Coding Help",3,No,ChatGPT,8,No,Punjab,Mobile,High,0
+Institute of Hotel Management and Catering Technology ,Hotel-management,3,"ChatGPT, Copilot",2.2,Learning new topics,3,Yes,Gemini,6,No,Kerala,Mobile,High,1
+Narsee Monjee Institute of Management Studies -[NMIMS ,Law,3,"ChatGPT, Copilot",1.4,"Assignments, Coding Help",5,Yes,ChatGPT,4,Yes,Madhya pradesh,Laptop,Medium,1
+"Amity University, Kolkata ",Commerce,4,ChatGPT,1.4,"Exam Prep, Notes",4,Yes,Other,3,Yes,West bengal,Laptop,High,1
+"Government Ram Bhajan Rai NES College, Jashpur ",Commerce,2,ChatGPT,3.4,Learning new topics,3,Yes,Other,6,No,Chhattisgarh,Laptop,Poor,0
+"SD College of Pharmacy, Barnala ",Pharmacy,4,Copilot,1.3,"Resume Writing, Coding Help",3,No,Copilot,2,Yes,Punjab,Mobile,Medium,1
+"NEPEDS Group of Institutions, Guwahati ",Medical,3,ChatGPT,0.9,"Learning new topics, Doubt Solving",4,No,Bard,2,No,Assam,Laptop,Poor,0
+"Chitkara School of Hospitality -[CSH], Chandigarh ",Hotel-management,2,ChatGPT,1.4,"MCQ Practice, Exam Preparation, Doubt Solving",1,No,Claude,9,Yes,Punjab,Mobile,Medium,1
+Dantuluri Narayana Raju college ,Commerce,1,Copilot,2.1,"Assignments, Coding Help",1,No,ChatGPT,2,No,Andhra pradesh,Laptop,High,1
+Poomulli Neelakandan Namboodiripad Memorial Ayurveda Medical College ,Medical,4,"ChatGPT, Copilot",0.8,"Doubt Solving, Resume Writing",5,Yes,Gemini,3,No,Kerala,Tablet,High,0
+"Amity University, Gwalior ",Science,3,"ChatGPT, Copilot",0.9,Content Writing,4,Yes,Other,7,No,Madhya pradesh,Laptop,Poor,0
+All India Institute of Medical Sciences ,Pharmacy,3,Copilot,3.3,Content Writing,2,No,Gemini,6,Yes,Rajasthan,Tablet,Medium,1
+"JNTUA College of Engineering, Ananthapur ",Engineering,2,ChatGPT,3.1,"Assignments, Coding Help",5,Yes,Gemini,8,No,Andhra pradesh,Mobile,High,1
+Spectrum Institute of Pharmaceutical Sciences & Research ,Pharmacy,4,Gemini,3.9,"Exam Prep, Notes",2,Yes,Gemini,7,No,Uttar pradesh,Tablet,Medium,1
+"Lady Doak College, Madurai ",Medical,2,"ChatGPT, Copilot",2.1,"MCQ Practice, Projects",3,No,Copilot,3,No,Tamil nadu,Laptop,Medium,1
+Sister Nivedita University ,Management,1,Other,4.4,"Doubt Solving, Project Work",5,Yes,Bard,1,No,West bengal,Tablet,High,0
+Zoram Medical College ,Medical,4,Claude,3.5,"Coding Help, Doubt Solving, Resume Writing",5,No,Other,6,No,Mizoram,Laptop,Poor,0
+Swami Vivekanand College of Computer Science ,Science,3,Copilot,4.1,"Coding Help, Project Work, Assignments",4,Yes,Gemini,7,Yes,Gujarat,Mobile,High,0
+"Jamia Millia Islamia University-[JMI], New Delhi ",Law,4,"ChatGPT, Copilot",1.8,Learning new topics,5,Yes,Other,2,No,Delhi ncr,Mobile,Poor,1
+Manav Rachna International Institute of Research and ,Engineering,3,ChatGPT,1.8,Content Writing,5,Yes,Other,5,Yes,Haryana,Mobile,Medium,1
+Indian Institute of Technology ,Engineering,2,Other,3.8,Assignments,5,Yes,Gemini,8,No,Telangana,Mobile,High,1
+Sikkim Manipal University ,Commerce,3,"ChatGPT, Copilot",4.0,Content Writing,5,Yes,Other,9,Yes,Sikkim,Laptop,High,1
+"University School of Law, Gujarat University ",Law,4,"ChatGPT, Gemini, Copilot",2.5,Content Writing,5,No,ChatGPT,3,No,Gujarat,Tablet,High,0
+"Ethiraj College for Women, Chennai ",Arts,2,"ChatGPT, Copilot",4.4,Content Writing,3,No,ChatGPT,10,Yes,Tamil nadu,Laptop,Medium,1
+Rungta College of Science and Technology ,Science,3,ChatGPT,4.7,"Assignments, Coding Help, Doubt Solving",4,Yes,ChatGPT,3,No,Chhattisgarh,Laptop,Poor,1
+"Synod College, Shillong ",Arts,4,Claude,3.8,Content Writing,2,Yes,Gemini,9,No,Meghalaya,Laptop,High,0
+Indian Institute of Information Technology ,Engineering,3,"Gemini, Midjourney",2.2,"Assignments, Coding Help",4,No,Gemini,10,No,Gujarat,Laptop,Poor,0
+Bishop Heber College ,Commerce,4,ChatGPT,4.0,Content Writing,1,No,Gemini,7,Yes,Tamil nadu,Tablet,Medium,0
+Dr YS Parmar University of Horticulture and ,Management,4,Copilot,1.8,"MCQ Practice, Projects",5,Yes,Gemini,6,No,Himachal pradesh,Mobile,Poor,0
+Modern Vidya Niketan ,Law,4,Bard,1.0,"Learning new topics, Content Writing, Resume Writing",1,Yes,Copilot,5,No,Haryana,Laptop,Medium,1
+Oriental University ,Engineering,4,"ChatGPT, Gemini, Copilot",3.1,"Exam Prep, Notes",2,Yes,ChatGPT,7,Yes,Madhya pradesh,Mobile,Medium,0
+Sam Higginbottom University of Agriculture Technology and ,Commerce,1,Gemini,1.8,Learning new topics,1,Yes,Gemini,5,Yes,Uttar pradesh,Mobile,Poor,0
+"Indira Gandhi Technological And Medical Sciences University, Ziro ",Law,1,Other,1.3,Content Writing,4,Yes,Other,3,Yes,Arunachal pradesh,Laptop,Medium,1
+"D.K. College, Buxar ",Arts,4,Bard,3.1,"Project Work, Exam Preparation",2,No,Bard,6,No,Bihar,Tablet,High,0
+"Dhemaji Commerce College, Dhemaji ",Commerce,4,Claude,1.1,"Doubt Solving, Learning new topics, Project Work",4,No,Bard,10,Yes,Assam,Laptop,Poor,0
+Birla Institute of Technology and Science ,Science,2,Bard,4.4,"Doubt Solving, Assignments, Coding Help",4,No,Other,9,No,Goa,Mobile,Poor,0
+The Neotia University ,Management,3,"ChatGPT, Copilot",3.0,"Exam Prep, Notes",1,Yes,ChatGPT,9,No,West bengal,Mobile,Medium,1
+"St. Edmund's College, Shillong ",Arts,3,Copilot,1.1,"Exam Prep, Notes",5,No,Copilot,6,No,Meghalaya,Tablet,Medium,1
+"Lingaya's Vidyapeeth, Faridabad ",Law,3,"ChatGPT, Copilot",0.5,"Exam Prep, Notes",5,No,ChatGPT,6,No,Haryana,Tablet,High,1
+King George's Medical University ,Medical,2,"ChatGPT, Gemini, Copilot",4.2,"Doubt Solving, Resume Writing",3,Yes,ChatGPT,7,Yes,Uttar pradesh,Laptop,Poor,0
+"Vels Institute of Science, Technology & Advanced ",Medical,4,Gemini,2.5,"Assignments, Coding Help",5,No,Copilot,9,Yes,Tamil nadu,Mobile,Poor,0
+Dr Babasaheb Ambedkar Open University ,Science,4,"ChatGPT, Gemini, Copilot",4.1,"Doubt Solving, Resume Writing",5,No,Other,10,Yes,Gujarat,Mobile,Medium,0
+"Uttaranchal Institute of Management, Dehradun ",Commerce,4,Gemini,3.7,"Assignments, Project Work, Content Writing",3,Yes,Copilot,7,Yes,Uttarakhand,Mobile,Poor,1
+"Alagappa University, Karaikudi ",Agriculture,4,"Gemini, Midjourney",2.5,Content Writing,4,No,Copilot,9,Yes,Tamil nadu,Mobile,Poor,0
+Tezpur Medical College & Hospital ,Medical,4,ChatGPT,4.1,"Learning new topics, Coding Help",5,No,Copilot,3,No,Assam,Laptop,High,1
+International Institute of Information Technology ,Engineering,1,"ChatGPT, Copilot",0.7,"MCQ Practice, Projects",1,No,Copilot,9,Yes,Karnataka,Tablet,High,0
+"RKDF University, Ranchi ",Agriculture,3,Gemini,0.9,"Project Work, MCQ Practice, Exam Preparation",2,No,Bard,8,No,Jharkhand,Laptop,Poor,0
+"Sophia Polytechnic, Mumbai ",Hotel-management,4,ChatGPT,1.2,Learning new topics,3,No,ChatGPT,6,No,Maharashtra,Laptop,High,0
+"Mulund College of Commerce, Mumbai ",Commerce,2,"Gemini, Midjourney",0.9,Learning new topics,2,Yes,Other,9,Yes,Maharashtra,Laptop,Medium,0
+"Malwanchal University, Indore ",Pharmacy,4,Gemini,3.2,Exam Preparation,5,Yes,Bard,9,Yes,Madhya pradesh,Mobile,Poor,1
+Assam Rajiv Gandhi University of Cooperative Management ,Science,1,Gemini,1.8,Content Writing,4,No,Gemini,6,No,Assam,Laptop,Poor,1
+Rajendra Institute of Medical Sciences ,Medical,3,Gemini,4.9,"Resume Writing, Doubt Solving, Coding Help",1,No,Bard,3,Yes,Jharkhand,Laptop,High,0
+National Institute of Technology ,Science,1,Other,2.6,Project Work,1,No,Other,10,No,Arunachal pradesh,Tablet,Poor,1
+Krishna University ,Hotel-management,3,Copilot,2.1,"Doubt Solving, Resume Writing",4,Yes,Gemini,4,No,Andhra pradesh,Laptop,Medium,1
+Himalayan University ,Pharmacy,1,Other,3.9,"Content Writing, MCQ Practice",4,No,Copilot,4,Yes,Arunachal pradesh,Mobile,Poor,0
+"Junagadh Agricultural University, Junagadh ",Agriculture,4,Other,3.2,"Resume Writing, Exam Preparation",5,No,Claude,6,Yes,Gujarat,Mobile,Medium,1
+"Amity University, Gurgaon ",Engineering,2,Claude,1.6,Learning new topics,1,No,ChatGPT,9,No,Haryana,Mobile,Medium,1
+"Bhavik College of Management and Information Technology, ",Science,2,Other,1.9,"Learning new topics, Exam Preparation, Content Writing",4,Yes,Gemini,2,Yes,Chandigarh,Mobile,Medium,0
+National Institute of Technology ,Engineering,2,ChatGPT,0.9,"Exam Prep, Notes",4,No,Copilot,10,Yes,Delhi ncr,Tablet,Poor,0
+Amar Shaheed Baba Ajit Singh Jujhar Singh ,Pharmacy,4,"Gemini, Midjourney",2.2,Learning new topics,2,Yes,Other,1,Yes,Punjab,Laptop,Poor,1
+"Government Ram Bhajan Rai NES College, Jashpur ",Arts,1,Gemini,4.8,"Doubt Solving, Coding Help, MCQ Practice",1,No,Bard,5,Yes,Chhattisgarh,Mobile,Medium,1
+Government Degree College ,Arts,4,"ChatGPT, Gemini, Copilot",4.1,Learning new topics,4,Yes,Other,7,Yes,Jammu,Laptop,High,1
+Sri Guru Ram Das Institute of Dental ,Medical,4,"Gemini, Midjourney",2.8,Content Writing,4,No,Copilot,7,No,Punjab,Tablet,Medium,0
+"Swami Keshwanand Rajasthan Agricultural University, Bikaner ",Science,2,"Gemini, Midjourney",0.7,"Assignments, Coding Help",3,Yes,Other,2,No,Rajasthan,Mobile,High,1
+"Starex University, Gurgaon ",Agriculture,3,Other,1.4,"Project Work, Assignments, MCQ Practice",5,No,Claude,4,No,Delhi ncr,Laptop,High,0
+"Jagannath University, Jaipur ",Hotel-management,2,Claude,0.7,MCQ Practice,3,Yes,ChatGPT,1,Yes,Rajasthan,Tablet,Poor,0
+Nalanda Open University ,Law,2,ChatGPT,2.2,"Doubt Solving, Resume Writing",2,No,ChatGPT,2,Yes,Bihar,Mobile,Medium,1
+Bhagwan Mahavir University ,Hotel-management,1,Copilot,4.4,"Doubt Solving, Exam Preparation, Content Writing",2,No,Copilot,7,Yes,Gujarat,Laptop,Medium,0
+National Research Centre for Orchids ,Agriculture,2,Gemini,3.5,Learning new topics,4,No,Gemini,5,Yes,Sikkim,Tablet,Medium,1
+RJ School of Management Studies ,Commerce,3,ChatGPT,2.8,"MCQ Practice, Projects",1,No,ChatGPT,5,Yes,Orissa,Mobile,High,1
+"Akal College of Economics, Commerce and Management, ",Management,4,Bard,4.0,"Content Writing, MCQ Practice",2,Yes,Bard,4,Yes,Himachal pradesh,Tablet,High,0
+RK University ,Medical,1,Gemini,3.5,"Doubt Solving, Content Writing",4,No,Gemini,4,Yes,Gujarat,Laptop,Medium,1
+"Sai group of institutions, Dehradun ",Arts,4,Copilot,1.8,Content Writing,3,No,Other,9,No,Uttarakhand,Mobile,High,1
+Institute of Bioresources and Sustainable Development ,Science,2,"Gemini, Midjourney",1.9,"MCQ Practice, Projects",3,No,ChatGPT,9,Yes,Manipur,Laptop,High,0
+"Umshyrpi College, Shillong ",Commerce,3,"ChatGPT, Copilot",1.0,"Assignments, Coding Help",2,Yes,Other,2,Yes,Meghalaya,Laptop,Medium,1
+ICFAI Business School ,Science,4,Copilot,2.7,"MCQ Practice, Projects",3,No,Other,5,No,Telangana,Tablet,Poor,1
+"ISBM University, Raipur ",Law,4,"Gemini, Midjourney",1.0,"Assignments, Coding Help",1,No,Copilot,9,Yes,Chhattisgarh,Tablet,Medium,0
+Garden City University ,Hotel-management,3,"ChatGPT, Gemini, Copilot",1.3,Learning new topics,2,Yes,Gemini,6,No,Karnataka,Mobile,Medium,0
+"SRM University Delhi NCR, Sonepat ",Arts,4,Bard,0.7,"Assignments, Learning new topics",1,No,Copilot,10,No,Haryana,Mobile,Poor,1
+Kabi Nazrul Mahavidyalaya ,Arts,1,Gemini,4.9,"Learning new topics, MCQ Practice",1,No,Gemini,8,Yes,Tripura,Laptop,Poor,0
+Hidayatullah National Law University ,Law,3,Copilot,1.9,"Assignments, Resume Writing",2,No,ChatGPT,5,No,Chhattisgarh,Mobile,Poor,1
+University of Rajasthan ,Arts,2,ChatGPT,2.0,Learning new topics,1,Yes,ChatGPT,3,No,Rajasthan,Laptop,High,1
+"ICFAI University, Gangtok ",Arts,3,ChatGPT,1.0,"Assignments, Coding Help",3,Yes,ChatGPT,9,Yes,Sikkim,Tablet,Poor,1
+"Dr SRK Government Arts College, Yanam ",Science,4,Gemini,2.4,Project Work,3,Yes,Bard,2,No,Puducherry,Laptop,Poor,1
+"Varnika Hotel Management & Business Management, Visakhapatnam ",Hotel-management,2,Other,1.6,"Coding Help, MCQ Practice, Doubt Solving",4,Yes,ChatGPT,8,No,Andhra pradesh,Mobile,High,0
+Baba Balak Nath Post Graduate College ,Science,2,"ChatGPT, Copilot",1.5,Content Writing,4,Yes,Gemini,5,Yes,Himachal pradesh,Mobile,Medium,1
+"Handique Girls College, Guwahati ",Science,3,Gemini,1.6,Content Writing,2,Yes,Other,7,Yes,Assam,Tablet,Medium,1
+"Maharaja Bir Bikram College, Agartala ",Science,1,Gemini,2.1,"MCQ Practice, Projects",5,Yes,Other,9,Yes,Tripura,Laptop,Poor,1
+Assam Rajiv Gandhi University of Cooperative Management ,Law,2,ChatGPT,4.8,Coding Help,1,No,Claude,8,Yes,Assam,Mobile,Medium,1
+Nalanda Open University ,Agriculture,4,Copilot,1.9,"MCQ Practice, Projects",5,No,Gemini,5,Yes,Bihar,Tablet,Poor,1
+"Indus University, Ahmedabad ",Law,2,"ChatGPT, Copilot",2.6,"Doubt Solving, Resume Writing",4,No,Other,7,Yes,Gujarat,Tablet,High,1
+"AIMS College of Management and Technology, Anand ",Agriculture,4,"Gemini, Midjourney",3.3,Content Writing,1,Yes,Other,5,No,Gujarat,Mobile,High,0
+Jaintia Eastern College ,Commerce,3,Other,0.9,Exam Preparation,5,Yes,Copilot,6,Yes,Meghalaya,Mobile,Medium,1
+"Abeda Inamdar Senior College, Pune ",Arts,3,Claude,3.5,MCQ Practice,4,No,ChatGPT,6,No,Maharashtra,Laptop,Medium,0
+Bharati Vidyapeeth Deemed University ,Pharmacy,2,Other,1.7,"Coding Help, Resume Writing, Content Writing",2,No,Claude,5,No,Maharashtra,Tablet,Medium,0
+"Narayana Medical College and Hospital, Nellore ",Medical,3,Copilot,0.6,"MCQ Practice, Projects",3,No,Other,5,No,Andhra pradesh,Mobile,Poor,1
+"Patna College, Patna ",Management,1,Other,4.1,"Coding Help, Project Work, Exam Preparation",3,Yes,Copilot,4,Yes,Bihar,Mobile,Poor,1
+Siva Sivani Institute of Management ,Science,1,Gemini,0.5,Content Writing,1,No,Other,7,No,Telangana,Mobile,Medium,0
+"Monad University, Hapur ",Agriculture,4,Claude,2.0,Exam Preparation,4,No,ChatGPT,7,No,Uttar pradesh,Laptop,Medium,1
+Sardar Vallabhbhai National Institute of Technology ,Engineering,2,Gemini,2.8,Doubt Solving,2,No,Gemini,8,Yes,Gujarat,Mobile,Medium,1
+Indian Institute of Horticultural Research ,Agriculture,1,Gemini,4.2,"Exam Prep, Notes",2,Yes,Gemini,8,Yes,Karnataka,Laptop,High,1
+Sri Venkateswara University ,Pharmacy,3,"Gemini, Midjourney",2.9,"Assignments, Coding Help",5,Yes,ChatGPT,1,No,Andhra pradesh,Laptop,High,1
+"Girijananda Chowdhury Institute of Management & Technology, ",Management,3,Copilot,1.1,"MCQ Practice, Projects",3,No,Gemini,2,Yes,Assam,Laptop,Poor,0
+Sam Higginbottom University of Agriculture Technology and ,Commerce,2,"Gemini, Midjourney",3.9,"Assignments, Coding Help",4,No,Gemini,8,Yes,Uttar pradesh,Mobile,High,1
+"Mahila Vidyalaya PG College, Lucknow ",Arts,3,Bard,0.6,"Project Work, Doubt Solving, Exam Preparation",1,Yes,Bard,3,No,Uttar pradesh,Mobile,Poor,0
+Maharshi Dayanand University ,Arts,3,Copilot,2.2,Learning new topics,2,No,Copilot,6,Yes,Haryana,Tablet,Medium,1
+William Carey University ,Arts,4,ChatGPT,2.1,"MCQ Practice, Projects",1,Yes,Other,8,Yes,Meghalaya,Mobile,Medium,1
+"Acharya Shri Chander College of Medical Sciences, ",Medical,3,Bard,1.3,"Assignments, MCQ Practice, Resume Writing",1,No,Other,9,Yes,Jammu,Mobile,Medium,1
+"PCTE Group of Institutes, Ludhiana ",Management,4,"ChatGPT, Gemini, Copilot",1.1,"Doubt Solving, Resume Writing",4,No,ChatGPT,6,Yes,Punjab,Mobile,High,1
+"MVJ Medical College and Research Hospital, Hoskote ",Agriculture,1,Claude,1.7,Resume Writing,4,Yes,Bard,7,Yes,Karnataka,Laptop,High,0
+Guru Jambheshwar University of Science and Technology ,Medical,3,Gemini,3.2,Assignments,4,No,Copilot,9,Yes,Haryana,Tablet,Medium,0
+Assam Down Town University ,Engineering,1,Copilot,1.0,Exam Preparation,2,Yes,Copilot,9,No,Assam,Laptop,Medium,1
+"Bimala Prasad Chaliha College, Kamrup ",Science,4,Copilot,1.8,Learning new topics,1,No,ChatGPT,6,No,Assam,Tablet,High,0
+IEC University Baddi ,Engineering,4,Other,1.9,"Doubt Solving, MCQ Practice",1,Yes,Gemini,1,No,Himachal pradesh,Mobile,Medium,1
+"Arya Post Graduate College, Panipat ",Science,1,Copilot,2.9,"Assignments, Coding Help",4,Yes,Copilot,5,No,Haryana,Tablet,Poor,0
+"Chitkara School of Hospitality -[CSH], Chandigarh ",Hotel-management,3,"Gemini, Midjourney",0.8,Learning new topics,2,No,ChatGPT,8,No,Haryana,Laptop,High,0
+Shri Guru Ram Rai University ,Agriculture,3,Other,0.7,Learning new topics,1,No,Gemini,3,No,Uttarakhand,Tablet,Medium,1
+"Seacom Engineering College, Howrah ",Hotel-management,4,"ChatGPT, Copilot",2.4,"Exam Prep, Notes",4,Yes,Other,9,Yes,West bengal,Laptop,Poor,1
+"Govt Degree College Women, Srikakulam ",Medical,1,"Gemini, Midjourney",1.6,"Doubt Solving, Resume Writing",5,Yes,Other,7,No,Andhra pradesh,Tablet,High,1
+Dev Bhoomi Group of Institutions ,Arts,2,Bard,2.2,"Resume Writing, Project Work, MCQ Practice",2,Yes,Bard,3,Yes,Uttarakhand,Laptop,Poor,1
+Hindustan College of Engineering ,Engineering,1,ChatGPT,1.2,Exam Preparation,4,Yes,Claude,10,Yes,Kerala,Mobile,High,1
+"St Teresa's College (Autonomous), Ernakulam ",Commerce,3,ChatGPT,0.7,"Exam Prep, Notes",3,Yes,Other,3,Yes,Kerala,Laptop,Poor,1
+"J.C. Bose University Of Science And Technology, ",Science,3,Copilot,1.2,"Coding Help, Content Writing",1,Yes,Gemini,10,Yes,Haryana,Mobile,High,1
+Veer Surendra Sai University of Technology ,Science,3,Gemini,3.0,"Content Writing, MCQ Practice",5,Yes,Bard,5,Yes,Orissa,Tablet,Medium,0
+"Rayat Bahra Group of Institutions: Ropar Campus, ",Law,2,Other,3.0,"Project Work, MCQ Practice",5,No,Other,6,No,Punjab,Tablet,High,1
+"Jagannath University, Bahadurgarh ",Medical,3,Bard,4.2,"Content Writing, Exam Preparation, MCQ Practice",5,Yes,Copilot,8,No,Haryana,Tablet,High,1
+Central Institute of Temperate Horticultural ,Science,2,Gemini,3.4,"Doubt Solving, MCQ Practice, Project Work",2,Yes,Claude,3,No,Jammu,Laptop,High,0
+"DAV College, Jalandhar ",Commerce,4,Gemini,3.8,"Exam Prep, Notes",3,Yes,Copilot,6,Yes,Punjab,Laptop,Medium,1
+Himgiri Zee University ,Arts,3,Claude,2.3,MCQ Practice,4,No,Other,3,No,Uttarakhand,Tablet,Medium,0
+Sri Sri University ,Arts,3,Gemini,1.9,"Assignments, Coding Help",1,Yes,Other,9,No,Orissa,Mobile,Medium,0
+Sri Guru Gobind Singh College ,Arts,1,ChatGPT,0.8,Doubt Solving,2,Yes,Other,6,No,Chandigarh,Laptop,Medium,1
+Bidhan Chandra Krishi Viswavidyalaya ,Agriculture,2,Copilot,0.8,Content Writing,5,Yes,Other,6,No,West bengal,Tablet,Medium,0
+Acharya Nagarjuna University ,Agriculture,3,"Gemini, Midjourney",3.2,"Assignments, Coding Help",3,Yes,Other,1,Yes,Andhra pradesh,Tablet,High,1
+Doon Business School ,Management,4,ChatGPT,0.6,"Content Writing, Resume Writing, MCQ Practice",4,No,Other,7,Yes,Uttarakhand,Mobile,High,0
+"Government Saiha College, Saiha ",Arts,4,Other,0.7,"Content Writing, Learning new topics",1,Yes,Gemini,8,Yes,Mizoram,Mobile,Poor,1
+Darbhanga College of Engineering ,Engineering,2,"Gemini, Midjourney",2.6,Learning new topics,1,Yes,ChatGPT,5,Yes,Bihar,Mobile,High,1
+Shershah College of Engineering ,Engineering,2,Gemini,3.2,"Coding Help, Project Work, Assignments",3,Yes,Gemini,10,Yes,Bihar,Tablet,Poor,1
+Mangalayatan University ,Medical,3,Bard,2.7,"Resume Writing, Assignments, MCQ Practice",5,Yes,Copilot,3,No,Uttar pradesh,Laptop,Medium,1
+"Lalit Chandra Bharali College, Guwahati ",Science,3,Gemini,4.6,Coding Help,5,No,Bard,9,No,Assam,Mobile,Medium,0
+Sardar Patel University ,Law,2,"ChatGPT, Gemini, Copilot",3.7,"Doubt Solving, Resume Writing",5,Yes,Copilot,4,Yes,Gujarat,Laptop,High,0
+Career Point University ,Agriculture,2,Gemini,2.0,"Assignments, Coding Help",4,No,Other,9,Yes,Rajasthan,Mobile,Medium,1
+Indian Institute of Technology Madras ,Engineering,3,"ChatGPT, Gemini, Copilot",4.1,"MCQ Practice, Projects",2,Yes,Gemini,7,No,Tamil nadu,Laptop,Poor,1
+"Patliputra University, Patna ",Law,1,ChatGPT,3.1,"Doubt Solving, Resume Writing, Assignments",5,Yes,ChatGPT,10,No,Bihar,Tablet,Medium,0
+Goswami Ganesh Dutt Sanatan Dharama College ,Science,2,Copilot,3.1,Content Writing,5,No,ChatGPT,9,No,Punjab,Laptop,Medium,1
+"MATS University, Raipur ",Commerce,4,ChatGPT,3.6,Assignments,5,No,Other,8,Yes,Chhattisgarh,Tablet,High,0
+"Directorate of Distance Education, University Of Kashmir, ",Commerce,4,Gemini,0.8,"Exam Prep, Notes",3,Yes,ChatGPT,8,No,Jammu,Laptop,Medium,1
+Sardarkrushinagar Dantiwada Agricultural University ,Agriculture,2,Claude,1.9,"Exam Preparation, Coding Help, Learning new topics",5,Yes,Copilot,2,No,Gujarat,Tablet,High,1
+"Shailesh J. Mehta School of Management, IIT ",Management,3,"Gemini, Midjourney",2.1,"MCQ Practice, Projects",2,Yes,ChatGPT,10,No,Maharashtra,Laptop,Poor,1
+"Government Medical College, Kottayam ",Pharmacy,1,ChatGPT,1.5,Content Writing,2,Yes,Other,1,Yes,Kerala,Laptop,Medium,1
+"Amity University, Gurgaon ",Management,3,Copilot,0.7,"Coding Help, Project Work, Content Writing",1,No,Claude,7,Yes,Haryana,Mobile,High,1
+"Modern College of Pharmacy Nigdi, Pune ",Pharmacy,1,Other,1.4,Doubt Solving,4,Yes,Other,3,No,Maharashtra,Tablet,High,0
+Emeralds Degree and PG College ,Commerce,3,ChatGPT,4.0,"Doubt Solving, MCQ Practice",2,Yes,Bard,3,No,Andhra pradesh,Tablet,Medium,1
+"Teerthanker Mahaveer University, College of Architecture ",Medical,4,ChatGPT,4.5,"MCQ Practice, Projects",2,No,Copilot,1,Yes,Uttar pradesh,Tablet,Medium,1
+Shri Rawatpura Sarkar University ,Pharmacy,4,Other,4.8,MCQ Practice,5,No,Bard,10,Yes,Chhattisgarh,Mobile,Poor,1
+St Francis De Sales College ,Arts,3,Claude,3.6,Resume Writing,3,No,Copilot,8,No,Maharashtra,Tablet,Poor,0
+Belagavi Institute of Medical Sciences ,Science,4,Bard,3.9,"Coding Help, Project Work",4,No,Copilot,2,Yes,Karnataka,Mobile,High,0
+Amrapali Group of Institutes ,Commerce,1,ChatGPT,1.1,Learning new topics,1,No,Copilot,8,No,Uttarakhand,Mobile,Medium,1
+"PG Government College for Girls, Chandigarh ",Commerce,3,"Gemini, Midjourney",2.9,"MCQ Practice, Projects",5,No,ChatGPT,9,No,Chandigarh,Tablet,Poor,0
+"Pandit Sant Ram Government College, Kangra ",Commerce,1,ChatGPT,3.4,Exam Preparation,2,No,Claude,6,Yes,Himachal pradesh,Laptop,Poor,0
+"Indira Gandhi Institute of Pharmaceutical Sciences, Bhubaneswar ",Pharmacy,3,Other,1.3,"Assignments, Coding Help",4,Yes,ChatGPT,9,No,Orissa,Laptop,Poor,1
+"Maharaja Bir Bikram University, Agartala ",Arts,2,Bard,4.3,Assignments,3,No,Claude,9,No,Tripura,Tablet,High,1
+College of Veterinary and Animal Sciences ,Medical,1,Claude,1.1,"Coding Help, MCQ Practice, Resume Writing",3,Yes,Other,6,No,Rajasthan,Mobile,Poor,0
+"Cochin University of Science and Technology, School ",Law,3,ChatGPT,2.6,"MCQ Practice, Projects",2,No,Gemini,3,No,Kerala,Mobile,Medium,1
+"Pachhunga University College, Aizawl ",Arts,4,Gemini,4.7,"Assignments, Doubt Solving",3,Yes,Copilot,5,No,Mizoram,Tablet,Medium,1
+Army Institute of Technology ,Engineering,1,"ChatGPT, Gemini, Copilot",1.3,"MCQ Practice, Projects",3,Yes,Other,10,No,Maharashtra,Laptop,Poor,0
+"St. Albert's College, Ernakulam ",Commerce,2,Bard,2.9,"Learning new topics, Coding Help, Project Work",3,No,Bard,10,No,Kerala,Tablet,Medium,1
+Goswami Ganesh Dutt Sanatan Dharama College ,Arts,3,ChatGPT,2.8,"Assignments, Project Work",4,No,Copilot,8,No,Punjab,Laptop,High,0
+Symbiosis Institute of Business Management ,Management,1,"ChatGPT, Copilot",0.5,"Exam Prep, Notes",2,Yes,Other,6,Yes,Maharashtra,Mobile,Medium,0
+"OPJS University, Churu ",Pharmacy,3,Gemini,1.4,Learning new topics,5,No,Other,4,No,Rajasthan,Mobile,Medium,0
+"Faculty of Management Studies, Manav Rachna International ",Hotel-management,1,"ChatGPT, Gemini, Copilot",3.0,"Exam Prep, Notes",4,Yes,Copilot,8,No,Haryana,Laptop,Medium,1
+Dr. Ambedkar Institute of Technology ,Engineering,4,ChatGPT,1.3,"MCQ Practice, Projects",1,No,Copilot,1,No,Karnataka,Laptop,Poor,0
+Mahatma Gandhi Institute of Medical Sciences ,Pharmacy,1,"ChatGPT, Gemini, Copilot",3.7,Learning new topics,2,Yes,ChatGPT,8,No,Maharashtra,Tablet,Poor,1
+"KLE University, Belgaum ",Medical,4,Copilot,1.6,"Doubt Solving, Resume Writing",4,No,Gemini,5,No,Karnataka,Laptop,Medium,0
+North East Frontier Technical University ,Management,2,Bard,2.5,"Learning new topics, Resume Writing",4,No,Copilot,4,Yes,Arunachal pradesh,Mobile,Poor,0
+Seacom Skills University ,Engineering,1,"ChatGPT, Copilot",0.9,"Assignments, Coding Help",4,No,Copilot,3,Yes,West bengal,Laptop,Medium,0
+Kakatiya University ,Commerce,3,ChatGPT,1.0,Project Work,2,Yes,Claude,4,Yes,Telangana,Mobile,Medium,1
+Manav Rachna International Institute of Research and ,Arts,1,ChatGPT,2.4,"Coding Help, Exam Preparation, Resume Writing",2,No,Gemini,1,Yes,Delhi ncr,Tablet,Medium,0
+"Ghanshyam Singh Arya Kanya Mahavidyalaya, Durg ",Commerce,3,Copilot,2.6,"Content Writing, Learning new topics",5,No,ChatGPT,5,Yes,Chhattisgarh,Mobile,Poor,1
+I.K. Gujral Punjab Technical University ,Science,2,Other,1.6,"MCQ Practice, Project Work",1,No,Other,7,No,Punjab,Tablet,Poor,1
+Dr. SNS Rajalakshmi College of Arts and ,Commerce,1,"Gemini, Midjourney",1.1,"MCQ Practice, Projects",1,Yes,Gemini,2,No,Tamil nadu,Laptop,Poor,1
+National Research Centre on Mithun ,Science,4,Gemini,3.9,"Content Writing, Exam Preparation",3,No,Bard,5,Yes,Nagaland,Mobile,High,1
+Aarupadai Veedu Medical College ,Medical,4,ChatGPT,1.1,Learning new topics,2,No,Other,3,Yes,Puducherry,Tablet,Medium,0
+Sri Ramachandra Institute of Higher Education and ,Medical,3,"ChatGPT, Gemini, Copilot",3.2,"Assignments, Coding Help",3,Yes,Gemini,7,No,Tamil nadu,Mobile,Medium,1
+Martin Luther Christian University ,Arts,1,Copilot,4.9,"Learning new topics, Project Work",2,Yes,Claude,6,Yes,Meghalaya,Laptop,Medium,0
+National Institute of Technology ,Science,1,"ChatGPT, Copilot",3.2,Learning new topics,4,No,ChatGPT,10,No,Andhra pradesh,Tablet,Poor,1
+Dr. Pinnamaneni Siddhartha Institute of Medical Sciences ,Medical,4,ChatGPT,1.8,Learning new topics,4,No,Copilot,7,Yes,Andhra pradesh,Laptop,Poor,1
+"Narayan Zantye College of Commerce, North Goa ",Management,3,Bard,4.3,"Exam Preparation, Resume Writing, Doubt Solving",4,No,Claude,3,No,Goa,Laptop,Medium,1
+Byramjee Jeejeebhoy Government Medical College ,Medical,4,"Gemini, Midjourney",4.1,"Assignments, Coding Help",2,No,Other,1,No,Maharashtra,Mobile,Medium,1
+"Madanapalle Institute of Technology & Science, Madanapalle ",Arts,1,"ChatGPT, Gemini, Copilot",0.6,"Assignments, Coding Help",2,No,Other,8,Yes,Andhra pradesh,Tablet,High,0
+"Vinayakrao Patil Mahavidyalaya, Aurangabad ",Arts,2,Claude,2.2,"Assignments, MCQ Practice, Exam Preparation",3,Yes,ChatGPT,10,No,Maharashtra,Laptop,Poor,1
+Punjab Agricultural University ,Arts,2,Copilot,0.9,Content Writing,3,Yes,Other,4,No,Punjab,Laptop,Poor,0
+"Shree Devi College of Hotel Management, Mangalore ",Hotel-management,2,"ChatGPT, Gemini, Copilot",1.2,"Doubt Solving, Resume Writing",1,No,Gemini,2,Yes,Karnataka,Mobile,Poor,0
+"SASTRA University, Thanjavur ",Engineering,2,Other,4.1,Doubt Solving,4,Yes,Copilot,2,Yes,Tamil nadu,Mobile,High,1
+Royal Global University ,Engineering,3,Other,4.5,"Coding Help, Doubt Solving, Project Work",2,No,Gemini,10,No,Assam,Tablet,High,1
+"Department of Laws Panjab University, Chandigarh ",Law,2,ChatGPT,2.8,Learning new topics,2,No,Gemini,10,No,Chandigarh,Laptop,High,1
+"Deen Dayal Upadhyaya College, New Delhi ",Arts,3,"ChatGPT, Gemini, Copilot",3.1,"Assignments, Coding Help",4,Yes,Gemini,3,Yes,Delhi ncr,Laptop,Poor,1
+Rabindranath Tagore University ,Science,3,Gemini,2.6,"Learning new topics, Doubt Solving, Exam Preparation",3,No,Gemini,4,No,Madhya pradesh,Tablet,High,1
+"Government Maharani Laxmi Bai Girls PG College, ",Arts,2,Bard,4.4,"MCQ Practice, Learning new topics",5,Yes,Other,4,Yes,Madhya pradesh,Laptop,Medium,1
+Rajiv Gandhi University ,Commerce,1,Claude,4.5,"Assignments, Learning new topics",1,No,Copilot,5,Yes,Arunachal pradesh,Mobile,High,1
+"Dina Institute of Hotel Management Hadapsar, Pune ",Hotel-management,1,"ChatGPT, Gemini, Copilot",3.4,Learning new topics,2,Yes,Copilot,4,Yes,Maharashtra,Mobile,Poor,1
+"Bennett University, Greater Noida ",Engineering,3,Gemini,1.2,Learning new topics,5,Yes,Claude,6,Yes,Uttar pradesh,Laptop,Medium,0
+Symbiosis Law School ,Law,4,Other,0.8,Resume Writing,2,No,Other,6,Yes,Maharashtra,Tablet,Medium,0
+Indian Institute of Technology ,Science,2,Copilot,3.0,"MCQ Practice, Exam Preparation",3,No,Gemini,9,Yes,Uttarakhand,Mobile,Medium,1
+Birla Institute of Technology and Science ,Arts,1,Copilot,1.1,Learning new topics,2,No,Gemini,5,No,Goa,Tablet,Poor,0
+"Faculty of Applied Sciences and Biotechnology, Shoolini ",Science,4,"ChatGPT, Gemini, Copilot",3.9,"MCQ Practice, Projects",4,Yes,Copilot,7,Yes,Himachal pradesh,Laptop,Poor,0
+"Amazon Institute of Hotel Tourism and Management, ",Hotel-management,3,"ChatGPT, Gemini, Copilot",2.9,"Assignments, Coding Help",5,Yes,ChatGPT,4,No,Uttarakhand,Tablet,High,1
+Graphic Era Hill University ,Arts,4,Gemini,1.4,"MCQ Practice, Resume Writing, Content Writing",5,Yes,Other,10,No,Uttarakhand,Tablet,Poor,1
+"OPJS University, Churu ",Pharmacy,3,"ChatGPT, Gemini, Copilot",1.9,Learning new topics,5,No,Gemini,2,No,Rajasthan,Mobile,Poor,0
+"Jaipuria Institute of Management, Jaipur ",Management,1,Copilot,4.4,"Doubt Solving, Resume Writing",5,No,Gemini,3,Yes,Rajasthan,Laptop,Poor,1
+"University Institute of Technology, University Of Burdwan ",Engineering,4,Gemini,3.3,"MCQ Practice, Projects",2,No,ChatGPT,9,No,West bengal,Tablet,Medium,1
+Government Degree College (Men) ,Commerce,1,ChatGPT,1.4,Learning new topics,1,Yes,ChatGPT,8,Yes,Andhra pradesh,Mobile,Medium,1
+Shaheed Rajguru College of Applied Sciences for ,Science,4,ChatGPT,1.7,Exam Preparation,4,No,Other,7,No,Delhi ncr,Mobile,High,1
+North Eastern Regional Institute of Science and Technology ,Science,1,"Gemini, Midjourney",3.5,"Exam Prep, Notes",2,No,Other,1,No,Arunachal pradesh,Mobile,Medium,0
+Goswami Ganesh Dutt Sanatan Dharama College ,Arts,4,Claude,3.3,Learning new topics,2,No,Bard,6,Yes,Chandigarh,Laptop,Poor,1
+"SGT University, Gurgaon ",Agriculture,4,Claude,1.9,"Coding Help, Project Work, Assignments",1,Yes,Gemini,7,No,Haryana,Tablet,Medium,1
+"Banasthali Vidyapith, Jaipur ",Science,1,Copilot,2.6,"Doubt Solving, Resume Writing",5,Yes,Other,7,Yes,Rajasthan,Laptop,Medium,1
+"Amity University, Kolkata ",Hotel-management,2,ChatGPT,1.0,"Assignments, Coding Help",3,Yes,Other,4,No,West bengal,Mobile,Poor,1
+"Integral University, Lucknow ",Medical,4,Claude,4.0,"Project Work, Content Writing",1,No,Bard,6,No,Uttar pradesh,Tablet,High,1
+"D.L.S. P.G. College, Bilaspur ",Medical,2,Claude,3.4,"Content Writing, Assignments",4,Yes,ChatGPT,8,Yes,Chhattisgarh,Tablet,Medium,0
+Shri Ram College of Commerce ,Arts,4,Bard,3.4,"Learning new topics, Resume Writing, Coding Help",4,Yes,Other,1,Yes,Delhi ncr,Tablet,High,0
+Baba Ghulam Shah Badshah University ,Management,2,Claude,2.1,Assignments,5,No,Other,1,Yes,Jammu,Laptop,Poor,0
+"Wings Business School, Tirupati ",Management,4,Copilot,1.2,"Exam Preparation, MCQ Practice, Learning new topics",4,Yes,ChatGPT,1,No,Andhra pradesh,Mobile,Poor,1
+Barkatullah University ,Arts,4,"ChatGPT, Copilot",0.5,Learning new topics,4,Yes,ChatGPT,3,No,Madhya pradesh,Tablet,Poor,1
+"INMANTEC Institutions, Ghaziabad ",Pharmacy,2,ChatGPT,1.8,Project Work,1,No,ChatGPT,10,No,Uttar pradesh,Mobile,High,1
+Arunachal University of Studies ,Management,1,Gemini,2.5,"Doubt Solving, Coding Help",4,No,Gemini,6,No,Arunachal pradesh,Mobile,Medium,0
+Institute of Hotel Management ,Hotel-management,2,ChatGPT,1.7,"MCQ Practice, Projects",1,No,Copilot,10,Yes,Bihar,Laptop,Poor,1
+Indus International University ,Commerce,4,Other,3.9,"Learning new topics, MCQ Practice",2,No,Claude,1,No,Himachal pradesh,Laptop,Poor,0
+"Parvatibai Chowgule College of Arts and Science, Salcete ",Science,1,ChatGPT,4.9,"Learning new topics, Project Work, Coding Help",4,Yes,ChatGPT,4,No,Goa,Laptop,Poor,0
+RP Inderaprastha Institute of Technology ,Hotel-management,2,Gemini,0.9,"Assignments, Coding Help",3,Yes,Copilot,5,No,Haryana,Mobile,Medium,1
+K L University Business School ,Management,1,Gemini,4.5,"Learning new topics, Exam Preparation, MCQ Practice",3,Yes,Bard,10,No,Andhra pradesh,Mobile,Poor,1
+Modern Vidya Niketan ,Management,2,Gemini,2.7,"Learning new topics, Assignments, Exam Preparation",3,Yes,Other,9,No,Haryana,Mobile,High,1
+Graphic Era Hill University ,Engineering,2,ChatGPT,2.4,Coding Help,1,No,ChatGPT,4,Yes,Uttarakhand,Mobile,Medium,1
+Manipal Academy of Higher Education ,Management,2,Copilot,3.5,"Learning new topics, Assignments, Coding Help",4,No,Copilot,2,No,Karnataka,Laptop,High,0
+"Government College of Arts Science and Commerce Sanquelim, North Goa ",Science,4,Other,4.2,Exam Preparation,3,No,Copilot,2,Yes,Goa,Laptop,High,1
+Sardar Bhagwan Singh University ,Commerce,4,ChatGPT,4.1,Doubt Solving,2,No,Gemini,7,No,Uttarakhand,Laptop,Poor,1
+"KK College of Engineering and Management, Dhanbad ",Engineering,4,Copilot,1.4,"MCQ Practice, Projects",2,Yes,Other,10,Yes,Jharkhand,Mobile,High,1
+"IIKM Business School, Chennai ",Management,1,"ChatGPT, Copilot",1.3,"Exam Prep, Notes",2,No,Other,3,No,Tamil nadu,Mobile,Medium,0
+Dr. SNS Rajalakshmi College of Arts and ,Hotel-management,3,ChatGPT,2.6,"MCQ Practice, Projects",4,Yes,ChatGPT,6,No,Tamil nadu,Laptop,High,1
+K L University ,Arts,4,Bard,3.6,"MCQ Practice, Exam Preparation, Learning new topics",4,Yes,ChatGPT,7,Yes,Andhra pradesh,Laptop,Poor,1
+Academy of Maritime Education and Training University ,Law,2,"Gemini, Midjourney",4.4,Content Writing,1,No,Copilot,10,Yes,Tamil nadu,Mobile,High,1
+Cluster University of Srinagar ,Engineering,3,Claude,3.0,"Project Work, Learning new topics",3,No,Copilot,5,Yes,Jammu,Mobile,Poor,1
+"Institute of Hotel Management Shri Shakti- [IHM], ",Hotel-management,3,"ChatGPT, Copilot",3.4,"Doubt Solving, Resume Writing",4,No,Other,5,Yes,Telangana,Mobile,High,1
+Indian Institute of Technology ,Arts,2,Other,5.0,"Assignments, Project Work, Exam Preparation",3,No,Copilot,10,Yes,Uttar pradesh,Laptop,Medium,1
+Guru Nanak Institute of Technology ,Pharmacy,1,Other,4.4,"Project Work, Assignments",2,No,Bard,8,No,Haryana,Mobile,High,1
+Dr GR Damodaran College of Science ,Arts,1,Other,3.8,"Resume Writing, MCQ Practice, Project Work",5,Yes,Gemini,2,No,Tamil nadu,Laptop,Medium,1
+Shri Rawatpura Sarkar University ,Hotel-management,3,ChatGPT,1.9,Project Work,4,No,Claude,9,Yes,Chhattisgarh,Laptop,Medium,0
+"Dnyanprassarak Mandal's College of Arts Science Commerce Management Studies & Technology, Bardez ",Commerce,2,Gemini,4.3,"Coding Help, Resume Writing, Exam Preparation",1,No,Gemini,2,Yes,Goa,Tablet,Medium,1
+Walchand College of Engineering ,Engineering,4,Copilot,1.1,MCQ Practice,2,No,ChatGPT,2,Yes,Maharashtra,Tablet,Medium,0
+United School of Business Management ,Management,3,Other,4.9,"Content Writing, Project Work, MCQ Practice",3,No,Gemini,8,Yes,Orissa,Tablet,Poor,1
+"Jamnalal Bajaj Institute of Management Studies -[JBIMS], ",Science,1,"ChatGPT, Gemini, Copilot",3.6,"Assignments, Coding Help",3,No,Gemini,10,Yes,Maharashtra,Tablet,Medium,0
+Carreograph Institute of Management Studies ,Pharmacy,2,ChatGPT,1.5,"Exam Preparation, Coding Help",4,No,Copilot,6,Yes,West bengal,Laptop,High,1
